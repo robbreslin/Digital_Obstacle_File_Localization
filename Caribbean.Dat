@@ -1,0 +1,1536 @@
+  CURRENCY DATE = 02/18/24
+                                     LATITUDE    LONGITUDE     OBSTACLE            AGL   AMSL LT ACC MAR FAA         ACTION
+OAS#      V CO ST CITY            DEG MIN SEC   DEG MIN SEC   TYPE                 HT    HT     H V IND STUDY           JDATE
+-------------------------------------------------------------------------------------------------------------------------------
+AG-000502 O AG    ANTIGUA/BARBUDA  17 05 52.00N 061 51 15.00W TOWER              7 00250 00300 L 9 I U                A 1996351 
+AG-000503 O AG    ANTIGUA/BARBUDA  17 06 34.00N 061 49 17.00W TOWER              1 00230 00550 L 9 I U                A 1996351 
+AG-000504 O AG    ANTIGUA/BARBUDA  17 08 32.00N 061 47 53.00W TOWER              1 00210 00375 L 9 I U                A 1996351 
+AG-000505 O AG    ANTIGUA/BARBUDA  17 09 40.00N 061 47 40.00W TOWER              3 00253 00300 L 9 I U                A 1996351 
+AG-000668 O AG    ANTIGUA          17 06 15.00N 061 47 31.00W TOWER              1 00270 00370 U 4 D U                C 2006218 
+AG-000669 O AG    ANTIGUA          17 06 11.99N 061 47 33.36W TOWER              1 00270 00290 U 3 D U                C 2020147 
+AG-000670 O AG    ANTIGUA          17 06 07.58N 061 47 35.99W TOWER              1 00254 00290 U 3 D U                C 2020147 
+AG-000671 O AG    ANTIGUA          17 06 02.56N 061 47 39.21W TOWER              1 00215 00237 U 3 D U                C 2020147 
+AG-000672 O AG    ANTIGUA          17 06 00.00N 061 48 00.65W TOWER              1 00250 00297 U 3 E U                C 2020147 
+AG-000673 O AG    ANTIGUA          17 05 59.28N 061 47 49.09W TOWER              1 00250 00275 U 3 E U                C 2020147 
+AG-000674 O AG    ANTIGUA          17 05 57.33N 061 47 54.94W TOWER              1 00250 00287 U 3 E U                C 2020147 
+AG-020001 O AG    ANTIGUA AND BARB 17 08 55.00N 061 49 50.00W TOWER              1 00200 00550 L 9 I U                A 2008191 
+AG-020002 O AG    ANTIGUA AND BARB 17 03 29.74N 061 50 32.79W TOWER              1 00326 01381 L 2 D U                C 2018194 
+AG-020003 O AG    ANTIGUA AND BARB 17 08 55.00N 061 48 57.00W TOWER              1 00331 00590 L 9 C U                A 2008191 
+AG-020004 O AG    ANTIGUA AND BARB 17 08 52.19N 061 50 55.87W TOWER              1 00224 00231 U 9 I U                C 2017334 
+AG-020005 O AG    ANTIGUA AND BARB 17 08 27.00N 061 50 20.00W STACK              1 00217 00280 U 9 C U                A 2012173 
+AG-020006 O AG    ANTIGUA AND BARB 17 08 27.00N 061 50 19.00W STACK              1 00217 00280 U 9 C U                A 2012173 
+AG-020007 O AG    ANTIGUA AND BARB 17 08 52.00N 061 49 58.00W T-L TWR            1 00229 00566 U 9 C U                A 2012173 
+AG-020008 O AG    ANTIGUA AND BARB 17 08 52.00N 061 49 59.00W T-L TWR            1 00229 00566 U 9 C U                A 2012173 
+AG-020009 O AG    ANTIGUA AND BARB 17 04 00.40N 061 52 07.54W TOWER              1 00200 00445 U 2 D U                A 2017328 
+AG-020010 O AG    ANTIGUA AND BARB 17 05 13.39N 061 46 23.73W TOWER              1 00204 00342 U 3 E U                A 2017335 
+AG-020011 O AG    ANTIGUA AND BARB 17 04 35.23N 061 52 24.70W TOWER              1 00215 00226 U 2 D U                A 2017335 
+AG-020012 O AG    ANTIGUA AND BARB 17 01 50.50N 061 46 15.43W TOWER              1 00265 00850 U 2 D U                A 2017335 
+AG-020013 O AG    ANTIGUA AND BARB 17 08 34.99N 061 47 36.76W TOWER              1 00212 00339 U 2 C U                A 2017335 
+AG-020014 O AG    ANTIGUA AND BARB 17 08 52.64N 061 49 57.58W TOWER              1 00290 00626 U 2 D U                C 2020148 
+AG-020015 O AG    ANTIGUA AND BARB 17 09 17.33N 061 47 41.20W TOWER              1 00325 00409 U 2 C U                A 2017338 
+AG-020017 O AG    ANTIGUA AND BARB 17 02 30.62N 061 51 47.13W TOWER              1 00610 01464 U 2 D U                A 2018236 
+AG-020018 O AG    ANTIGUA          17 02 28.10N 061 42 07.49W TOWER              1 00199 00484 U 3 E U                A 2020147 
+AG-020019 O AG    ANTIGUA          17 07 25.96N 061 48 22.25W T-L TWR            1 00308 00373 U 2 D U                A 2020147 
+AG-020020 O AG    ANTIGUA          17 06 01.29N 061 47 43.26W TOWER              1 00201 00222 U 3 E U                A 2020147 
+AI-000001 O AI    ANGUILLA         18 13 02.21N 063 03 54.72W TOWER              1 00115 00334 N 1 C N                C 2021165 
+AI-000006 O AI    ANGUILLA         18 12 44.69N 063 03 10.42W TOWER              1 00232 00327 N 9 C N                C 2017093 
+AW-000555 O AW    NETH. ANTILLES   12 25 27.00N 069 53 30.00W STACK              1 00300 00310 U 9 I U                A 1997041 
+AW-000556 O AW    NETH. ANTILLES   12 25 50.00N 069 53 49.00W STACK              1 00300 00320 U 9 I U                A 1997041 
+AW-000557 O AW    NETH. ANTILLES   12 30 50.00N 069 59 25.00W TOWER              1 00386 00551 U 9 I U                A 1997041 
+AW-000558 O AW    NETH. ANTILLES   12 32 10.00N 070 01 45.00W TOWER              1 00223 00283 L 9 I U                A 1997041 
+CU-000078 O CU    CUBA             19 53 59.00N 077 21 34.00W TOWER              1 00305 00430 U 4 F U                C 2006218 
+CU-000079 O CU    CUBA             19 54 14.00N 077 19 16.00W STACK              1 00260 00280 U 4 F U                C 2006211 
+CU-000080 O CU    CUBA             19 55 00.60N 077 18 06.40W TOWER              1 00325 00383 U 4 D U                C 2023340 
+CU-000081 O CU    CUBA             19 57 49.00N 076 26 13.00W TOWER              1 00213 00226 U 2 D U                C 2006232 
+CU-000082 O CU    CUBA             19 57 52.00N 076 26 13.00W TOWER              1 00249 00262 U 2 D U                C 2006218 
+CU-000083 O CU    CUBA             19 59 31.00N 075 52 14.00W STACK              1 00465 00480 U 9 I U                A 1996351 
+CU-000084 O CU    CUBA             19 59 32.40N 075 52 11.50W STACK              1 00345 00345 U 4 D U                C 2017005 
+CU-000085 O CU    CUBA             19 59 34.00N 075 52 09.60W STACK              1 00215 00215 U 4 D U                C 2017005 
+CU-000086 O CU    CUBA             19 59 53.90N 075 51 46.60W T-L TWR            1 00210 00210 U 5 D U                C 2017005 
+CU-000087 O CU    CUBA             20 01 17.00N 075 52 32.00W TOWER              1 00300 00347 U 4 D U                C 2009075 
+CU-000089 O CU    CUBA             20 02 58.00N 077 34 51.00W STACK              1 00215 00240 U 9 I U                A 1996351 
+CU-000090 O CU    CUBA             20 03 20.02N 075 48 15.74W TOWER              1 00307 00460 U 2 D U                C 2017335 
+CU-000091 O CU    CUBA             20 03 22.00N 075 08 36.00W STACK              1 00205 00215 U 4 F U                C 2006323 
+CU-000092 O CU    CUBA             20 03 22.00N 075 08 37.00W STACK              1 00240 00250 U 4 F U                C 2006344 
+CU-000095 O CU    CUBA             20 04 20.80N 074 38 35.80W TOWER              1 00310 00390 U 4 D U                C 2023191 
+CU-000096 O CU    CUBA             20 05 58.97N 075 49 47.41W TOWER              1 00360 01961 L 2 C P                C 2023164 
+CU-000098 O CU    CUBA             20 06 30.00N 075 13 10.00W TOWER              1 00310 00385 U 5 F U                C 2006240 
+CU-000099 O CU    CUBA             20 08 13.00N 077 00 04.00W TOWER              1 00400 00597 U 9 I U                A 1996351 
+CU-000101 O CU    CUBA             20 08 31.00N 077 25 46.00W STACK              1 00200 00235 U 5 F U                C 2006204 
+CU-000102 O CU    CUBA             20 08 32.00N 077 25 45.00W STACK              1 00200 00235 U 5 F U                C 2006323 
+CU-000103 O CU    CUBA             20 08 57.40N 077 26 00.40W TOWER              1 00310 00344 U 4 D U                C 2023235 
+CU-000104 O CU    CUBA             20 10 01.51N 075 10 11.43W TOWER              1 00295 00546 U 2 D U                C 2018031 
+CU-000105 O CU    CUBA             20 10 38.00N 075 25 14.00W STACK              1 00230 00705 U 5 F U                C 2006204 
+CU-000106 O CU    CUBA             20 10 46.00N 075 03 20.00W STACK              1 00260 00785 U 4 F U                C 2006190 
+CU-000107 O CU    CUBA             20 10 48.70N 075 29 32.90W STACK              1 00280 00658 U 5 D U                C 2023212 
+CU-000108 O CU    CUBA             20 10 50.30N 075 29 32.00W STACK              1 00315 00686 U 5 D U                C 2023191 
+CU-000109 O CU    CUBA             20 11 34.40N 075 49 51.10W STACK              1 00230 00760 U 4 D U                C 2023215 
+CU-000110 O CU    CUBA             20 11 57.05N 075 58 50.64W TOWER              1 00322 00909 U 3 D U                C 2018127 
+CU-000111 O CU    CUBA             20 12 17.00N 075 10 35.00W STACK              1 00240 00550 U 4 F U                C 2006190 
+CU-000112 O CU    CUBA             20 12 27.00N 077 21 43.00W STACK              1 00220 00255 U 5 D U                C 2006218 
+CU-000113 O CU    CUBA             20 12 37.00N 075 07 45.00W STACK              1 00235 00495 U 5 F U                C 2006316 
+CU-000114 O CU    CUBA             20 13 11.00N 075 13 59.00W STACK              1 00240 00550 U 4 F U                C 2006323 
+CU-000115 O CU    CUBA             20 13 17.00N 077 19 20.00W STACK              1 00235 00250 U 5 F U                C 2006190 
+CU-000116 O CU    CUBA             20 14 02.00N 077 16 35.00W STACK              1 00235 00265 U 5 D U                C 2006232 
+CU-000117 O CU    CUBA             20 14 03.00N 076 00 11.00W STACK              1 00210 00605 U 4 F U                C 2006218 
+CU-000118 O CU    CUBA             20 14 04.00N 076 00 12.00W STACK              1 00230 00625 U 4 E U                C 2006323 
+CU-000119 O CU    CUBA             20 15 44.80N 075 02 55.80W TOWER              1 00740 03245 U 4 D U                C 2023163 
+CU-000120 O CU    CUBA             20 16 16.00N 077 12 31.00W STACK              1 00220 00290 U 5 D U                C 2006323 
+CU-000121 O CU    CUBA             20 19 40.76N 074 35 35.37W TOWER              1 00510 02372 U 3 D U                C 2018130 
+CU-000123 O CU    CUBA             20 20 19.40N 074 28 55.20W TOWER              1 00305 00319 U 4 D U                C 2023200 
+CU-000124 O CU    CUBA             20 20 29.84N 077 07 01.50W TOWER              1 00270 00371 U 2 D U                C 2018292 
+CU-000125 O CU    CUBA             20 21 38.30N 074 31 01.60W TOWER              1 00270 00334 U 4 D U                C 2023230 
+CU-000126 O CU    CUBA             20 22 03.00N 075 54 31.00W STACK              1 00245 00945 U 9 I U                A 1996351 
+CU-000127 O CU    CUBA             20 34 01.00N 075 56 31.00W STACK              1 00220 00470 U 9 I U                C 2004186 
+CU-000128 O CU    CUBA             20 34 01.00N 075 56 32.00W STACK              1 00210 00460 U 9 I U                C 2004186 
+CU-000129 O CU    CUBA             20 35 23.00N 076 08 45.00W TOWER              1 00510 00790 U 9 I U                A 1996351 
+CU-000130 O CU    CUBA             20 36 01.00N 076 08 15.00W STACK              1 00235 00515 U 4 F U                C 2006232 
+CU-000131 O CU    CUBA             20 36 01.00N 076 08 14.00W STACK              1 00235 00515 U 4 F U                C 2006204 
+CU-000132 O CU    CUBA             20 36 47.10N 074 50 05.90W STACK              1 00455 00598 U 4 D U                C 2023159 
+CU-000133 O CU    CUBA             20 36 49.70N 074 49 49.20W STACK              1 00525 00669 U 4 D U                C 2023152 
+CU-000134 O CU    CUBA             20 36 51.40N 074 50 00.30W STACK              1 00385 00579 U 4 D U                C 2023166 
+CU-000136 O CU    CUBA             20 38 09.77N 074 52 55.01W STACK              1 00400 00592 U 2 D U                C 2023163 
+CU-000137 O CU    CUBA             20 38 10.54N 074 52 45.98W STACK              1 00515 00684 U 4 D U                C 2017111 
+CU-000138 O CU    CUBA             20 38 12.00N 074 52 48.00W PLANT              1 00255 00404 U 4 D U                C 2008318 
+CU-000140 O CU    CUBA             20 38 26.25N 074 52 45.77W STACK              1 00460 00559 U 4 D U                C 2017082 
+CU-000142 O CU    CUBA             20 39 51.56N 075 41 19.64W TOWER              1 00308 00371 U 3 D U                C 2018072 
+CU-000143 O CU    CUBA             20 40 06.00N 075 15 41.00W STACK              1 00225 00263 U 4 D U                C 2009232 
+CU-000144 O CU    CUBA             20 43 48.00N 075 35 40.00W STACK              1 00490 00526 U 4 D U                C 2008318 
+CU-000145 O CU    CUBA             20 44 10.00N 076 19 39.00W TOWER              1 00400 00630 U 9 I U                A 1996351 
+CU-000147 O CU    CUBA             20 44 42.00N 076 29 53.00W STACK              1 00240 00470 U 9 I U                A 1996351 
+CU-000148 O CU    CUBA             20 44 44.00N 076 29 54.00W STACK              1 00220 00450 U 9 I U                A 1996351 
+CU-000149 O CU    CUBA             20 44 52.00N 076 22 48.00W STACK              1 00200 00430 U 9 I U                A 1996351 
+CU-000150 O CU    CUBA             20 44 53.00N 076 22 46.00W STACK              1 00245 00475 U 9 I U                A 1996351 
+CU-000151 O CU    CUBA             20 45 31.00N 075 39 18.00W STACK              1 00225 00235 U 4 F U                C 2006316 
+CU-000152 O CU    CUBA             20 45 33.00N 075 39 19.00W STACK              2 00235 00245 U 5 F U                C 2006190 
+CU-000153 O CU    CUBA             20 45 36.00N 077 51 31.00W STACK              1 00240 00260 U 5 D U                C 2006281 
+CU-000154 O CU    CUBA             20 48 44.00N 078 01 01.00W STACK              2 00205 00254 N 4 C U                C 2006295 
+CU-000155 O CU    CUBA             20 49 28.00N 077 34 47.00W STACK              1 00230 00330 U 5 D U                C 2006232 
+CU-000156 O CU    CUBA             20 49 28.00N 077 34 49.00W STACK              1 00235 00335 U 5 D U                C 2006288 
+CU-000157 O CU    CUBA             20 50 11.40N 077 34 24.50W TOWER              1 00290 00428 U 4 D U                C 2023311 
+CU-000158 O CU    CUBA             20 50 39.00N 075 56 27.00W STACK              1 00230 00473 U 4 D U                C 2009232 
+CU-000160 O CU    CUBA             20 51 33.00N 076 16 16.00W TOWER              1 00305 00684 U 4 C U                C 2008318 
+CU-000162 O CU    CUBA             20 53 09.98N 076 15 36.70W TOWER              1 00210 00689 U 4 D U                C 2017093 
+CU-000163 O CU    CUBA             20 53 56.00N 076 15 55.00W TOWER              1 00400 01200 U 4 E U                C 2006288 
+CU-000164 O CU    CUBA             20 54 16.00N 077 17 15.00W STACK              1 00225 00385 U 4 D U                C 2006302 
+CU-000165 O CU    CUBA             20 54 17.00N 077 17 14.00W STACK              1 00200 00360 U 9 I U                A 1996351 
+CU-000166 O CU    CUBA             20 54 17.00N 077 17 16.00W STACK              1 00225 00385 U 4 D U                C 2006275 
+CU-000171 O CU    CUBA             20 59 05.00N 077 25 31.00W STACK              1 00225 00425 U 9 I U                A 1996351 
+CU-000174 O CU    CUBA             21 04 06.90N 077 21 01.00W TOWER              1 00295 00560 U 4 D U                C 2023291 
+CU-000175 O CU    CUBA             21 09 42.00N 076 28 30.00W STACK              1 00215 00265 U 5 D U                C 2006316 
+CU-000177 O CU    CUBA             21 09 52.00N 077 33 19.00W STACK              1 00230 00570 U 5 D U                C 2006288 
+CU-000178 O CU    CUBA             21 14 28.00N 077 40 23.00W STACK              1 00240 00575 U 9 I U                A 1996351 
+CU-000179 O CU    CUBA             21 15 21.00N 078 09 19.00W STACK              3 00220 00415 U 5 D U                C 2006316 
+CU-000181 O CU    CUBA             21 18 54.00N 076 56 09.00W STACK              1 00235 00285 U 5 D U                C 2006218 
+CU-000184 O CU    CUBA             21 22 52.00N 077 54 19.00W BLDG               1 00250 00585 U 5 D U                C 2006218 
+CU-000185 O CU    CUBA             21 23 07.90N 077 58 47.80W TOWER              1 00510 00844 U 5 D U                C 2023289 
+CU-000186 O CU    CUBA             21 23 11.40N 077 58 49.50W TOWER              1 00500 00834 U 5 D U                C 2023290 
+CU-000187 O CU    CUBA             21 23 14.90N 077 58 51.20W TOWER              1 00505 00833 U 5 D U                C 2023278 
+CU-000188 O CU    CUBA             21 23 19.00N 077 58 53.00W TOWER              1 00520 00590 U 9 I U                A 1996351 
+CU-000195 O CU    CUBA             21 33 07.00N 077 28 09.00W STACK              1 00220 00305 U 5 F U                C 2006323 
+CU-000196 O CU    CUBA             21 33 07.00N 077 28 06.00W STACK              1 00230 00315 U 5 F U                C 2006316 
+CU-000197 O CU    CUBA             21 33 07.00N 077 28 11.00W STACK              1 00205 00290 U 5 D U                C 2006316 
+CU-000198 O CU    CUBA             21 33 23.50N 077 16 48.00W STACK              1 00355 00415 U 4 D U                C 2023174 
+CU-000199 O CU    CUBA             21 33 56.30N 077 16 13.60W STACK              1 00585 00642 U 5 D U                C 2023299 
+CU-000200 O CU    CUBA             21 33 57.00N 077 16 19.00W STACK              1 00240 00255 U 4 C U                C 2007007 
+CU-000201 O CU    CUBA             21 39 30.00N 079 28 02.00W STACK              1 00210 00230 U 9 I U                A 1996351 
+CU-000202 O CU    CUBA             21 41 01.00N 079 26 09.00W STACK              1 00240 00273 U 5 C U                C 2009075 
+CU-000203 O CU    CUBA             21 41 26.00N 078 38 03.00W STACK              4 00210 00240 U 5 D U                C 2006302 
+CU-000204 O CU    CUBA             21 41 31.00N 078 27 50.00W TOWER              1 00297 00428 U 5 D U                C 2007014 
+CU-000205 O CU    CUBA             21 44 05.00N 078 47 37.00W STACK              3 00220 00285 U 5 D U                C 2006275 
+CU-000206 O CU    CUBA             21 46 27.00N 079 59 17.00W TOWER              1 00300 00346 U 5 D U                C 2023268 
+CU-000207 O CU    CUBA             21 47 22.00N 079 59 09.00W TOWER              1 00300 00424 U 5 C U                C 2008060 
+CU-000208 O CU    CUBA             21 49 28.00N 077 57 31.00W STACK              1 00210 00245 U 5 F U                C 2006204 
+CU-000209 O CU    CUBA             21 49 29.00N 077 57 33.00W STACK              1 00230 00265 U 5 F U                C 2006288 
+CU-000210 O CU    CUBA             21 49 32.00N 079 50 13.00W STACK              3 00250 00325 U 9 I U                A 1996351 
+CU-000211 O CU    CUBA             21 49 55.00N 078 43 54.00W TOWER              1 00320 00451 U 9 I U                A 1996351 
+CU-000214 O CU    CUBA             21 51 47.00N 078 59 22.00W STACK              2 00225 00485 U 5 D U                C 2006232 
+CU-000216 O CU    CUBA             21 54 40.20N 079 25 54.20W TOWER              1 00300 00464 U 5 D U                C 2023263 
+CU-000218 O CU    CUBA             21 55 42.00N 079 24 49.60W TOWER              1 00375 00613 U 5 D U                C 2023262 
+CU-000219 O CU    CUBA             21 56 24.00N 079 10 20.00W STACK              2 00245 00510 U 9 I U                A 1996351 
+CU-000220 O CU    CUBA             21 56 32.00N 079 09 21.00W TOWER              1 00350 00542 U 9 I U                A 1996351 
+CU-000221 O CU    CUBA             21 56 32.00N 078 25 42.00W STACK              1 00220 00285 U 5 D U                C 2006275 
+CU-000223 O CU    CUBA             21 59 07.10N 079 18 23.60W STACK              1 00265 00495 U 5 D U                C 2023261 
+CU-000224 O CU    CUBA             21 59 53.00N 079 25 32.00W STACK              2 00250 00475 U 5 F U                C 2006288 
+CU-000225 O CU    CUBA             22 00 35.00N 078 42 20.00W STACK              3 00310 00435 U 9 I U                A 1996351 
+CU-000226 O CU    CUBA             22 03 53.00N 080 30 22.00W CRANE              1 00220 00250 U 5 F U                C 2006190 
+CU-000227 O CU    CUBA             22 04 51.00N 078 20 27.00W STACK              1 00230 00260 U 5 D U                C 2006302 
+CU-000228 O CU    CUBA             22 04 53.00N 078 36 24.00W STACK              1 00215 00350 U 5 D U                C 2006218 
+CU-000230 O CU    CUBA             22 05 35.90N 078 36 38.00W TOWER              1 00305 00350 U 5 D U                C 2023207 
+CU-000231 O CU    CUBA             22 05 48.00N 079 42 45.00W STACK              1 00213 00578 U 2 D U                C 2006281 
+CU-000232 O CU    CUBA             22 07 33.00N 080 20 13.00W STACK              1 00265 00460 U 9 I U                A 1996351 
+CU-000233 O CU    CUBA             22 07 58.00N 080 23 53.00W TOWER              1 00280 00300 U 4 F U                C 2006232 
+CU-000234 O CU    CUBA             22 08 06.80N 080 26 56.00W TOWER              1 00225 00243 U 2 D U                C 2018031 
+CU-000236 O CU    CUBA             22 09 24.00N 080 18 52.00W BLDG               6 00215 00430 U 5 F U                C 2006225 
+CU-000237 O CU    CUBA             22 09 30.00N 080 27 22.00W STACK              1 00230 00275 U 3 C U                C 2008092 
+CU-000238 O CU    CUBA             22 09 30.83N 080 27 18.81W STACK              1 00320 00369 U 2 D U                C 2018031 
+CU-000239 O CU    CUBA             22 09 31.30N 080 25 46.70W TOWER              1 00280 00349 U 4 D U                C 2018018 
+CU-000240 O CU    CUBA             22 10 15.00N 078 47 52.00W STACK              1 00250 00345 U 6 D U                C 2006316 
+CU-000241 O CU    CUBA             22 10 29.60N 080 26 01.80W STACK              1 00200 00295 U 5 D U                C 2018018 
+CU-000242 O CU    CUBA             22 10 55.38N 080 29 23.62W POWER PLANT        1 00285 00352 U 3 D U                C 2023243 
+CU-000243 O CU    CUBA             22 10 57.00N 080 29 26.00W TANK               1 00185 00245 U 3 C U                C 2008092 
+CU-000244 O CU    CUBA             22 11 23.00N 080 31 04.00W STACK              1 00635 00733 U 3 C U                C 2008092 
+CU-000245 O CU    CUBA             22 11 52.00N 084 07 23.00W TOWER              1 00275 00425 U 5 E U                C 2006232 
+CU-000247 O CU    CUBA             22 14 29.00N 080 34 42.00W STACK              1 00225 00315 U 5 D U                C 2006309 
+CU-000248 O CU    CUBA             22 14 31.00N 080 34 43.00W STACK              1 00200 00295 U 5 E U                C 2006197 
+CU-000249 O CU    CUBA             22 14 43.15N 080 31 50.53W STACK              1 00180 00318 U 4 D U                C 2006302 
+CU-000250 O CU    CUBA             22 14 43.53N 080 31 51.62W STACK              1 00250 00399 U 2 D U                C 2018031 
+CU-000252 O CU    CUBA             22 16 04.00N 080 52 15.00W STACK              1 00299 00338 U 2 D U                C 2023271 
+CU-000253 O CU    CUBA             22 16 31.00N 080 25 25.00W STACK              1 00220 00420 U 2 D U                C 2006275 
+CU-000254 O CU    CUBA             22 16 35.00N 080 20 34.00W STACK              1 00220 00427 U 2 D U                C 2006218 
+CU-000255 O CU    CUBA             22 17 15.00N 079 37 51.00W STACK              1 00230 00870 U 5 F U                C 2006344 
+CU-000256 O CU    CUBA             22 18 58.00N 080 15 57.00W STACK              1 00230 00505 U 2 D U                C 2006275 
+CU-000258 O CU    CUBA             22 19 04.00N 083 39 35.00W TOWER              1 00405 00500 U 5 I U                C 2017097 
+CU-000259 O CU    CUBA             22 19 05.00N 080 03 10.00W STACK              1 00230 00650 U 5 F U                C 2006190 
+CU-000260 O CU    CUBA             22 20 02.00N 079 39 58.00W TOWER              1 00235 00855 U 5 F U                C 2006190 
+CU-000261 O CU    CUBA             22 20 16.00N 080 32 31.00W TOWER              1 00250 00350 U 5 F U                C 2006218 
+CU-000263 O CU    CUBA             22 20 29.40N 079 13 15.60W STACK              1 00275 00330 U 5 D U                C 2023223 
+CU-000264 O CU    CUBA             22 20 34.00N 079 14 52.50W STACK              1 00260 00356 U 5 D U                C 2023233 
+CU-000265 O CU    CUBA             22 21 00.00N 080 18 21.00W STACK              1 00220 00499 U 2 D U                C 2006218 
+CU-000266 O CU    CUBA             22 21 24.00N 080 46 31.00W STACK              1 00230 00413 U 5 C U                C 2009232 
+CU-000267 O CU    CUBA             22 21 32.00N 079 39 25.00W STACK              1 00220 00760 U 5 F U                C 2006240 
+CU-000268 O CU    CUBA             22 21 40.00N 080 14 42.00W STACK              1 00220 00550 U 9 I U                A 1996351 
+CU-000269 O CU    CUBA             22 22 13.00N 078 53 07.00W TOWER              1 00427 00463 U 2 D U                C 2023226 
+CU-000270 O CU    CUBA             22 22 16.00N 078 53 04.00W TOWER              1 00427 00473 U 2 D U                C 2023228 
+CU-000271 O CU    CUBA             22 22 17.80N 079 57 48.20W TOWER              1 00605 01197 U 5 D U                C 2023305 
+CU-000272 O CU    CUBA             22 22 22.00N 080 51 09.00W STACK              1 00215 00295 U 9 I U                A 1996351 
+CU-000273 O CU    CUBA             22 22 25.00N 078 53 37.00W TOWER              1 00427 00450 U 2 D U                C 2023249 
+CU-000274 O CU    CUBA             22 22 28.00N 078 53 34.00W TOWER              1 00427 00452 U 2 D U                C 2023241 
+CU-000275 O CU    CUBA             22 22 36.00N 080 07 23.00W STACK              1 00230 00660 U 9 I U                A 1996351 
+CU-000276 O CU    CUBA             22 22 36.00N 078 53 25.00W TOWER              1 00289 00363 U 2 D U                C 2023237 
+CU-000277 O CU    CUBA             22 22 37.00N 080 11 40.00W STACK              1 00225 00545 U 9 I U                A 1996351 
+CU-000278 O CU    CUBA             22 22 39.00N 078 53 26.00W TOWER              1 00289 00318 U 2 D U                C 2017334 
+CU-000280 O CU    CUBA             22 22 39.00N 078 53 00.00W TOWER              1 00246 00273 U 2 D U                C 2006197 
+CU-000281 O CU    CUBA             22 22 41.00N 078 53 00.00W TOWER              1 00246 00269 U 2 D U                C 2006211 
+CU-000282 O CU    CUBA             22 22 43.00N 078 53 01.00W TOWER              1 00246 00269 U 2 D U                C 2006225 
+CU-000283 O CU    CUBA             22 22 44.00N 078 53 28.00W TOWER              1 00289 00354 U 2 D U                C 2017334 
+CU-000285 O CU    CUBA             22 22 46.00N 079 32 56.90W STACK              1 00265 00864 U 5 D U                C 2023255 
+CU-000286 O CU    CUBA             22 22 45.00N 078 53 02.00W TOWER              1 00246 00266 U 2 D U                C 2006211 
+CU-000287 O CU    CUBA             22 22 46.00N 080 16 42.00W STACK              1 00213 00555 U 2 D U                C 2006302 
+CU-000288 O CU    CUBA             22 22 47.00N 078 53 03.00W TOWER              1 00246 00266 U 2 D U                C 2006316 
+CU-000289 O CU    CUBA             22 22 49.00N 078 53 04.00W TOWER              1 00246 00263 U 2 D U                C 2006295 
+CU-000290 O CU    CUBA             22 22 52.00N 080 13 44.00W STACK              1 00230 00570 U 9 I U                A 1996351 
+CU-000291 O CU    CUBA             22 22 54.00N 079 30 11.00W STACK              1 00220 00710 U 5 D U                C 2006204 
+CU-000292 O CU    CUBA             22 23 14.00N 078 46 56.00W STACK              2 00250 00260 U 5 D U                C 2006190 
+CU-000295 O CU    CUBA             22 25 58.00N 083 39 45.00W TOWER              3 00430 00590 U 2 D U                C 2006211 
+CU-000296 O CU    CUBA             22 26 04.00N 080 31 48.00W STACK              1 00225 00385 U 6 E U                C 2006218 
+CU-000297 O CU    CUBA             22 26 11.00N 083 40 26.00W TOWER              1 00250 00459 U 5 C U                C 2008060 
+CU-000299 O CU    CUBA             22 26 54.00N 079 53 35.00W TOWER              4 00548 00729 U 9 I U                C 2000059 
+CU-000300 O CU    CUBA             22 30 02.00N 081 08 06.00W STACK              1 00240 00260 U 5 E U                C 2006323 
+CU-000301 O CU    CUBA             22 30 15.00N 079 49 02.00W TOWER              1 00200 00390 U 9 I U                A 1996351 
+CU-000302 O CU    CUBA             22 30 21.00N 079 29 39.00W STACK              1 00235 00295 U 6 E U                C 2006232 
+CU-000303 O CU    CUBA             22 30 33.00N 083 31 08.00W TOWER              1 00430 00610 U 9 I U                A 1996351 
+CU-000305 O CU    CUBA             22 31 50.50N 080 52 05.90W STACK              1 00260 00360 U 5 D U                C 2023257 
+CU-000306 O CU    CUBA             22 34 27.00N 080 56 22.00W STACK              2 00240 00440 U 5 E U                C 2006330 
+CU-000307 O CU    CUBA             22 35 12.00N 083 56 08.00W TOWER              1 00200 00856 U 5 G U                C 2006218 
+CU-000308 O CU    CUBA             22 35 30.00N 079 42 42.00W STACK              1 00226 00302 U 9 I U                A 1996351 
+CU-000309 O CU    CUBA             22 35 40.00N 080 18 47.00W STACK              2 00240 00535 U 6 E U                C 2006302 
+CU-000310 O CU    CUBA             22 35 34.00N 079 51 20.00W STACK              1 00230 00390 U 9 I U                C 2000059 
+CU-000311 O CU    CUBA             22 35 51.00N 079 56 43.00W STACK              2 00230 00540 U 6 E U                C 2006295 
+CU-000313 O CU    CUBA             22 38 12.00N 079 56 49.00W STACK              1 00230 00620 U 5 E U                C 2006275 
+CU-000314 O CU    CUBA             22 38 43.00N 083 07 49.00W STACK              1 00230 00380 U 5 G U                C 2006204 
+CU-000316 O CU    CUBA             22 39 41.30N 083 22 14.90W TOWER              1 00300 00890 U 4 E U                C 2017082 
+CU-000317 O CU    CUBA             22 39 57.00N 083 58 13.00W STACK              1 00205 00215 U 5 F U                C 2006190 
+CU-000318 O CU    CUBA             22 40 04.00N 081 01 08.00W STACK              1 00240 00300 U 5 E U                C 2006302 
+CU-000319 O CU    CUBA             22 40 07.00N 079 52 14.00W STACK              1 00225 00300 U 4 E U                C 2006190 
+CU-000320 O CU    CUBA             22 40 22.00N 080 12 07.00W STACK              1 00225 00335 U 6 E U                C 2006240 
+CU-000321 O CU    CUBA             22 41 06.00N 083 01 01.00W STACK              2 00240 00355 U 2 D U                C 2006197 
+CU-000323 O CU    CUBA             22 42 20.00N 080 53 05.00W STACK              1 00220 00440 U 5 E U                C 2006275 
+CU-000327 O CU    CUBA             22 43 35.00N 080 03 14.00W STACK              1 00220 00395 U 6 E U                C 2006275 
+CU-000328 O CU    CUBA             22 43 56.00N 081 18 07.00W STACK              1 00235 00295 U 9 I U                C 2017334 
+CU-000330 O CU    CUBA             22 43 57.00N 080 55 01.00W TOWER              1 00360 00530 U 9 I U                A 1996351 
+CU-000331 O CU    CUBA             22 44 20.00N 081 32 19.00W STACK              1 00225 00290 U 5 F U                C 2006323 
+CU-000332 O CU    CUBA             22 44 20.00N 081 32 20.00W STACK              1 00225 00290 U 5 E U                C 2006232 
+CU-000333 O CU    CUBA             22 44 40.00N 079 45 30.00W STACK              1 00215 00240 U 9 I U                A 1996351 
+CU-000334 O CU    CUBA             22 44 47.00N 083 33 04.00W TOWER              1 00259 00411 U 2 D U                C 2006232 
+CU-000335 O CU    CUBA             22 45 40.00N 080 58 25.00W STACK              1 00250 00440 U 5 E U                C 2006323 
+CU-000336 O CU    CUBA             22 46 10.00N 080 50 09.00W STACK              2 00240 00460 U 5 E U                C 2006218 
+CU-000337 O CU    CUBA             22 47 05.00N 080 16 46.00W STACK              2 00205 00455 U 6 E U                C 2006232 
+CU-000338 O CU    CUBA             22 47 15.00N 082 23 14.00W STACK              2 00236 00312 U 9 I U                C 1998061 
+CU-000339 O CU    CUBA             22 47 47.00N 080 03 15.00W STACK              1 00215 00255 U 6 E U                C 2007071 
+CU-000341 O CU    CUBA             22 48 14.00N 081 17 41.00W STACK              1 00200 00380 U 5 E U                C 2006218 
+CU-000342 O CU    CUBA             22 48 18.00N 082 48 01.00W TOWER              1 00210 00420 U 9 I U                A 1996351 
+CU-000344 O CU    CUBA             22 48 23.70N 080 06 44.90W TOWER              1 00295 00343 U 6 D U                C 2023208 
+CU-000345 O CU    CUBA             22 48 08.00N 081 01 28.00W STACK              3 00243 00309 U 2 D U                C 2006190 
+CU-000346 O CU    CUBA             22 48 39.00N 081 43 58.00W STACK              1 00255 00375 U 5 E U                C 2006302 
+CU-000347 O CU    CUBA             22 48 51.00N 081 08 20.00W STACK              1 00210 00290 U 9 I U                A 1996351 
+CU-000348 O CU    CUBA             22 49 09.00N 083 31 37.00W STACK              1 00270 00320 U 5 G U                C 2006190 
+CU-000349 O CU    CUBA             22 49 11.00N 082 47 05.00W TOWER              1 00330 00420 U 6 I U                C 2017096 
+CU-000350 O CU    CUBA             22 49 44.00N 080 20 09.00W STACK              1 00245 00520 U 6 E U                C 2006316 
+CU-000351 O CU    CUBA             22 49 57.90N 081 59 53.90W STACK              1 00270 00466 U 6 D U                C 2023242 
+CU-000352 O CU    CUBA             22 50 16.80N 081 29 54.00W STACK              1 00260 00648 U 5 D U                C 2023256 
+CU-000353 O CU    CUBA             22 51 20.00N 080 21 24.00W STACK              1 00225 00400 U 6 E U                C 2006218 
+CU-000354 O CU    CUBA             22 51 21.00N 081 20 46.00W TOWER              1 00225 00630 U 4 E U                C 2006190 
+CU-000355 O CU    CUBA             22 51 54.00N 082 19 45.00W TOWER              1 00253 00509 U 2 D U                C 2006316 
+CU-000356 O CU    CUBA             22 51 55.00N 082 20 12.00W TOWER              1 00270 00561 U 2 D U                C 2023240 
+CU-000357 O CU    CUBA             22 51 55.00N 082 20 00.00W TOWER              1 00265 00518 U 2 D U                C 2006240 
+CU-000358 O CU    CUBA             22 51 56.00N 082 19 56.00W TOWER              1 00265 00608 U 2 D U                C 2023227 
+CU-000359 O CU    CUBA             22 51 57.00N 082 20 14.00W TOWER              1 00226 00473 U 2 D U                C 2006302 
+CU-000360 O CU    CUBA             22 51 58.00N 082 19 54.00W TOWER              1 00265 00572 U 2 D U                C 2017083 
+CU-000361 O CU    CUBA             22 52 00.00N 082 20 14.00W TOWER              1 00233 00489 U 2 D U                C 2006218 
+CU-000362 O CU    CUBA             22 53 22.00N 081 25 02.00W STACK              1 00230 00580 U 5 E U                C 2006275 
+CU-000363 O CU    CUBA             22 54 45.00N 081 16 37.00W STACK              1 00205 00480 U 9 I U                A 1996351 
+CU-000365 O CU    CUBA             22 55 17.00N 083 11 43.00W STACK              1 00220 00250 U 5 G U                C 2006232 
+CU-000368 O CU    CUBA             22 55 26.00N 083 10 20.00W TOWER              1 00290 00320 U 4 G U                C 2006295 
+CU-000369 O CU    CUBA             22 56 17.00N 082 30 02.00W STACK              1 00260 00440 U 5 E U                C 2006211 
+CU-000370 O CU    CUBA             22 56 44.00N 080 56 10.00W STACK              1 00230 00290 U 9 I U                A 1996351 
+CU-000371 O CU    CUBA             22 56 49.00N 082 32 44.00W TOWER              1 00260 00460 U 5 E U                C 2006218 
+CU-000372 O CU    CUBA             22 56 54.00N 082 32 43.00W TOWER              1 00250 00440 U 9 I U                A 1996351 
+CU-000373 O CU    CUBA             22 56 57.00N 082 32 44.00W TOWER              9 00240 00465 U 9 I U                A 1996351 
+CU-000375 O CU    CUBA             22 57 06.00N 082 32 38.00W TOWER              1 00210 00390 U 9 I U                A 1996351 
+CU-000376 O CU    CUBA             22 57 44.00N 083 02 08.00W STACK              1 00210 00240 U 5 G U                C 2006240 
+CU-000377 O CU    CUBA             22 58 12.00N 082 10 57.00W TOWER              1 00320 01084 U 5 C U                C 2008060 
+CU-000378 O CU    CUBA             22 58 57.00N 081 10 14.00W STACK              1 00235 00265 U 9 I U                A 1996351 
+CU-000379 O CU    CUBA             22 59 11.00N 081 21 50.00W STACK              1 00235 00585 U 4 E U                C 2006288 
+CU-000381 O CU    CUBA             23 00 00.00N 080 55 01.00W TOWER              1 00223 00240 U 2 D U                C 2006190 
+CU-000382 O CU    CUBA             23 00 02.00N 080 55 01.00W TOWER              1 00203 00223 U 2 D U                C 2006225 
+CU-000383 O CU    CUBA             23 00 02.36N 080 54 35.62W TOWER              1 00300 00345 U 2 D U                C 2023250 
+CU-000384 O CU    CUBA             23 00 05.00N 080 54 36.00W TOWER              1 00243 00266 U 2 D U                C 2006281 
+CU-000385 O CU    CUBA             23 00 08.00N 080 54 36.00W TOWER              1 00256 00301 U 2 D U                C 2023307 
+CU-000386 O CU    CUBA             23 00 10.00N 080 54 37.00W TOWER              1 00266 00305 U 2 D U                C 2023254 
+CU-000387 O CU    CUBA             23 00 13.00N 080 54 37.00W TOWER              1 00259 00276 U 2 D U                C 2006275 
+CU-000388 O CU    CUBA             23 00 37.00N 082 44 40.00W TANK               1 00250 00275 U 5 F U                C 2006295 
+CU-000389 O CU    CUBA             23 00 37.50N 082 44 39.30W POWER PLANT        1 00295 00377 U 5 D U                C 2023209 
+CU-000390 O CU    CUBA             23 00 52.00N 081 29 15.00W CATENARY           1 00213 00213 U 2 D U                C 2006197 
+CU-000391 O CU    CUBA             23 01 12.00N 082 45 02.20W STACK              1 00259 00328 U 2 D U                C 2023258 
+CU-000392 O CU    CUBA             23 01 28.00N 082 25 52.00W TOWER              1 00270 00480 U 5 E U                C 2006316 
+CU-000395 O CU    CUBA             23 01 57.00N 081 34 58.00W TOWER              1 00210 00235 U 5 E U                C 2006323 
+CU-000397 O CU    CUBA             23 02 18.00N 081 59 28.00W TOWER              1 00210 00584 U 2 D U                C 2006330 
+CU-000398 O CU    CUBA             23 02 35.71N 082 27 22.63W TOWER              1 00259 00439 U 2 E U                C 2022083 
+CU-000399 O CU    CUBA             23 02 51.30N 081 11 58.40W STACK              1 00250 00268 U 4 D U                C 2017180 
+CU-000400 O CU    CUBA             23 02 53.00N 082 27 32.00W STACK              3 00210 00320 U 9 I U                A 1996351 
+CU-000401 O CU    CUBA             23 02 57.00N 082 28 24.00W TOWER              1 00300 00440 U 5 E U                C 2006323 
+CU-000402 O CU    CUBA             23 03 00.00N 082 28 19.00W TOWER              1 00425 00575 U 5 E U                C 2006197 
+CU-000404 O CU    CUBA             23 03 07.00N 082 24 45.00W STACK              1 00250 00350 U 5 E U                C 2006232 
+CU-000405 O CU    CUBA             23 03 39.00N 082 28 38.00W TOWER              1 00390 00440 U 5 E U                C 2017090 
+CU-000406 O CU    CUBA             23 03 55.30N 081 33 14.10W STACK              1 00250 00427 U 5 D U                C 2017334 
+CU-000407 O CU    CUBA             23 04 06.00N 081 32 42.00W STACK              1 00266 00364 U 2 D U                C 2006281 
+CU-000408 O CU    CUBA             23 04 11.00N 081 34 04.00W TOWER              1 00205 00643 U 2 D U                C 2006323 
+CU-000409 O CU    CUBA             23 04 48.00N 082 23 10.00W TOWER              1 00400 00530 U 5 E U                C 2006288 
+CU-000410 O CU    CUBA             23 05 12.00N 082 25 21.00W STACK              1 00210 00330 U 5 E U                C 2006240 
+CU-000412 O CU    CUBA             23 05 47.00N 081 18 05.00W STACK              1 00240 00280 U 5 E U                C 2006197 
+CU-000415 O CU    CUBA             23 06 09.00N 081 31 43.00W STACK              1 00495 00510 U 4 F U                C 2006323 
+CU-000416 O CU    CUBA             23 06 16.00N 081 11 50.00W RIG                1 00246 00246 U 2 A U                C 2006281 
+CU-000417 O CU    CUBA             23 06 21.00N 082 24 02.00W STACK              1 00203 00335 U 2 D U                C 2006204 
+CU-000419 O CU    CUBA             23 06 35.00N 082 22 24.00W STACK              1 00217 00230 U 2 D U                C 2006190 
+CU-000420 O CU    CUBA             23 06 37.96N 082 26 27.17W BLDG               1 00275 00346 U 3 E U                C 2023236 
+CU-000421 O CU    CUBA             23 06 39.94N 082 26 25.74W BLDG               1 00269 00311 U 3 E U                C 2023255 
+CU-000422 O CU    CUBA             23 06 47.00N 082 23 25.00W BLDG               1 00240 00315 U 5 F U                C 2006316 
+CU-000423 O CU    CUBA             23 06 47.69N 082 26 07.03W BLDG               1 00281 00353 U 3 E U                C 2023234 
+CU-000424 O CU    CUBA             23 06 49.00N 082 23 20.00W BLDG               1 00245 00320 U 5 F U                C 2006190 
+CU-000425 O CU    CUBA             23 06 54.40N 082 23 40.60W BLDG               1 00259 00429 U 2 D U                C 2023293 
+CU-000426 O CU    CUBA             23 06 54.00N 082 20 11.00W BLDG               1 00210 00220 U 5 F U                C 2006275 
+CU-000427 O CU    CUBA             23 06 56.00N 082 21 17.00W TANK               1 00220 00260 U 5 E U                C 2006316 
+CU-000428 O CU    CUBA             23 07 01.00N 082 23 45.00W BLDG               1 00195 00300 U 2 D U                C 2006316 
+CU-000429 O CU    CUBA             23 07 02.00N 082 22 16.00W BLDG               1 00205 00280 U 5 F U                C 2006330 
+CU-000430 O CU    CUBA             23 07 02.00N 082 23 46.00W BLDG               1 00210 00322 U 2 D U                C 2006240 
+CU-000431 O CU    CUBA             23 07 03.00N 082 22 16.00W BLDG               1 00215 00290 U 4 F U                C 2006218 
+CU-000432 O CU    CUBA             23 07 08.00N 082 20 15.00W BLDG               1 00189 00199 U 5 D U                C 2006218 
+CU-000433 O CU    CUBA             23 07 09.00N 082 19 31.00W TOWER              1 00290 00360 U 5 E U                C 2006281 
+CU-000436 O CU    CUBA             23 07 18.81N 082 23 03.12W BLDG               1 00277 00370 U 3 E U                C 2023250 
+CU-000437 O CU    CUBA             23 07 19.70N 082 23 10.90W TOWER              1 00340 00463 U 5 D U                C 2023172 
+CU-000438 O CU    CUBA             23 07 21.00N 082 22 27.00W BLDG               1 00215 00290 U 5 F U                C 2006344 
+CU-000439 O CU    CUBA             23 07 21.00N 082 22 10.00W STACK              1 00260 00285 U 5 F U                C 2006190 
+CU-000440 O CU    CUBA             23 07 22.00N 081 47 02.00W STACK              1 00235 00335 U 5 E U                C 2006288 
+CU-000441 O CU    CUBA             23 07 27.75N 082 21 32.05W STACK              1 00265 00291 U 2 D U                C 2023297 
+CU-000442 O CU    CUBA             23 07 28.00N 082 21 31.00W STACK              1 00260 00270 U 5 E U                C 2006316 
+CU-000443 O CU    CUBA             23 07 30.00N 082 21 32.00W STACK              1 00290 00300 U 5 F U                C 2006281 
+CU-000444 O CU    CUBA             23 07 33.16N 082 16 32.93W TOWER              1 00400 00475 U 2 D U                C 2019029 
+CU-000445 O CU    CUBA             23 07 46.00N 081 56 32.00W STACK              1 00230 00580 U 4 F U                C 2006218 
+CU-000446 O CU    CUBA             23 07 46.00N 081 56 31.00W STACK              1 00200 00550 U 4 F U                C 2006288 
+CU-000447 O CU    CUBA             23 07 46.56N 082 19 21.17W STACK              1 00250 00288 U 4 D U                C 2006323 
+CU-000448 O CU    CUBA             23 07 53.00N 082 22 07.00W SPIRE              1 00240 00312 U 9 I U                A 1996351 
+CU-000449 O CU    CUBA             23 07 54.00N 082 19 05.00W STACK              1 00250 00325 U 9 I U                A 1996351 
+CU-000452 O CU    CUBA             23 08 05.00N 082 23 15.00W BLDG               1 00230 00320 U 2 D N                C 2006275 
+CU-000453 O CU    CUBA             23 08 06.00N 082 19 16.00W PLANT              1 00250 00275 U 9 I U                A 1996351 
+CU-000454 O CU    CUBA             23 08 06.00N 082 22 34.00W BLDG               1 00213 00246 U 9 I U                A 1996351 
+CU-000455 O CU    CUBA             23 08 07.01N 082 21 34.74W BLDG               1 00307 00401 U 2 D U                C 2023292 
+CU-000456 O CU    CUBA             23 08 08.00N 082 22 34.00W BLDG               1 00207 00246 U 2 D U                C 2006275 
+CU-000457 O CU    CUBA             23 08 08.00N 082 24 27.00W BLDG               1 00217 00225 U 2 D N                C 2006288 
+CU-000458 O CU    CUBA             23 08 09.00N 082 24 28.00W BLDG               1 00213 00225 U 2 D N                C 2006302 
+CU-000459 O CU    CUBA             23 08 09.30N 082 22 50.50W TOWER              1 00310 00447 U 5 D U                C 2023290 
+CU-000460 O CU    CUBA             23 08 14.00N 082 22 41.00W SPIRE              1 00210 00256 U 9 I U                A 1996351 
+CU-000461 O CU    CUBA             23 08 21.00N 082 22 57.00W TOWER              1 00405 00445 U 5 E U                C 2006218 
+CU-000462 O CU    CUBA             23 08 21.40N 082 22 16.00W BLDG               1 00371 00442 U 2 D U                C 2023277 
+CU-000463 O CU    CUBA             23 08 21.30N 082 24 10.00W BLDG               1 00280 00323 U 2 D N                C 2023215 
+CU-000464 O CU    CUBA             23 08 25.00N 082 22 54.00W BLDG               1 00246 00282 U 2 D N                C 2006323 
+CU-000465 O CU    CUBA             23 08 22.00N 082 24 14.00W BLDG               1 00223 00235 U 2 D N                C 2006323 
+CU-000466 O CU    CUBA             23 08 26.00N 082 23 28.00W BLDG               1 00245 00260 U 2 D N                C 2006344 
+CU-000467 O CU    CUBA             23 08 25.90N 082 23 43.30W BLDG               1 00276 00312 U 2 D N                C 2023216 
+CU-000468 O CU    CUBA             23 08 27.00N 082 23 39.00W BLDG               1 00236 00260 U 2 D N                C 2006316 
+CU-000469 O CU    CUBA             23 08 32.00N 082 23 26.00W BLDG               1 00243 00256 U 2 D U                C 2006344 
+CU-000470 O CU    CUBA             23 08 33.00N 082 23 04.00W BLDG               1 00365 00385 U 5 E U                C 2006232 
+CU-000471 O CU    CUBA             23 08 36.00N 082 23 46.00W BLDG               1 00246 00255 U 2 D N                C 2006281 
+CU-000472 O CU    CUBA             23 08 36.00N 082 22 50.00W BLDG               1 00210 00235 U 2 D N                C 2006316 
+CU-000473 O CU    CUBA             23 08 39.00N 082 23 13.00W BLDG               1 00210 00227 U 2 D U                C 2006197 
+CU-000474 O CU    CUBA             23 08 38.90N 082 23 00.00W BLDG               1 00315 00362 U 2 D U                C 2023193 
+CU-000475 O CU    CUBA             23 08 46.00N 081 56 58.00W TOWER              1 00215 00265 U 5 F U                C 2006281 
+CU-000476 O CU    CUBA             23 08 58.00N 081 07 39.00W PLANT              1 00236 00236 U 2 D U                C 2006316 
+CU-000477 O CU    CUBA             23 09 01.70N 081 56 02.56W TOWER              1 00265 00527 U 2 D U                C 2023272 
+CU-000478 O CU    CUBA             23 09 36.10N 081 57 15.30W STACK              1 00580 00625 U 4 D U                C 2023264 
+CU-000480 O CU    CUBA             23 09 46.00N 082 09 23.00W TOWER              1 00220 00390 U 9 I U                A 1996351 
+CU-000482 O CU    CUBA             23 10 31.80N 082 04 48.70W TOWER              1 00310 00401 U 2 D U                C 2023276 
+CU-000564 O CU    CUBA             20 01 22.00N 075 45 45.00W TOWER              1 00289 00394 U 9 I U                A 1997041 
+CU-000565 O CU    CUBA             20 10 45.24N 075 25 11.72W STACK              1 00257 00763 U 3 D U                C 2018117 
+CU-000566 O CU    CUBA             20 10 59.00N 075 29 29.00W STACK              1 00233 00631 U 2 D U                C 2006323 
+CU-000567 O CU    CUBA             20 30 29.00N 074 40 08.00W CATENARY           1 00213 00274 U 2 D U                C 2006316 
+CU-000570 O CU    CUBA             21 31 44.00N 077 17 39.00W TOWER              1 00318 00345 U 9 I U                A 1997041 
+CU-000571 O CU    CUBA             21 33 28.00N 077 16 48.00W BLDG               1 00207 00298 U 2 C U                C 2009075 
+CU-000572 O CU    CUBA             21 55 03.00N 080 01 13.00W TOWER              1 00381 02985 U 2 D U                C 2006275 
+CU-000573 O CU    CUBA             22 12 06.00N 079 06 09.00W TOWER              1 00249 01323 U 9 I U                A 1997041 
+CU-000574 O CU    CUBA             22 14 39.00N 080 23 09.00W TOWER              1 00279 00505 U 2 D U                C 2018031 
+CU-000575 O CU    CUBA             22 22 05.00N 083 44 21.00W TOWER              1 00305 00423 U 2 D U                C 2018292 
+CU-000576 O CU    CUBA             22 24 01.00N 083 41 16.00W TOWER              1 00262 00386 U 2 D U                C 2018204 
+CU-000577 O CU    CUBA             22 30 45.00N 081 06 14.00W TOWER              1 00305 00355 U 2 D U                C 2006316 
+CU-000578 O CU    CUBA             22 39 16.00N 081 14 01.00W TOWER              1 00312 00348 U 2 D U                C 2006323 
+CU-000579 O CU    CUBA             22 39 27.00N 081 20 37.00W STACK              1 00203 00220 U 2 D U                C 2006197 
+CU-000580 O CU    CUBA             22 44 16.00N 081 28 19.00W STACK              1 00217 00217 U 2 D U                C 2006232 
+CU-000581 O CU    CUBA             22 45 32.00N 081 53 13.00W STACK              1 00223 00302 U 2 D U                C 2006295 
+CU-000582 O CU    CUBA             22 45 33.00N 081 53 14.00W STACK              1 00210 00289 U 2 D U                C 2006190 
+CU-000583 O CU    CUBA             22 45 34.00N 081 53 14.00W STACK              1 00223 00302 U 2 D U                C 2006295 
+CU-000584 O CU    CUBA             22 47 54.00N 081 10 07.00W TOWER              1 00371 00473 U 2 D U                C 2006316 
+CU-000585 O CU    CUBA             22 49 06.00N 081 01 12.00W TOWER              1 00308 00374 U 9 I U                C 2000066 
+CU-000586 O CU    CUBA             22 51 44.00N 081 37 11.00W CATENARY           1 00217 00611 U 2 D U                C 2006302 
+CU-000587 O CU    CUBA             22 56 19.00N 082 30 03.00W STACK              1 00220 00414 U 2 D U                C 2006288 
+CU-000588 O CU    CUBA             22 56 30.00N 082 44 06.00W CATENARY           1 00217 00473 U 2 D U                C 2006232 
+CU-000589 O CU    CUBA             22 56 46.00N 082 44 06.00W CATENARY           1 00230 00476 U 9 I U                A 1997041 
+CU-000590 O CU    CUBA             22 56 52.00N 082 32 55.00W TOWER              1 00223 00478 U 2 D U                C 2017181 
+CU-000591 O CU    CUBA             22 57 01.00N 082 32 45.00W TOWER              1 00233 00420 U 9 I U                A 1997041 
+CU-000592 O CU    CUBA             22 57 01.00N 082 34 45.00W TOWER              1 00233 00443 U 2 D U                C 2017159 
+CU-000593 O CU    CUBA             22 58 17.00N 081 34 57.00W CATENARY           1 00262 00443 U 2 D U                C 2006302 
+CU-000594 O CU    CUBA             22 58 18.00N 081 34 54.00W CATENARY           1 00262 00440 U 2 D U                C 2006323 
+CU-000595 O CU    CUBA             22 59 17.00N 081 50 05.00W STACK              1 00240 00604 U 2 D U                C 2006204 
+CU-000596 O CU    CUBA             22 59 53.00N 081 35 51.00W CATENARY           1 00381 00414 U 2 D U                C 2006316 
+CU-000597 O CU    CUBA             23 02 23.00N 082 16 49.00W STACK              1 00302 00584 U 2 D U                C 2006316 
+CU-000598 O CU    CUBA             23 03 14.00N 082 25 21.00W STACK              1 00240 00411 U 2 D U                C 2006197 
+CU-000599 O CU    CUBA             19 59 35.00N 075 52 13.00W STACK              1 00415 00420 U 2 D U                C 2006323 
+CU-000600 O CU    CUBA             20 59 04.00N 077 25 33.00W STACK              1 00213 00411 U 9 I U                A 1997049 
+CU-000601 O CU    CUBA             20 59 08.00N 077 25 36.00W STACK              1 00243 00440 U 9 I U                A 1997049 
+CU-000602 O CU    CUBA             22 48 42.00N 081 08 08.00W STACK              1 00223 00319 U 2 D U                C 2006288 
+CU-000603 O CU    CUBA             22 58 58.00N 081 10 42.00W STACK              1 00213 00240 U 2 D U                C 2006240 
+CU-000604 O CU    CUBA             23 07 15.65N 082 18 55.67W TOWER              1 00328 00532 U 2 D U                C 2017096 
+CU-000605 O CU    CUBA             23 06 31.00N 082 17 00.00W TOWER              1 00367 00483 U 2 D U                C 2006232 
+CU-000606 O CU    CUBA             23 06 29.00N 082 16 59.00W TOWER              1 00405 00530 U 2 D U                C 2006295 
+CU-000607 O CU    CUBA             23 06 29.00N 082 17 05.00W TOWER              1 00400 00529 U 2 D U                C 2006218 
+CU-000608 O CU    CUBA             23 06 27.00N 082 17 04.00W TOWER              1 00417 00552 U 9 I U                A 1997055 
+CU-000609 O CU    CUBA             23 06 05.00N 082 16 19.00W TOWER              1 00210 00386 U 2 C U                C 2008060 
+CU-000610 O CU    CUBA             23 03 37.00N 082 19 02.00W CATENARY           1 00243 00394 U 2 C U                C 2006218 
+CU-000611 O CU    CUBA             22 58 58.00N 082 54 10.00W STACK              1 00220 00250 U 2 D U                C 2006295 
+CU-000612 O CU    CUBA             22 57 25.00N 082 45 56.00W STACK              1 00272 00390 U 2 C U                C 2008038 
+CU-000613 O CU    CUBA             22 44 33.00N 080 05 22.00W STACK              1 00220 00299 U 2 D U                C 2006281 
+CU-000614 O CU    CUBA             22 42 10.00N 080 44 00.00W STACK              1 00230 00483 U 2 D U                C 2006275 
+CU-000615 O CU    CUBA             22 41 15.00N 080 00 52.00W STACK              1 00236 00591 U 2 D U                C 2006218 
+CU-000616 O CU    CUBA             22 40 22.00N 080 12 14.00W STACK              1 00236 00365 U 9 I U                A 1997055 
+CU-000617 O CU    CUBA             22 17 08.00N 081 12 15.00W TOWER              1 00207 00232 U 2 C U                C 2009232 
+CU-000618 O CU    CUBA             22 16 52.00N 081 13 54.00W TOWER              1 00325 00345 U 2 C U                C 2009232 
+CU-000619 O CU    CUBA             20 44 56.00N 076 22 52.00W STACK              1 00236 00453 U 2 D U                C 2006218 
+CU-000620 O CU    CUBA             20 44 55.00N 076 22 54.00W STACK              2 00226 00440 U 2 D U                C 2006232 
+CU-000621 O CU    CUBA             20 44 47.00N 076 30 00.00W STACK              2 00240 00430 U 2 D U                C 2006218 
+CU-000622 O CU    CUBA             20 44 45.00N 076 29 59.00W STACK              1 00240 00427 U 9 I U                A 1997055 
+CU-000623 O CU    CUBA             20 44 13.00N 076 19 46.00W TOWER              1 00407 00636 U 2 I U                C 2018276 
+CU-000624 O CU    CUBA             20 35 23.50N 076 08 46.00W TOWER              1 00510 00811 U 2 D U                C 2023165 
+CU-000630 O CU    CUBA             23 09 26.00N 082 01 34.00W TOWER              1 00300 00535 U 9 I U                A 1997181 
+CU-000631 O CU    CUBA             23 08 31.00N 082 22 47.00W BLDG               1 00205 00225 U 2 D N                C 2006218 
+CU-000632 O CU    CUBA             23 05 52.00N 082 23 38.80W TOWER              1 00215 00314 U 4 D U                C 2017096 
+CU-000633 O CU    CUBA             23 04 22.00N 082 27 21.00W TOWER              1 00235 00325 U 4 D U                C 2006232 
+CU-000634 O CU    CUBA             23 03 12.00N 082 25 19.00W STACK              1 00210 00375 U 9 I U                A 1997181 
+CU-000635 O CU    CUBA             23 03 07.10N 082 28 32.18W TOWER              1 00473 00588 U 2 E U                C 2017184 
+CU-000636 O CU    CUBA             23 03 07.00N 082 28 26.00W TOWER              1 00240 00350 U 4 D U                C 2006190 
+CU-000637 O CU    CUBA             23 02 23.00N 082 04 58.00W TOWER              1 00210 00955 U 9 I U                A 1997181 
+CU-000638 O CU    CUBA             23 01 12.00N 082 45 03.00W STACK              2 00260 00280 U 9 I U                A 1997181 
+CU-000639 O CU    CUBA             23 00 50.00N 082 36 34.00W STACK              1 00230 00305 U 4 D U                C 2006344 
+CU-000640 O CU    TOWER            21 58 24.00N 084 01 36.00W TOWER              1 00310 00385 U 4 D U                C 2006281 
+CU-000642 O CU    CUBA             22 48 47.00N 082 09 07.00W STACK              1 00220 00371 U 9 I U                A 1997223 
+CU-000643 O CU    CUBA             22 48 45.00N 082 09 06.00W STACK              1 00210 00358 U 2 D U                C 2006232 
+CU-000644 O CU    CUBA             22 43 59.00N 080 55 01.00W TOWER              1 00525 00702 U 5 D U                C 2006204 
+CU-000645 O CU    CUBA             22 39 12.00N 083 13 29.00W TOWER              1 00276 00495 U 2 D U                C 2006232 
+CU-000646 O CU    CUBA             22 22 56.00N 080 50 03.00W TOWER              1 00292 00377 U 2 C U                C 2009232 
+CU-000647 O CU    CUBA             20 38 22.00N 074 52 41.00W PLANT              1 00282 00383 U 2 D U                C 2008318 
+CU-000649 O CU    CUBA             20 08 30.00N 075 15 15.00W TOWER              1 00394 00633 U 2 D U                C 2006218 
+CU-000650 O CU    CUBA             20 37 40.00N 074 52 05.00W CATENARY           1 00308 00563 U 2 D U                C 2008318 
+CU-000651 O CU    CUBA             20 37 30.00N 074 55 38.00W CATENARY           1 00203 00288 U 2 D U                C 2006190 
+CU-000652 O CU    CUBA             20 37 23.00N 074 54 28.00W CATENARY           1 00236 00619 U 2 D U                C 2006275 
+CU-000653 O CU    CUBA             20 37 18.00N 074 51 35.00W CATENARY           1 00308 00357 U 2 D U                C 2008318 
+CU-000654 O CU    CUBA             20 37 15.00N 074 55 35.00W CATENARY           1 00246 00374 U 2 D U                C 2008318 
+CU-000655 O CU    CUBA             20 37 01.00N 074 56 23.00W CATENARY           1 00312 00429 U 2 D U                C 2006302 
+CU-000656 O CU    CUBA             20 36 36.00N 074 52 24.00W CATENARY           1 00299 00548 U 2 D U                C 2006316 
+CU-000657 O CU    CUBA             20 36 35.00N 074 53 41.00W CATENARY           1 00243 00492 U 2 D U                C 2006218 
+CU-000658 O CU    CUBA             20 36 31.00N 074 53 42.00W CATENARY           1 00243 00708 U 2 D U                C 2006316 
+CU-000659 O CU    CUBA             22 21 41.00N 080 14 46.00W STACK              1 00240 00623 U 2 D U                C 2006211 
+CU-000661 O CU    CUBA             22 22 52.00N 080 13 49.00W STACK              1 00240 00623 U 2 D U                C 2006232 
+CU-000662 O CU    CUBA             22 22 37.00N 080 11 45.00W STACK              1 00240 00594 U 2 D U                C 2006232 
+CU-000663 O CU    CUBA             22 22 35.00N 080 07 28.00W STACK              1 00243 00614 U 2 D U                C 2006232 
+CU-000677 O CU    CUBA             20 37 53.00N 074 52 22.00W CATENARY           1 00230 00262 U 2 D U                C 2008318 
+CU-000678 O CU    CUBA             21 54 47.00N 080 16 49.00W TOWER              1 00205 00625 U 4 F U                C 2006302 
+CU-000679 O CU    CUBA             20 56 56.00N 075 43 32.00W TOWER              1 00220 00284 U 4 D U                C 2008060 
+CU-000680 O CU    CUBA             20 54 13.52N 075 43 30.36W STACK              1 00230 00259 U 3 D U                C 2018068 
+CU-000681 O CU    CUBA             20 48 31.00N 075 34 40.00W TOWER              1 00460 00616 U 4 D U                C 2008060 
+CU-000682 O CU    CUBA             20 34 00.00N 075 56 25.00W STACK              2 00255 00505 U 4 F U                C 2006190 
+CU-000683 O CU    CUBA             20 22 00.00N 075 54 25.00W STACK              2 00310 01010 U 4 F U                C 2006316 
+CU-000684 O CU    CUBA             20 15 32.00N 075 52 57.00W STACK              1 00260 00630 U 4 E U                C 2006218 
+CU-000685 O CU    CUBA             20 12 00.00N 075 46 58.00W STACK              1 00260 00705 U 4 E U                C 2006323 
+CU-000686 O CU    CUBA             20 11 59.50N 075 59 00.60W TOWER              1 00315 00892 U 4 D U                C 2023180 
+CU-000687 O CU    CUBA             20 08 43.00N 075 44 21.00W STACK              2 00260 00822 U 4 E U                C 2006316 
+CU-000688 O CU    CUBA             20 01 36.00N 075 48 38.00W BLDG               1 00225 00310 U 9 I N                A 1998061 
+CU-000689 O CU    CUBA             22 52 22.00N 082 19 57.00W TOWER              1 00210 00505 U 4 E U                C 2006190 
+CU-000690 O CU    CUBA             22 51 55.00N 082 20 01.00W TOWER              1 00295 00550 U 4 E U                C 2006344 
+CU-000693 O CU    CUBA             22 50 34.00N 082 45 43.00W STACK              2 00255 00530 U 4 E U                C 2006204 
+CU-000694 O CU    CUBA             22 49 46.00N 082 17 15.00W TOWER              1 00280 00450 U 4 E U                C 2006275 
+CU-000695 O CU    CUBA             22 49 46.00N 082 17 16.00W TOWER              1 00280 00455 U 4 E U                C 2006302 
+CU-000696 O CU    CUBA             22 49 46.00N 082 17 17.00W TOWER              1 00280 00450 U 4 E U                C 2006190 
+CU-000697 O CU    CUBA             22 49 38.00N 082 17 22.00W TOWER              1 00280 00450 U 4 E U                C 2006281 
+CU-000698 O CU    CUBA             22 49 37.00N 082 17 23.00W TOWER              1 00280 00450 U 4 E U                C 2006316 
+CU-000699 O CU    CUBA             22 49 36.00N 082 17 24.00W TOWER              1 00280 00445 U 4 E U                C 2006302 
+CU-000700 O CU    CUBA             22 49 19.00N 082 17 43.00W TOWER              4 00545 00705 U 9 I U                A 1998061 
+CU-000701 O CU    CUBA             22 49 15.00N 082 17 19.00W TOWER              4 00465 00630 U 4 E U                C 2006295 
+CU-000702 O CU    CUBA             22 48 28.00N 082 01 05.00W TOWER              1 00310 00440 U 4 E U                C 2006197 
+CU-000703 O CU    CUBA             22 48 26.00N 082 45 59.00W TOWER              1 00295 00395 U 9 I U                A 1998061 
+CU-000704 O CU    CUBA             22 48 15.00N 082 15 53.00W STACK              1 00215 00345 U 9 I U                A 1998061 
+CU-000705 O CU    CUBA             22 48 12.00N 082 14 37.00W TOWER              3 00400 00545 U 4 E U                C 2006302 
+CU-000706 O CU    CUBA             22 48 06.00N 082 47 51.00W STACK              2 00285 00420 U 4 E U                C 2006288 
+CU-000708 O CU    CUBA             22 47 50.00N 082 40 51.00W STACK              2 00210 00320 U 9 I U                A 1998061 
+CU-000709 O CU    CUBA             22 46 50.00N 082 02 04.00W STACK              1 00240 00320 U 9 I U                A 1998061 
+CU-000710 O CU    CUBA             23 08 39.00N 082 21 35.00W BLDG               1 00190 00200 U 2 D N                C 2006302 
+CU-000711 O CU    CUBA             23 08 35.00N 082 23 13.00W BLDG               1 00187 00197 U 2 D N                C 2006190 
+CU-000712 O CU    CUBA             23 08 32.00N 082 22 58.00W BLDG               1 00194 00243 U 2 D N                C 2006323 
+CU-000713 O CU    CUBA             23 08 29.00N 082 24 03.00W BLDG               1 00194 00194 U 2 D N                C 2006302 
+CU-000714 O CU    CUBA             23 08 28.00N 082 24 06.00W BLDG               1 00187 00187 U 2 D N                C 2006295 
+CU-000715 O CU    CUBA             23 08 26.00N 082 21 31.00W BLDG               1 00187 00200 U 2 D N                C 2006211 
+CU-000716 O CU    CUBA             23 08 26.00N 082 21 14.00W BLDG               1 00190 00190 U 2 D N                C 2006232 
+CU-000717 O CU    CUBA             23 08 25.00N 082 23 02.00W BLDG               1 00194 00263 U 2 D N                C 2006275 
+CU-000718 O CU    CUBA             23 08 19.00N 082 21 25.00W BLDG               1 00197 00207 U 2 D N                C 2006232 
+CU-000719 O CU    CUBA             23 08 17.00N 082 24 03.00W BLDG               1 00184 00184 U 2 D N                C 2006240 
+CU-000720 O CU    CUBA             23 08 07.00N 082 22 33.00W BLDG               1 00195 00230 U 2 D N                C 2006344 
+CU-000721 O CU    CUBA             23 08 06.00N 082 19 01.00W PLANT              1 00184 00227 U 2 D U                C 2006281 
+CU-000722 O CU    CUBA             23 08 03.00N 082 23 24.00W BLDG               1 00197 00286 U 2 D N                C 2006218 
+CU-000723 O CU    CUBA             23 07 32.00N 082 24 27.00W BLDG               1 00185 00210 U 5 F N                C 2006232 
+CU-000724 O CU    CUBA             23 07 10.00N 082 22 33.00W TOWER              1 00195 00215 U 4 D U                C 2006323 
+CU-000725 O CU    CUBA             23 07 09.00N 082 22 35.00W TOWER              1 00195 00215 U 4 D U                C 2006197 
+CU-000726 O CU    CUBA             23 07 09.00N 082 22 32.00W TOWER              1 00195 00220 U 4 D U                C 2006190 
+CU-000727 O CU    CUBA             23 07 07.00N 082 22 31.00W TOWER              1 00195 00220 U 4 D U                C 2006190 
+CU-000728 O CU    CUBA             23 07 00.00N 082 23 35.00W BLDG               1 00190 00282 U 2 D N                C 2006240 
+CU-000729 O CU    CUBA             23 06 57.00N 082 23 24.00W BLDG               1 00190 00276 U 2 D N                C 2006218 
+CU-000730 O CU    CUBA             23 06 53.00N 082 23 31.00W BLDG               1 00184 00279 U 2 D N                C 2006344 
+CU-000731 O CU    CUBA             23 06 47.00N 082 23 40.00W BLDG               1 00187 00299 U 2 D N                C 2006240 
+CU-000732 O CU    CUBA             23 04 22.00N 082 26 58.00W TOWER              1 00185 00300 U 5 F U                C 2006302 
+CU-000733 O CU    CUBA             23 02 10.00N 082 16 19.00W STACK              1 00185 00460 U 4 D U                C 2006316 
+CU-000734 O CU    CUBA             23 02 10.00N 082 16 20.00W STACK              1 00185 00455 U 4 D U                C 2006330 
+CU-000735 O CU    CUBA             23 02 10.00N 082 16 22.00W STACK              1 00185 00455 U 9 I U                A 1999025 
+CU-000736 O CU    CUBA             23 00 43.00N 082 44 44.00W BLDG               4 00190 00215 U 5 F N                C 2006344 
+CU-000737 O CU    CUBA             23 00 30.00N 082 44 46.00W STACK              1 00195 00241 U 5 C U                C 2008038 
+CU-000738 O CU    CUBA             23 00 10.00N 080 55 03.00W TOWER              1 00197 00213 U 2 D U                C 2006232 
+CU-000739 O CU    CUBA             23 00 08.00N 080 55 02.00W TOWER              1 00194 00210 U 2 D U                C 2006204 
+CU-000740 O CU    CUBA             23 00 06.00N 080 55 02.00W TOWER              1 00197 00213 U 2 D U                C 2006218 
+CU-000741 O CU    CUBA             23 00 04.00N 080 55 01.00W TOWER              1 00197 00213 U 2 D U                C 2006281 
+CU-000742 O CU    CUBA             22 57 02.00N 082 44 06.00W CATENARY           1 00184 00371 U 2 D U                C 2006275 
+CU-000743 O CU    CUBA             22 56 57.00N 082 32 20.00W TOWER              1 00184 00365 U 2 D U                C 2006288 
+CU-000744 O CU    CUBA             22 56 39.00N 082 23 40.00W TOWER              1 00185 00685 U 5 C U                C 2006323 
+CU-000745 O CU    CUBA             22 54 31.00N 081 52 34.00W STACK              1 00190 00739 U 2 D U                C 2006218 
+CU-000747 O CU    CUBA             23 07 45.00N 081 56 33.00W STACK              1 00190 00540 U 5 E U                C 2006288 
+CU-000748 O CU    CUBA             22 49 48.00N 082 17 58.00W TOWER              1 00186 00346 U 5 E U                C 2006232 
+CU-000749 O CU    CUBA             22 49 48.00N 082 17 57.00W TOWER              1 00186 00346 U 5 E U                C 2006316 
+CU-000750 O CU    CUBA             22 49 48.00N 082 17 55.00W TOWER              1 00186 00346 U 9 I U                A 1999025 
+CU-000751 O CU    CUBA             22 49 47.00N 082 17 54.00W TOWER              1 00186 00347 U 5 E U                C 2006204 
+CU-000752 O CU    CUBA             22 49 47.00N 082 18 06.00W TOWER              1 00193 00350 U 9 I U                A 1999025 
+CU-000753 O CU    CUBA             22 49 47.00N 082 17 53.00W TOWER              1 00186 00348 U 9 I U                A 1999025 
+CU-000754 O CU    CUBA             22 49 42.00N 082 26 54.00W STACK              1 00190 00433 U 2 D U                C 2006302 
+CU-000755 O CU    CUBA             22 48 51.00N 082 25 30.00W TOWER              1 00185 00295 U 4 E U                C 2006323 
+CU-000756 O CU    CUBA             22 48 39.00N 082 26 05.00W TOWER              1 00195 00295 U 4 E U                C 2006204 
+CU-000757 O CU    CUBA             22 48 24.00N 082 25 52.00W TOWER              1 00185 00280 U 4 E U                C 2006295 
+CU-000759 O CU    CUBA             22 39 27.00N 081 20 28.00W STACK              1 00198 00208 U 5 D U                C 2006288 
+CU-000760 O CU    CUBA             22 37 06.00N 080 53 20.00W STACK              2 00190 00360 U 9 I U                A 1999025 
+CU-000761 O CU    CUBA             22 25 59.00N 079 41 12.00W STACK              1 00190 00633 U 2 D U                C 2006218 
+CU-000762 O CU    CUBA             22 10 14.00N 080 26 52.00W BLDG               1 00184 00291 U 3 C U                C 2008092 
+CU-000763 O CU    CUBA             22 10 09.00N 080 26 51.00W BLDG               1 00184 00277 U 3 C U                C 2008092 
+CU-000764 O CU    CUBA             22 10 05.00N 080 26 52.99W BLDG               1 00184 00252 U 3 D U                C 2018031 
+CU-000765 O CU    CUBA             22 08 20.00N 080 26 20.00W BLDG               1 00184 00276 U 2 D U                C 2018031 
+CU-000766 O CU    CUBA             22 03 55.00N 080 30 28.00W CRANE              1 00185 00205 U 5 F U                C 2006218 
+CU-000767 O CU    CUBA             21 52 11.80N 082 46 33.30W TOWER              1 00110 00826 U 9 I U                C 2015268 
+CU-000768 O CU    CUBA             21 49 25.00N 077 57 30.00W STACK              1 00190 00225 U 5 F U                C 2006323 
+CU-000769 O CU    CUBA             21 33 24.00N 077 16 47.00W TOWER              1 00190 00254 U 4 C U                C 2009075 
+CU-000770 O CU    CUBA             21 33 10.00N 077 14 13.00W STACK              1 00185 00237 U 5 C U                C 2009075 
+CU-000771 O CU    CUBA             21 26 53.00N 082 55 29.00W TOWER              1 00190 00190 U 9 I U                A 1999025 
+CU-000772 O CU    CUBA             21 22 43.00N 077 54 22.00W BLDG               1 00185 00525 U 5 D N                C 2006232 
+CU-000773 O CU    CUBA             21 18 52.00N 076 56 07.00W STACK              1 00195 00245 U 5 D U                C 2006232 
+CU-000774 O CU    CUBA             21 10 17.00N 076 33 45.00W STACK              1 00185 00235 U 5 D U                C 2006232 
+CU-000776 O CU    CUBA             20 58 14.00N 076 56 11.00W STACK              1 00190 00500 U 5 D U                C 2006204 
+CU-000777 O CU    CUBA             20 50 39.00N 075 56 24.00W STACK              1 00190 00440 U 5 F U                C 2006240 
+CU-000778 O CU    CUBA             20 49 30.00N 077 34 48.00W STACK              1 00195 00295 U 5 D U                C 2006232 
+CU-000779 O CU    CUBA             20 41 43.00N 075 32 46.00W STACK              1 00190 00239 U 5 D U                C 2023215 
+CU-000780 O CU    CUBA             20 40 38.00N 075 24 17.00W T-L TWR            1 00195 00402 U 4 D U                C 2008038 
+CU-000781 O CU    CUBA             20 40 12.00N 075 22 40.00W T-L TWR            1 00195 00360 U 4 E U                C 2006330 
+CU-000782 O CU    CUBA             20 39 07.00N 075 34 34.00W T-L TWR            1 00195 00500 U 4 E U                C 2006218 
+CU-000783 O CU    CUBA             20 38 57.00N 074 59 08.00W CATENARY           1 00187 00325 U 2 D U                C 2006218 
+CU-000784 O CU    CUBA             20 38 55.00N 074 59 00.00W CATENARY           1 00197 00351 U 9 I U                A 1999025 
+CU-000785 O CU    CUBA             20 38 53.00N 074 59 24.00W CATENARY           1 00187 00309 U 9 I U                A 1999025 
+CU-000786 O CU    CUBA             20 38 46.00N 074 58 43.00W CATENARY           1 00187 00299 U 9 I U                A 1999025 
+CU-000787 O CU    CUBA             20 38 37.00N 074 58 24.00W CATENARY           1 00184 00260 U 9 I U                A 1999025 
+CU-000788 O CU    CUBA             20 37 28.00N 074 55 31.00W CATENARY           1 00184 00312 U 2 D U                C 2006275 
+CU-000789 O CU    CUBA             20 35 59.00N 076 08 15.00W STACK              1 00235 00515 U 4 F U                C 2006323 
+CU-000790 O CU    CUBA             20 30 31.00N 074 40 22.00W CATENARY           1 00187 00284 U 2 D U                C 2006302 
+CU-000791 O CU    CUBA             20 09 34.00N 075 12 50.00W BLDG               1 00185 00390 U 4 E N                C 2006232 
+CU-000792 O CU    CUBA             20 08 24.00N 075 08 34.00W STACK              1 00190 00285 U 4 E U                C 2006302 
+CU-000793 O CU    CUBA             20 02 34.00N 075 13 02.00W STACK              1 00190 00245 U 4 E U                C 2006344 
+CU-000796 O CU    CUBA             20 01 44.00N 075 49 16.00W BLDG               1 00195 00305 U 4 E N                C 2006302 
+CU-000799 O CU    CUBA             22 53 09.00N 080 23 25.00W TOWER              1 00290 00455 U 4 F U                C 2006275 
+CU-000800 O CU    CUBA             22 33 45.00N 080 12 47.00W STACK              1 00237 00800 U 5 B U                C 2006275 
+CU-000801 O CU    CUBA             22 25 10.00N 079 56 15.00W TOWER              1 00350 00845 U 4 F U                C 2006281 
+CU-000802 O CU    CUBA             22 24 04.00N 079 59 06.00W STACK              1 00200 00695 U 4 F U                C 2006281 
+CU-000803 O CU    CUBA             22 07 35.00N 080 20 21.00W STACK              1 00275 00470 U 4 D U                C 2006218 
+CU-000804 O CU    CUBA             22 07 32.00N 080 20 20.50W STACK              1 00275 00448 U 2 D U                C 2018031 
+CU-000806 O CU    CUBA             21 32 12.00N 078 13 49.00W STACK              1 00210 00452 U 4 C U                C 2009075 
+CU-000807 O CU    CUBA             21 32 11.00N 078 13 48.00W STACK              1 00200 00438 U 4 C U                C 2009075 
+CU-000808 O CU    CUBA             21 32 09.00N 078 13 47.00W STACK              1 00275 00512 U 4 C U                C 2011056 
+CU-000809 O CU    CUBA             21 30 24.00N 078 13 36.00W STACK              1 00215 00403 U 4 C U                C 2009075 
+CU-000811 O CU    CUBA             20 56 18.00N 076 56 55.80W TOWER              1 00230 00674 U 4 D U                C 2019135 
+CU-000812 O CU    CUBA             20 44 12.00N 076 19 46.00W TOWER              1 00400 00635 U 2 D U                C 2006204 
+CU-000814 O CU    CUBA             23 07 15.00N 082 17 21.00W TANK               1 00200 00225 U 5 D U                C 2006316 
+CU-000815 O CU    CUBA             23 06 29.00N 082 17 40.00W TANK               1 00200 00340 U 5 D U                C 2006344 
+CU-000816 O CU    CUBA             23 04 21.00N 082 23 32.00W TANK               1 00200 00325 U 5 D U                C 2006281 
+CU-000817 O CU    CUBA             23 03 21.00N 082 28 32.00W TANK               1 00200 00270 U 5 D U                C 2006232 
+CU-000818 O CU    CUBA             23 03 20.00N 082 21 43.00W TANK               1 00205 00400 U 9 I U                A 1999214 
+CU-000819 O CU    CUBA             23 03 19.00N 082 23 03.00W TANK               1 00205 00405 U 5 D U                C 2006190 
+CU-000820 O CU    CUBA             23 03 07.00N 082 25 44.00W TANK               1 00200 00380 U 5 F U                C 2006344 
+CU-000821 O CU    CUBA             23 02 51.00N 082 27 32.00W TANK               1 00200 00360 U 9 I U                A 1999214 
+CU-000822 O CU    CUBA             23 02 40.00N 082 26 57.00W STACK              1 00200 00330 U 9 I U                A 1999214 
+CU-000823 O CU    CUBA             23 02 25.00N 082 16 42.00W TANK               1 00180 00463 U 2 D U                C 2006204 
+CU-000824 O CU    CUBA             23 01 18.19N 082 24 03.34W TANK               1 00205 00433 U 3 D U                C 2017335 
+CU-000825 O CU    CUBA             22 59 00.00N 082 27 49.00W TOWER              1 00200 00460 U 5 D U                C 2006323 
+CU-000826 O CU    CUBA             22 58 01.00N 082 08 45.00W TANK               1 00215 00645 U 5 D U                C 2006204 
+CU-000827 O CU    CUBA             22 57 44.00N 082 09 29.00W TOWER              1 00215 00661 U 5 C U                C 2008060 
+CU-000828 O CU    CUBA             22 57 23.00N 082 45 56.00W STACK              1 00285 00393 U 5 C U                C 2008038 
+CU-000829 O CU    CUBA             22 45 47.00N 080 58 26.00W STACK              1 00200 00390 U 5 F U                C 2006218 
+CU-000834 O CU    CUBA             22 04 53.00N 078 20 33.00W STACK              1 00230 00260 U 5 D U                C 2006232 
+CU-000835 O CU    CUBA             21 56 25.00N 079 10 19.00W STACK              1 00255 00520 U 4 D U                C 2006302 
+CU-000836 O CU    CUBA             21 56 24.00N 079 10 21.00W STACK              1 00220 00485 U 9 I U                A 1999214 
+CU-000837 O CU    CUBA             21 56 23.00N 079 10 21.00W STACK              1 00260 00515 U 4 D U                C 2006218 
+CU-000838 O CU    CUBA             21 56 22.00N 079 10 22.00W STACK              1 00220 00485 U 9 I U                A 1999214 
+CU-000839 O CU    CUBA             21 55 49.00N 079 10 04.00W STACK              1 00225 00490 U 5 F U                C 2006190 
+CU-000840 O CU    CUBA             21 55 46.00N 079 10 05.00W STACK              1 00225 00490 U 5 F U                C 2006197 
+CU-000841 O CU    CUBA             21 55 10.00N 079 25 16.00W STACK              1 00200 00405 U 5 D U                C 2006323 
+CU-000842 O CU    CUBA             21 52 13.00N 078 45 53.00W TOWER              1 00390 00525 U 5 F U                C 2006302 
+CU-000843 O CU    CUBA             21 52 01.00N 078 43 16.00W TOWER              1 00260 00425 U 5 F U                C 2006281 
+CU-000844 O CU    CUBA             21 51 27.00N 078 43 57.00W TOWER              1 00260 00425 U 5 F U                C 2006218 
+CU-000845 O CU    CUBA             21 39 45.00N 079 28 01.00W STACK              1 00210 00235 U 5 C U                C 2009075 
+CU-000847 O CU    CUBA             20 22 04.00N 076 38 00.00W BLDG               1 00180 00360 U 5 D N                C 2006218 
+CU-000848 O CU    CUBA             20 08 14.00N 077 00 04.00W TOWER              1 00375 00572 U 4 D U                C 2006218 
+CU-000853 O CU    CUBA             22 57 07.00N 080 56 21.00W STACK              1 00240 00300 U 4 E U                C 2006232 
+CU-000854 O CU    CUBA             21 55 57.00N 079 23 30.00W TOWER              1 00280 00470 U 5 D U                C 2006218 
+CU-000870 O CU    CUBA             20 59 06.00N 077 25 40.00W STACK              1 00213 00409 U 2 D U                C 2006232 
+CU-000872 O CU    CUBA             21 41 33.00N 078 27 43.00W TOWER              1 00253 00384 U 5 E U                C 2006302 
+CU-000873 O CU    CUBA             21 54 47.00N 079 26 06.00W TOWER              1 00290 00433 U 9 I U                C 2006302 
+CU-000874 O CU    CUBA             21 55 16.00N 079 25 28.00W STACK              1 00200 00371 U 5 E U                C 2006316 
+CU-000875 O CU    CUBA             21 55 50.00N 079 25 07.00W TOWER              1 00425 00652 U 5 E U                C 2006288 
+CU-000876 O CU    CUBA             21 56 05.00N 079 23 48.00W TOWER              1 00325 00563 U 9 I U                A 2000053 
+CU-000877 O CU    CUBA             21 59 56.00N 079 25 14.00W STACK              2 00205 00467 U 9 I U                C 2006204 
+CU-000878 O CU    CUBA             22 22 50.00N 080 50 50.00W TOWER              1 00295 00372 U 9 I U                A 2000059 
+CU-000879 O CU    CUBA             22 22 59.00N 079 33 24.00W TOWER              1 00282 01171 U 5 E U                C 2006344 
+CU-000880 O CU    CUBA             22 31 56.00N 078 22 05.00W TOWER              1 00190 00193 U 5 F U                C 2006302 
+CU-000881 O CU    CUBA             22 55 00.00N 081 17 30.00W STACK              1 00180 00455 U 5 F U                C 2006240 
+CU-000882 O CU    CUBA             22 46 16.00N 080 37 02.00W STACK              1 00200 00436 U 5 D U                C 2006302 
+CU-000883 O CU    CUBA             22 46 17.00N 080 37 02.00W STACK              1 00200 00434 U 5 D U                C 2006281 
+CU-000884 O CU    CUBA             22 49 42.00N 082 57 19.00W TOWER              1 00197 01836 U 9 I U                A 2000066 
+CU-000893 O CU    CUBA             22 10 17.00N 080 26 45.00W TOWER              1 00290 00384 U 3 C U                C 2008092 
+CU-000930 O CU    CUBA             23 07 55.00N 082 22 12.00W BLDG               1 00180 00250 U 2 D U                A 2006190 
+CU-000931 O CU    CUBA             22 49 42.00N 082 18 09.00W TOWER              1 00290 00451 U 5 E U                A 2006190 
+CU-000934 O CU    CUBA             23 06 00.00N 082 24 26.00W STACK              1 00180 00266 U 2 D U                A 2006190 
+CU-000935 O CU    CUBA             20 01 25.00N 075 49 01.00W BLDG               1 00180 00350 U 2 D U                C 2017082 
+CU-000938 O CU    CUBA             22 49 48.00N 082 18 02.00W TOWER              1 00279 00434 U 5 E U                A 2006218 
+CU-000939 O CU    CUBA             23 07 10.00N 082 23 33.00W BLDG               1 00180 00273 U 2 D U                A 2006218 
+CU-000940 O CU    CUBA             22 48 23.00N 082 14 37.00W TOWER              1 00535 00705 U 5 I U                A 2006211 
+CU-000942 O CU    CUBA             22 49 23.00N 082 18 40.00W TOWER              1 00547 00708 U 5 E U                A 2006218 
+CU-000944 O CU    CUBA             23 02 17.00N 082 16 31.00W TANK               1 00180 00445 U 5 D U                A 2006218 
+CU-000945 O CU    CUBA             22 51 25.00N 082 20 38.00W TOWER              1 00307 00509 U 5 E U                A 2006218 
+CU-000946 O CU    CATENARY         19 59 58.00N 075 51 45.00W CATENARY           1 00226 00253 U 2 D U                A 2006218 
+CU-000949 O CU    CUBA             23 07 09.00N 082 22 20.00W BLDG               1 00180 00255 U 5 F U                C 2007224 
+CU-000953 O CU    CUBA             23 09 44.00N 082 16 35.00W BLDG               1 00180 00205 U 5 F U                A 2006232 
+CU-000955 O CU    CUBA             22 43 57.00N 080 54 10.00W TOWER              1 00358 00568 U 5 D U                A 2006275 
+CU-000956 O CU    CUBA             23 10 52.00N 081 59 52.00W TOWER              1 00180 00194 U 2 D U                A 2006275 
+CU-000957 O CU    CUBA             20 36 00.00N 076 08 15.00W STACK              1 00215 00495 U 4 F U                A 2006275 
+CU-000959 O CU    CUBA             22 49 49.00N 082 18 01.00W TOWER              1 00279 00435 U 5 E U                A 2006275 
+CU-000960 O CU    CUBA             22 49 40.00N 082 18 11.00W TOWER              1 00290 00453 U 5 E U                A 2006281 
+CU-000961 O CU    CUBA             20 19 49.00N 077 09 04.00W TOWER              1 00300 00310 U 5 E U                C 2007098 
+CU-000964 O CU    CUBA             22 51 23.00N 082 20 24.00W TOWER              1 00300 00509 U 5 E U                A 2006281 
+CU-000965 O CU    CUBA             22 51 23.00N 082 20 36.00W TOWER              1 00281 00480 U 5 E U                A 2006281 
+CU-000966 O CU    CUBA             22 49 23.00N 082 18 13.00W TOWER              1 00465 00619 U 5 E U                A 2006295 
+CU-000967 O CU    CUBA             22 51 28.00N 082 20 38.00W TOWER              1 00269 00471 U 5 E U                A 2006295 
+CU-000968 O CU    CUBA             20 19 35.00N 074 28 34.00W TOWER              1 00295 00305 U 2 D U                A 2006295 
+CU-000970 O CU    CUBA             22 49 39.00N 082 18 13.00W TOWER              1 00290 00454 U 5 E U                A 2006288 
+CU-000971 O CU    CUBA             23 08 42.00N 082 23 09.00W BLDG               1 00180 00181 U 2 D U                A 2006288 
+CU-000974 O CU    CUBA             23 07 11.00N 082 20 19.00W BLDG               1 00180 00190 U 5 F U                A 2006302 
+CU-000975 O CU    CUBA             21 49 59.00N 078 43 57.00W TOWER              1 00500 00631 U 5 D U                A 2006302 
+CU-000976 O CU    CUBA             22 51 26.00N 082 20 18.00W TOWER              1 00284 00500 U 5 E U                A 2006302 
+CU-000977 O CU    CUBA             20 01 24.00N 075 49 04.00W BLDG               1 00180 00312 U 2 D U                A 2006302 
+CU-000979 O CU    CUBA             20 43 40.00N 075 35 43.00W CRANE              1 00180 00230 U 5 F U                A 2006309 
+CU-000980 O CU    CUBA             22 49 21.00N 082 18 12.00W TOWER              1 00465 00616 U 5 E U                A 2006309 
+CU-000982 O CU    CUBA             20 43 42.00N 075 35 34.00W TANK               1 00180 00208 U 5 D U                C 2008318 
+CU-000983 O CU    CUBA             22 49 48.00N 082 18 04.00W TOWER              1 00279 00434 U 5 E U                A 2006309 
+CU-000984 O CU    CUBA             22 35 40.00N 079 51 19.00W STACK              1 00265 00425 U 5 E U                A 2006309 
+CU-000985 O CU    CUBA             22 51 23.00N 082 20 27.00W TOWER              1 00270 00479 U 5 E U                A 2006316 
+CU-000987 O CU    CUBA             22 30 17.00N 079 49 01.00W STACK              1 00200 00390 U 6 E U                A 2006316 
+CU-000989 O CU    CUBA             23 07 55.00N 082 22 09.00W BLDG               1 00240 00312 U 2 D U                A 2006316 
+CU-000990 O CU    CUBA             22 49 41.00N 082 18 11.00W TOWER              1 00290 00452 U 5 E U                A 2006316 
+CU-000991 O CU    CUBA             20 09 34.00N 076 56 27.00W TOWER              1 00341 00584 U 5 E U                A 2006316 
+CU-000994 O CU    CUBA             22 49 20.00N 082 18 15.00W TOWER              1 00465 00617 U 5 E U                A 2006323 
+CU-000995 O CU    CUBA             22 49 26.00N 082 18 41.00W TOWER              1 00547 00709 U 5 E U                A 2006323 
+CU-000996 O CU    CUBA             22 49 45.00N 082 18 06.00W TOWER              1 00279 00439 U 5 E U                A 2006323 
+CU-000997 O CU    CUBA             20 01 25.00N 075 49 03.00W BLDG               1 00180 00367 U 2 D U                C 2017096 
+CU-000998 O CU    CUBA             21 59 08.00N 079 18 25.00W STACK              1 00265 00515 U 5 D U                A 2006323 
+CU-001000 O CU    CUBA             22 51 24.00N 082 20 20.00W TOWER              1 00302 00515 U 5 E U                A 2006323 
+CU-001002 O CU    CUBA             20 36 00.00N 076 08 16.00W STACK              1 00235 00515 U 4 F U                A 2006330 
+CU-001003 O CU    CUBA             22 22 46.00N 080 16 46.00W STACK              1 00210 00558 U 2 D U                A 2006330 
+CU-001004 O CU    CUBA             22 49 27.00N 082 18 38.00W TOWER              1 00547 00711 U 5 E U                A 2006344 
+CU-001005 O CU    CUBA             22 52 07.00N 082 26 23.00W TOWER              1 00311 00508 U 5 C U                C 2009232 
+CU-020001 O CU    CUBA             22 10 57.00N 080 29 28.00W TANK               1 00185 00256 U 3 C U                A 2008092 
+CU-020002 O CU    CUBA             21 44 45.00N 082 38 41.00W WINDMILL           1 00215 00288 U 4 C U                A 2008121 
+CU-020003 O CU    CUBA             21 45 01.27N 082 38 40.89W WINDMILL           1 00306 00368 U 2 D W                C 2023192 
+CU-020004 O CU    CUBA             21 44 52.00N 082 38 41.00W WINDMILL           1 00215 00289 U 4 C U                A 2008121 
+CU-020005 O CU    CUBA             21 44 58.00N 082 38 41.00W WINDMILL           1 00215 00293 U 4 C U                A 2008121 
+CU-020006 O CU    CUBA             21 44 55.00N 082 38 41.00W WINDMILL           1 00215 00297 U 4 C U                A 2008121 
+CU-020007 O CU    CUBA             21 44 48.00N 082 38 41.00W WINDMILL           1 00215 00284 U 4 C U                A 2008121 
+CU-020008 O CU    CUBA             20 53 17.00N 076 14 34.00W BLDG               1 00190 00693 U 4 C U                A 2008130 
+CU-020009 O CU    CUBA             20 53 19.00N 076 14 33.00W BLDG               1 00190 00682 U 4 C U                A 2008130 
+CU-020010 O CU    CUBA             21 42 49.00N 082 45 39.00W TOWER              1 00275 00415 U 4 C U                A 2008276 
+CU-020012 O CU    CUBA             22 53 37.00N 082 25 43.00W TOWER              1 00302 00584 U 9 C U                A 2008317 
+CU-020013 O CU    CUBA             22 56 14.00N 080 54 01.00W TOWER              1 00254 00438 U 9 C U                A 2008317 
+CU-020014 O CU    CUBA             22 35 10.00N 083 18 23.00W TOWER              1 00289 00538 U 9 C U                A 2009075 
+CU-020015 O CU    CUBA             21 21 53.00N 077 52 33.00W TOWER              1 00745 01116 U 2 C U                A 2009085 
+CU-020016 O CU    CUBA             21 22 50.00N 077 54 38.00W BLDG               1 00190 00530 U 2 C U                A 2009085 
+CU-020017 O CU    CUBA             23 09 55.00N 082 11 06.00W TOWER              1 00200 00397 U 1 C U                A 2009085 
+CU-020018 O CU    CUBA             21 22 49.89N 077 54 27.48W BLDG               1 00275 00601 U 2 D U                C 2023296 
+CU-020019 O CU    CUBA             23 10 02.00N 082 06 21.00W TOWER              1 00210 00252 U 1 C U                A 2009085 
+CU-020020 O CU    CUBA             21 21 43.00N 077 53 40.00W BLDG               1 00200 00562 U 2 C U                A 2009085 
+CU-020021 O CU    CUBA             21 21 46.00N 077 52 50.00W TOWER              1 00300 00654 U 2 C U                A 2009085 
+CU-020022 O CU    CUBA             21 22 41.00N 077 54 30.00W BLDG               1 00190 00528 U 2 C U                A 2009085 
+CU-020023 O CU    CUBA             22 08 49.09N 080 26 42.57W TOWER              1 00260 00332 U 4 D U                C 2018031 
+CU-020024 O CU    CUBA             22 47 14.00N 082 23 20.00W STACK              1 00250 00338 U 2 C U                A 2009232 
+CU-020025 O CU    CUBA             22 59 44.00N 080 55 07.00W TOWER              1 00400 00433 U 2 C U                A 2010064 
+CU-020026 O CU    CUBA             22 59 47.00N 080 54 37.00W TOWER              1 00400 00424 U 2 C U                A 2010064 
+CU-020027 O CU    CUBA             22 59 43.00N 080 54 37.00W TOWER              1 00400 00431 U 2 C U                A 2010064 
+CU-020028 O CU    CUBA             22 59 59.00N 080 54 35.00W TOWER              1 00315 00343 U 2 C U                A 2010064 
+CU-020029 O CU    CUBA             22 59 49.00N 080 55 07.00W TOWER              1 00400 00423 U 2 C U                A 2010064 
+CU-020030 O CU    CUBA             21 47 17.00N 079 59 10.00W TOWER              1 00254 00367 U 3 E U                A 2012019 
+CU-020031 O CU    CUBA             19 54 19.23N 075 07 48.53W WINDMILL           1 00339 00811 U 2 E W                C 2023187 
+CU-020032 O CU    CUBA             19 54 26.00N 075 07 42.00W WINDMILL           1 00192 00620 U 1 D U                C 2017178 
+CU-020033 O CU    CUBA             19 54 29.00N 075 07 40.00W WINDMILL           1 00221 00629 U 1 D U                A 2012173 
+CU-020034 O CU    CUBA             19 54 27.73N 075 07 32.63W WINDMILL           1 00285 00627 U 1 A U                C 2017174 
+CU-020035 O CU    CUBA             21 52 17.60N 082 46 33.20W TOWER              1 00175 01053 U 9 I U                A 2015268 
+CU-020038 O CU    CUBA             21 16 34.95N 077 43 13.18W TOWER              1 00200 00825 U 5 I U                A 2017097 
+CU-020039 O CU    CUBA             20 53 01.00N 076 16 45.06W TOWER              1 00400 00850 U 5 I U                A 2017097 
+CU-020040 O CU    CUBA             22 26 06.06N 079 54 58.03W TOWER              1 00327 00631 U 3 E U                A 2017093 
+CU-020041 O CU    CUBA             22 23 00.00N 079 29 49.34W STACK              1 00220 00710 U 5 I U                A 2017097 
+CU-020042 O CU    CUBA             22 48 10.00N 082 13 21.00W TOWER              1 00470 00610 U 6 I U                A 2017096 
+CU-020043 O CU    CUBA             22 55 20.00N 081 51 11.00W TOWER              1 00260 00990 U 5 I U                A 2017103 
+CU-020044 O CU    CUBA             21 57 21.85N 079 26 32.34W TOWER              1 00325 00525 U 5 I U                A 2017103 
+CU-020045 O CU    CUBA             21 26 00.00N 078 07 38.22W TOWER              1 00355 00580 U 5 I U                A 2017111 
+CU-020046 O CU    CUBA             20 55 52.00N 076 28 37.07W TOWER              1 00285 00535 U 5 I U                A 2017111 
+CU-020047 O CU    CUBA             22 56 19.97N 082 30 03.14W STACK              1 00200 00417 U 2 D U                A 2017180 
+CU-020048 O CU    CUBA             23 02 36.81N 082 27 22.99W TOWER              1 00750 00908 U 2 D U                C 2018152 
+CU-020049 O CU    CUBA             23 03 20.03N 082 32 29.59W LGTHOUSE           1 00182 00228 U 3 E U                A 2017180 
+CU-020050 O CU    CUBA             22 57 14.68N 082 32 39.65W TOWER              1 00382 00582 U 2 D U                C 2018072 
+CU-020051 O CU    CUBA             23 02 52.15N 081 12 02.65W STACK              1 00240 00243 U 2 E U                A 2017180 
+CU-020052 O CU    CUBA             23 05 07.24N 081 16 16.46W PLANT              1 00202 00228 U 2 E U                A 2017180 
+CU-020053 O CU    CUBA             22 57 13.69N 082 32 33.31W T-L TWR            1 00226 00433 U 2 D U                C 2019186 
+CU-020054 O CU    CUBA             22 57 13.28N 082 32 42.80W T-L TWR            1 00357 00567 U 2 D U                C 2019186 
+CU-020055 O CU    CUBA             22 56 45.41N 082 32 54.70W T-L TWR            1 00375 00578 U 2 D U                C 2019186 
+CU-020056 O CU    CUBA             23 03 09.50N 081 13 15.08W TOWER              1 00182 00189 U 2 E U                A 2017180 
+CU-020057 O CU    CUBA             20 54 00.18N 076 16 01.98W TOWER              1 00400 01335 U 3 E U                A 2017283 
+CU-020059 O CU    CUBA             20 44 55.83N 076 22 52.85W STACK              1 00246 00483 U 2 D U                A 2017283 
+CU-020060 O CU    CUBA             20 01 27.81N 075 50 41.25W TOWER              1 00186 00186 U 2 D U                A 2017328 
+CU-020061 O CU    CUBA             20 00 08.87N 075 52 07.73W STACK              1 00190 00270 U 2 D U                A 2017328 
+CU-020062 O CU    CUBA             19 59 47.62N 075 51 31.43W T-L TWR            1 00210 00382 U 2 D U                A 2017334 
+CU-020063 O CU    CUBA             19 59 37.77N 075 52 14.49W STACK              1 00476 00588 U 3 E U                A 2017334 
+CU-020064 O CU    CUBA             21 36 45.88N 081 29 09.62W TOWER              1 00260 00298 U 2 D U                A 2017334 
+CU-020065 O CU    CUBA             21 23 07.12N 077 54 58.28W TOWER              1 00195 00538 U 2 D U                A 2017335 
+CU-020066 O CU    CUBA             20 16 17.38N 077 12 33.18W STACK              1 00240 00299 U 2 D U                A 2017335 
+CU-020067 O CU    CUBA             23 07 48.00N 082 19 20.00W BLDG               1 00250 00293 U 1 D U                A 2017338 
+CU-020068 O CU    CUBA             22 40 02.96N 080 31 44.90W TOWER              1 00198 00503 U 2 D U                A 2018018 
+CU-020069 O CU    CUBA             22 09 18.95N 080 19 00.62W POWER PLANT        1 00286 00636 U 1 D U                A 2018018 
+CU-020070 O CU    CUBA             22 07 53.99N 080 23 55.81W TOWER              1 00290 00440 U 2 D U                A 2018018 
+CU-020071 O CU    CUBA             22 14 42.62N 080 31 50.82W STACK              1 00220 00373 U 2 D U                A 2018031 
+CU-020072 O CU    CUBA             22 04 00.73N 080 30 26.42W TOWER              1 00200 00296 U 2 D U                A 2018031 
+CU-020073 O CU    CUBA             22 09 57.07N 080 28 27.67W CRANE              1 00295 00327 U 3 E U                A 2018031 
+CU-020074 O CU    CUBA             22 08 08.71N 080 26 55.88W TOWER              1 00255 00276 U 2 D U                A 2018031 
+CU-020075 O CU    CUBA             22 09 31.18N 080 27 19.48W STACK              1 00929 00978 U 3 E U                A 2018031 
+CU-020076 O CU    CUBA             20 25 07.93N 075 32 10.10W TOWER              1 00294 00887 U 3 D U                A 2018064 
+CU-020077 O CU    CUBA             20 45 28.75N 075 39 20.28W STACK              1 00245 00293 U 3 D U                A 2018068 
+CU-020078 O CU    CUBA             20 45 30.21N 075 39 20.85W STACK              1 00200 00268 U 3 D U                A 2018068 
+CU-020079 O CU    CUBA             20 54 13.27N 075 43 29.06W STACK              1 00194 00237 U 3 D U                A 2018068 
+CU-020080 O CU    CUBA             20 04 24.00N 074 38 46.56W TOWER              1 00281 00355 U 3 D U                A 2018072 
+CU-020081 O CU    CUBA             20 00 36.91N 075 13 07.81W TOWER              1 00308 00501 U 3 D U                A 2018072 
+CU-020082 O CU    CUBA             20 37 29.10N 075 02 13.82W TOWER              1 00240 01723 U 3 D U                A 2018072 
+CU-020083 O CU    CUBA             20 38 53.08N 074 54 50.29W TOWER              1 00233 00409 U 3 D U                A 2018072 
+CU-020084 O CU    CUBA             20 05 57.92N 075 49 46.32W TOWER              1 00183 01781 U 3 D U                A 2018072 
+CU-020085 O CU    CUBA             20 48 26.73N 075 34 41.72W TOWER              1 00501 00663 U 3 D U                A 2018074 
+CU-020086 O CU    CUBA             20 50 35.42N 075 56 28.55W STACK              1 00228 00494 U 3 D U                A 2018075 
+CU-020087 O CU    CUBA             20 12 19.29N 075 10 33.95W STACK              1 00235 00540 U 3 D U                A 2018117 
+CU-020088 O CU    CUBA             20 13 14.02N 075 13 58.16W STACK              1 00213 00573 U 3 D U                A 2018120 
+CU-020089 O CU    CUBA             20 03 29.50N 075 08 32.96W STACK              1 00247 00297 U 3 D U                A 2018120 
+CU-020090 O CU    CUBA             20 45 30.86N 075 39 21.11W STACK              1 00180 00252 U 3 D U                A 2018123 
+CU-020091 O CU    CUBA             20 36 51.99N 074 49 48.53W STACK              1 00262 00433 U 3 D U                A 2018123 
+CU-020092 O CU    CUBA             20 24 39.35N 075 31 34.92W TOWER              1 00323 00932 U 3 D U                A 2018123 
+CU-020093 O CU    CUBA             20 38 12.06N 074 52 48.46W STACK              1 00187 00367 U 3 D U                A 2018130 
+CU-020094 O CU    CUBA             20 12 39.71N 075 07 44.03W STACK              1 00234 00523 U 3 D U                A 2018130 
+CU-020095 O CU    CUBA             20 45 30.27N 075 39 21.48W STACK              1 00245 00308 U 3 D U                A 2018134 
+CU-020096 O CU    CUBA             20 01 38.64N 075 49 10.36W TOWER              1 00184 00393 U 3 D U                A 2018135 
+CU-020097 O CU    CUBA             23 06 27.81N 081 22 38.36W BLDG               1 00193 00213 U 2 D U                C 2018250 
+CU-020098 O CU    CUBA             20 10 56.86N 075 29 30.36W STACK              1 00266 00676 U 3 D U                A 2018155 
+CU-020099 O CU    CUBA             20 50 35.02N 075 56 30.70W STACK              1 00244 00498 U 3 D U                A 2018152 
+CU-020100 O CU    CUBA             22 24 45.72N 083 41 31.29W BLDG-TWR           1 00205 00389 U 2 D U                A 2018194 
+CU-020101 O CU    CUBA             22 25 00.61N 083 42 05.39W TOWER              1 00325 00551 U 2 D P                A 2018228 
+CU-020102 O CU    CUBA             22 25 03.42N 083 40 29.06W TANK               1 00197 00368 U 3 E U                A 2018228 
+CU-020103 O CU    CUBA             22 25 04.49N 083 40 39.27W TANK               1 00197 00333 U 3 E U                A 2018228 
+CU-020104 O CU    CUBA             23 08 37.10N 081 16 14.74W TOWER              1 00229 00239 U 1 E P                A 2018250 
+CU-020105 O CU    CUBA             21 21 44.00N 077 57 30.01W TOWER              1 00427 00696 U 2 C U                A 2018276 
+CU-020106 O CU    CUBA             20 35 25.00N 076 08 48.99W TOWER              1 00525 00781 U 2 I U                A 2018276 
+CU-020107 O CU    CUBA             20 00 00.00N 075 51 47.76W T-L TWR            1 00230 00230 U 2 D U                A 2019029 
+CU-020108 O CU    CUBA             20 38 03.00N 074 52 55.00W STACK              1 00459 00676 U 1 D U                A 2019081 
+CU-020109 O CU    CUBA             20 22 21.42N 076 38 45.02W TOWER              1 00225 00424 U 1 D P                A 2019109 
+CU-020110 O CU    CUBA             20 55 51.62N 076 54 34.01W TOWER              1 00318 00587 U 3 E U                A 2019135 
+CU-020111 O CU    CUBA             20 55 28.49N 076 54 00.00W TOWER              1 00323 00589 U 3 E U                A 2019137 
+CU-020112 O CU    CUBA             22 57 00.67N 082 32 36.17W TOWER              1 00193 00407 U 2 D U                A 2019183 
+CU-020113 O CU    CUBA             22 56 55.14N 082 32 29.88W T-L TWR            1 00320 00526 U 2 D U                A 2019183 
+CU-020114 O CU    CUBA             22 56 46.62N 082 32 51.29W T-L TWR            1 00348 00551 U 2 D U                A 2019183 
+CU-020115 O CU    CUBA             22 56 47.51N 082 32 48.85W T-L TWR            1 00229 00432 U 2 D U                A 2019183 
+CU-020116 O CU    CUBA             22 57 13.93N 082 32 35.89W T-L TWR            1 00361 00565 U 2 D U                A 2019182 
+CU-020117 O CU    CUBA             22 57 10.64N 082 32 46.79W T-L TWR            1 00348 00560 U 2 D U                A 2019183 
+CU-020118 O CU    CUBA             22 57 08.02N 082 32 49.14W T-L TWR            1 00349 00559 U 2 D U                A 2019186 
+CU-020119 O CU    CUBA             22 56 57.81N 082 32 27.56W T-L TWR            1 00335 00535 U 2 D U                A 2019186 
+CU-020120 O CU    CUBA             22 57 12.60N 082 32 45.31W T-L TWR            1 00228 00438 U 2 D U                A 2019186 
+CU-020122 O CU    CUBA             21 09 03.32N 076 08 00.00W WINDMILL           1 00272 00292 U 2 D W                A 2021133 
+CU-020123 O CU    CUBA             21 02 05.60N 075 59 38.68W STACK              1 00232 00294 U 2 D U                A 2023122 
+CU-020124 O CU    CUBA             21 09 07.52N 076 08 02.62W WINDMILL           1 00267 00286 U 2 D W                A 2023122 
+CU-020125 O CU    CUBA             21 08 54.47N 076 07 56.03W WINDMILL           1 00294 00294 U 2 D W                A 2023213 
+CU-020126 O CU    CUBA             21 08 43.81N 076 07 56.13W WINDMILL           1 00276 00292 U 2 D W                A 2023220 
+CU-020127 O CU    CUBA             21 08 59.35N 076 07 57.12W WINDMILL           1 00275 00284 U 2 D W                A 2023221 
+CU-020129 O CU    CUBA             21 08 49.61N 076 07 55.11W WINDMILL           1 00275 00288 U 2 D W                A 2023222 
+CU-020132 O CU    CUBA             21 10 11.32N 076 09 00.00W WINDMILL           1 00300 00309 U 2 D W                A 2023131 
+CU-020133 O CU    CUBA             21 09 57.90N 076 08 53.69W WINDMILL           1 00300 00306 U 2 D W                A 2023201 
+CU-020134 O CU    CUBA             21 09 53.44N 076 08 51.63W WINDMILL           1 00300 00306 U 2 D W                A 2023167 
+CU-020135 O CU    CUBA             21 10 05.87N 076 08 57.82W WINDMILL           1 00311 00317 U 2 D W                A 2023158 
+CU-020136 O CU    CUBA             21 10 02.38N 076 08 55.74W WINDMILL           1 00300 00313 U 2 D W                A 2023206 
+CU-020137 O CU    CUBA             21 09 48.86N 076 08 49.60W WINDMILL           1 00311 00327 U 2 D W                A 2023181 
+CU-020138 O CU    CUBA             20 19 41.80N 074 35 31.00W TOWER              1 00730 02505 U 4 D U                A 2023151 
+DM-000001 O DM    DOMINICA         15 14 48.93N 061 18 05.14W TOWER              1 00448 00833 U 3 D U                C 2018152 
+DM-000002 O DM    DOMINICA         15 14 48.93N 061 18 01.26W TOWER              1 00475 00780 U 3 D U                C 2018151 
+DM-000003 O DM    DOMINICA         15 24 12.44N 061 25 09.28W TOWER              1 00326 00832 U 3 D U                C 2018151 
+DM-000004 O DM    DOMINICA         15 29 20.50N 061 15 20.39W TOWER              1 00230 00834 U 2 D U                A 2018242 
+DO-000515 O DO    DOMINICAN REPUB  18 16 40.00N 070 19 17.00W TOWER              1 00230 00371 U 9 I U                A 1996351 
+DO-000522 O DO    DOMINICAN REPUBL 18 28 52.50N 069 57 19.50W TOWER              1 00348 00533 U 3 D U                C 2018225 
+DO-000524 O DO    DOMINICAN REPUBL 18 29 45.00N 069 58 23.00W TOWER              1 00310 00425 U 5 C U                C 2009260 
+DO-000528 O DO    DOMINICAN REPUBL 18 33 48.00N 069 54 30.00W TOWER              1 00260 00392 U 5 C U                C 2009075 
+DO-000529 O DO    DOMINICAN REPUB  18 36 55.00N 068 43 03.00W SPIRE              1 00295 00640 U 9 I U                A 1996351 
+DO-000536 O DO    DOMINICAN REPUB  18 49 00.00N 070 37 20.00W TOWER              1 00276 09600 U 9 I U                A 1996351 
+DO-000537 O DO    DOMINICAN REPUBL 18 56 21.00N 070 24 42.00W TOWER              1 00558 01145 L 5 D U                C 2009075 
+DO-000540 O DO    DOMINICAN REPUBL 19 17 04.00N 070 33 31.00W TOWER              1 00475 01597 U 5 C U                C 2009260 
+DO-000541 O DO    DOMINICAN REPUB  19 18 27.00N 070 14 41.00W TOWER              1 00591 00984 U 5 D U                C 2006211 
+DO-000543 O DO    DOMINICAN REPUB  19 23 43.00N 070 31 42.00W TOWER              1 00300 00843 U 9 I U                A 1996351 
+DO-000545 O DO    DOMINICAN REPUBL 19 27 01.00N 070 41 41.00W TOWER              1 00225 00950 U 5 C U                C 2009075 
+DO-000548 O DO    DOMINICAN REPUB  19 46 18.00N 070 39 22.00W TOWER              1 00275 00465 U 9 I U                A 1996351 
+DO-000856 O DO    DOMINICAN REPUBL 18 19 21.00N 070 10 48.00W STACK              1 00195 00320 U 4 D U                C 2008038 
+DO-000857 O DO    DOMINICAN REPUBL 18 24 04.00N 070 01 58.00W STACK              1 00205 00254 U 4 D U                C 2008038 
+DO-000858 O DO    DOMINICAN REPUBL 18 24 10.00N 070 01 51.00W STACK              1 00270 00339 U 4 D U                C 2008038 
+DO-000859 O DO    DOMINICAN REPUBL 18 24 19.00N 070 01 37.00W STACK              1 00245 00328 U 4 D U                C 2008038 
+DO-000860 O DO    DOMINICAN REPUBL 18 25 00.00N 070 01 17.00W STACK              1 00205 00270 U 9 D U                C 2008038 
+DO-000861 O DO    DOMINICAN REPUB  18 25 01.00N 070 01 19.00W STACK              1 00215 00228 U 4 F U                C 2006190 
+DO-000862 O DO    DOMINICAN REPUBL 18 25 21.00N 070 01 15.00W STACK              1 00195 00211 U 4 D U                C 2008038 
+DO-000863 O DO    DOMINICAN REPUBL 18 25 23.00N 070 01 14.00W STACK              1 00190 00225 U 4 D U                C 2008038 
+DO-000864 O DO    DOMINICAN REPUBL 18 48 30.07N 070 37 42.47W TOWER              1 00180 08863 U 4 D U                C 2018225 
+DO-000865 O DO    DOMINICAN REPUB  18 55 37.00N 070 21 03.00W STACK              1 00240 00837 U 4 F U                C 2006232 
+DO-000866 O DO    DOMINICAN REPUB  18 55 48.00N 070 21 24.00W STACK              1 00410 01006 U 4 F U                C 2006218 
+DO-000903 O DO    DOMINICAN REP.   18 27 03.00N 069 56 21.00W BLDG               1 00220 00351 U 5 E N                C 2006309 
+DO-000904 O DO    DOMINICAN REPUBL 18 27 36.00N 069 55 56.00W BLDG               1 00220 00388 U 5 C U                C 2009260 
+DO-000905 O DO    DOMINICAN REPUBL 18 47 31.00N 070 38 22.00W TOWER              1 00240 08183 U 5 D U                C 2009075 
+DO-000906 O DO    DOMINICAN REPUBL 19 13 00.00N 070 30 10.00W TOWER              1 00295 00587 U 5 C U                C 2009260 
+DO-000907 O DO    DOMINICAN REPUBL 19 17 01.00N 070 12 32.00W TOWER              1 00200 00673 U 5 C U                C 2009260 
+DO-000924 O DO    DOM. REPUBLIC    18 30 00.00N 069 01 00.00W TOWER              1 00419 00681 U 9 I U                A 2005359 
+DO-000932 O DO    DOMINICAN REP.   18 27 48.00N 069 18 58.00W TOWER              1 00220 00245 U 2 E U                A 2006190 
+DO-000933 O DO    DOMINICAN REP.   18 53 15.00N 071 35 12.00W TOWER              1 00215 01563 U 9 F U                A 2006190 
+DO-000936 O DO    DOMINICAN REP.   19 33 02.00N 071 42 26.00W TOWER              1 00265 00392 U 9 F U                A 2006204 
+DO-000937 O DO    DOMINICAN REP.   18 03 16.00N 071 44 29.00W TOWER              1 00257 00387 U 3 F U                A 2006218 
+DO-000941 O DO    DOMINICAN REP.   18 33 28.00N 069 24 32.00W STACK              1 00196 00305 U 9 E U                A 2006211 
+DO-000950 O DO    DOMINICAN REP.   18 52 34.00N 071 42 07.00W TOWER              1 00205 01481 U 9 F U                A 2006232 
+DO-000951 O DO    DOMINICAN REPUBL 18 30 00.00N 069 20 21.00W BRIDGE             1 01311 01341 U 9 C U                C 2009075 
+DO-000952 O DO    DOMINICAN REP.   19 33 25.00N 071 42 20.00W TOWER              1 00217 00366 U 9 F U                A 2006232 
+DO-000954 O DO    DOMINICAN REPUBL 18 27 48.00N 069 18 57.00W TOWER              1 00221 00237 U 9 C U                C 2009075 
+DO-000963 O DO    DOMINICAN REP.   19 32 52.00N 071 42 17.00W TOWER              1 00205 00348 U 9 F U                A 2006288 
+DO-000972 O DO    DOMINICAN REPUBL 18 02 17.54N 071 44 44.34W TOWER              1 00217 00282 U 3 E U                C 2021243 
+DO-000981 O DO    DOMINICAN REPUBL 18 24 31.00N 069 30 23.00W TOWER              1 00195 00221 U 9 C U                C 2009075 
+DO-000988 O DO    DOMINICAN REP.   18 25 58.00N 069 21 23.00W TOWER              1 00196 00217 U 9 E U                A 2006316 
+DO-000993 O DO    DOMINICAN REPUBL 18 30 05.00N 069 20 09.00W BRIDGE             1 01311 01334 U 9 C U                C 2009075 
+DO-001006 O DO    DOMINICAN REPUBL 18 27 36.00N 069 18 54.00W TOWER              1 00185 00208 U 9 C U                C 2009075 
+DO-001007 O DO    DOMINICAN REPUBL 18 24 39.00N 069 29 52.00W TOWER              1 00191 00221 U 9 C U                C 2009075 
+DO-020001 O DO    DOMINICAN REPUBL 18 28 58.53N 069 53 02.01W STACK              1 00180 00209 U 2 D U                C 2017180 
+DO-020002 O DO    DOMINICAN REPUBL 18 28 57.58N 069 53 01.96W STACK              1 00180 00224 U 2 D U                C 2017181 
+DO-020003 O DO    DOMINICAN REPUBL 18 28 55.00N 069 53 02.00W STACK              1 00200 00253 U 2 C U                A 2008038 
+DO-020004 O DO    DOMINICAN REPUBL 18 29 10.00N 069 53 00.00W BRIDGE             1 00215 00244 U 5 C U                A 2008038 
+DO-020005 O DO    DOMINICAN REPUBL 18 29 10.00N 069 52 54.00W BRIDGE             1 00210 00277 U 5 C U                A 2008038 
+DO-020006 O DO    DOMINICAN REPUBL 18 29 12.00N 069 53 00.00W BRIDGE             1 00200 00207 U 5 C U                A 2008038 
+DO-020007 O DO    DOMINICAN REPUBL 18 28 42.00N 069 52 05.00W BLDG               1 00185 00309 L 5 C U                A 2008038 
+DO-020008 O DO    DOMINICAN REPUBL 18 29 51.36N 069 00 44.82W TOWER              1 00384 00656 U 3 E U                C 2021243 
+DO-020009 O DO    DOMINICAN REPULB 18 26 36.00N 069 58 00.00W BLDG               1 00230 00400 U 2 C U                A 2010109 
+DO-020010 O DO    DOMINICAN REPUBL 18 26 34.00N 069 57 35.00W BLDG               1 00260 00404 U 2 C U                A 2010109 
+DO-020011 O DO    DOMINICAN REPUBL 18 26 44.00N 069 57 46.00W BLDG               1 00190 00369 U 2 C U                A 2010109 
+DO-020012 O DO    DOMINICAN REPUBL 18 26 46.00N 069 57 40.00W BLDG               1 00185 00363 U 2 C U                A 2010109 
+DO-020013 O DO    DOMINICAN REPUBL 18 26 48.00N 069 56 59.00W BLDG               1 00190 00345 U 2 C U                A 2010109 
+DO-020014 O DO    DOMINICAN REPUBL 18 26 53.00N 069 56 44.00W BLDG               1 00435 00586 U 2 C U                A 2010109 
+DO-020015 O DO    DOMINICAN REPUBL 18 27 10.00N 069 57 38.00W BLDG               1 00260 00463 U 2 C U                A 2010109 
+DO-020016 O DO    DOMINICAN REPUBL 18 26 32.00N 069 55 47.00W BLDG               1 00200 00239 U 2 C U                A 2010109 
+DO-020017 O DO    DOMINICAN REPUBL 18 27 08.00N 069 56 16.00W BLDG               1 00270 00429 U 2 C U                A 2010109 
+DO-020018 O DO    DOMINICAN REPUBL 18 27 22.27N 069 56 21.87W BLDG               1 00200 00380 U 2 D U                C 2018235 
+DO-020019 O DO    DOMINICAN REPUBL 18 30 23.00N 069 59 02.00W TOWER              1 00220 00390 U 2 C U                A 2010109 
+DO-020020 O DO    DOMINICAN REPUBL 18 27 29.25N 069 56 06.07W BLDG               1 00185 00359 U 2 D U                C 2018235 
+DO-020021 O DO    DOMINICAN REPUBL 18 27 29.00N 069 56 04.00W BLDG               1 00210 00386 U 2 C U                A 2010109 
+DO-020022 O DO    DOMINICAN REPUBL 18 27 22.00N 069 55 56.00W BLDG               1 00230 00390 U 2 C U                A 2010109 
+DO-020023 O DO    DOMINICAN REPUBL 18 28 09.00N 069 56 10.00W BLDG               1 00190 00387 U 2 C U                A 2010109 
+DO-020024 O DO    DOMINICAN REPUBL 18 28 10.00N 069 56 22.00W BLDG               1 00390 00572 U 2 C U                A 2010109 
+DO-020025 O DO    DOMINICAN REPUBL 18 28 32.00N 069 56 25.00W BLDG               1 00190 00369 U 2 C U                A 2010109 
+DO-020026 O DO    DOMINICAN REPUBL 18 28 32.00N 069 56 26.00W BLDG               1 00190 00369 U 2 C U                A 2010109 
+DO-020027 O DO    DOMINICAN REPUBL 18 28 27.00N 069 56 25.00W BLDG               1 00180 00378 U 2 C U                A 2010109 
+DO-020028 O DO    DOMINICAN REPUBL 18 28 26.00N 069 56 26.00W BLDG               1 00180 00382 U 2 C U                A 2010109 
+DO-020029 O DO    DOMINICAN REPUBL 18 28 55.00N 069 56 29.00W BLDG               1 00200 00384 U 2 C U                A 2010109 
+DO-020030 O DO    DOMINICAN REPUBL 18 28 53.00N 069 56 30.00W BLDG               1 00180 00373 U 2 C U                A 2010109 
+DO-020031 O DO    DOMINICAN REPUBL 18 28 43.00N 069 56 25.00W BLDG               1 00180 00366 U 2 C U                A 2010109 
+DO-020032 O DO    DOMINICAN REPUBL 18 28 52.00N 069 56 19.00W BLDG               1 00190 00385 U 2 C U                A 2010109 
+DO-020033 O DO    DOMINICAN REPUBL 18 28 38.00N 069 56 22.00W BLDG               1 00220 00405 U 2 C U                A 2010109 
+DO-020034 O DO    DOMINICAN REPUBL 18 28 28.00N 069 56 09.00W BLDG               1 00200 00386 U 2 C U                A 2010109 
+DO-020035 O DO    DOMINICAN REPUBL 18 28 37.00N 069 56 10.00W TOWER              1 00285 00468 U 2 C U                A 2010109 
+DO-020036 O DO    DOMINICAN REPUBL 18 28 23.00N 069 55 51.00W BLDG               1 00230 00412 U 2 C U                A 2010109 
+DO-020037 O DO    DOMINICAN REPUBL 18 27 54.00N 069 55 35.00W BLDG               1 00200 00416 U 2 C U                A 2010109 
+DO-020038 O DO    DOMINICAN REPUBL 18 28 03.00N 069 55 20.00W BLDG               1 00240 00423 U 2 C U                A 2010109 
+DO-020039 O DO    DOMINICAN REPUBL 18 28 03.00N 069 55 21.00W BLDG               1 00245 00430 U 2 C U                A 2010109 
+DO-020040 O DO    DOMINICAN REPUBL 18 28 02.00N 069 55 21.00W BLDG               1 00230 00406 U 2 C U                A 2010109 
+DO-020041 O DO    DOMINICAN REPUBL 18 27 53.00N 069 55 24.00W BLDG               1 00230 00389 U 2 C U                A 2010109 
+DO-020042 O DO    DOMINICAN REPUBL 18 28 06.00N 069 55 14.00W BLDG               1 00190 00385 U 2 C U                A 2010109 
+DO-020043 O DO    DOMINICAN REPUBL 18 28 08.00N 069 55 16.00W BLDG               1 00180 00369 U 2 C U                A 2010109 
+DO-020044 O DO    DOMINICAN REPUBL 18 28 05.00N 069 55 16.00W BLDG               1 00265 00463 U 2 C U                A 2010109 
+DO-020045 O DO    DOMINICAN REPUBL 18 27 54.00N 069 55 07.00W BLDG               1 00190 00323 U 2 C U                A 2010109 
+DO-020046 O DO    DOMINICAN REPUBL 18 27 27.00N 069 54 41.00W BLDG               1 00255 00281 U 2 C U                A 2010109 
+DO-020047 O DO    DOMINICAN REPUBL 18 27 31.00N 069 54 34.00W BLDG               1 00295 00324 U 2 C U                A 2010109 
+DO-020048 O DO    DOMINICAN REPUBL 18 27 30.00N 069 54 35.00W BLDG               1 00295 00323 U 2 C U                A 2010109 
+DO-020049 O DO    DOMINICAN REPUBL 18 27 31.00N 069 54 37.00W BLDG               1 00330 00361 U 2 C U                A 2010109 
+DO-020050 O DO    DOMINICAN REPUBL 18 27 28.00N 069 54 37.00W BLDG               1 00230 00261 U 2 C U                A 2010109 
+DO-020051 O DO    DOMINICAN REPUBL 18 28 05.00N 069 55 03.00W BLDG               1 00260 00413 U 2 C U                A 2010109 
+DO-020052 O DO    DOMINICAN REPUBL 18 28 11.00N 069 55 05.00W BLDG               1 00240 00432 U 2 C U                A 2010109 
+DO-020053 O DO    DOMINICAN REPUBL 18 29 04.00N 069 55 51.00W TOWER              1 00265 00428 U 2 C U                A 2010109 
+DO-020054 O DO    DOMINICAN REPUBL 18 30 29.00N 069 49 45.00W TOWER              1 00230 00336 U 2 C U                A 2011056 
+DO-020055 O DO    DOMINICAN REPUBL 18 31 12.94N 069 50 40.57W TOWER              1 00270 00363 U 2 D U                C 2017177 
+DO-020057 O DO    DOMINICAN REPUBL 18 31 34.00N 069 49 23.00W TOWER              1 00190 00278 U 2 C U                A 2011056 
+DO-020058 O DO    DOMINICAN REPUBL 18 35 13.00N 069 52 04.00W TOWER              1 00380 00484 U 2 C U                A 2011056 
+DO-020059 O DO    DOMINICAN REPUBL 18 34 58.00N 069 52 01.00W TOWER              1 00430 00510 U 2 C U                A 2011056 
+DO-020060 O DO    DOMINICAN REPUBL 18 32 21.00N 069 48 24.00W TOWER              1 00200 00298 U 2 C U                A 2011056 
+DO-020061 O DO    DOMINICAN REPUBL 18 32 48.00N 069 47 34.00W STACK              1 00190 00313 U 2 C U                A 2011056 
+DO-020062 O DO    DOMINICAN REPUBL 18 35 26.00N 069 50 31.00W TOWER              1 00230 00289 U 2 C U                A 2011056 
+DO-020063 O DO    DOMINICAN REPUBL 18 28 52.48N 069 54 46.88W BLDG-TWR           1 00360 00529 U 2 D U                C 2018228 
+DO-020064 O DO    DOMINICAN REPUBL 18 31 26.00N 069 57 51.00W TOWER              1 00190 00311 U 2 C U                A 2011056 
+DO-020065 O DO    DOMINICAN REPUBL 18 29 47.00N 069 55 08.00W PLANT              1 00200 00345 U 2 C U                A 2011056 
+DO-020066 O DO    DOMINICAN REPUBL 18 28 49.77N 069 54 09.09W TOWER              1 00270 00470 U 2 D U                C 2018228 
+DO-020067 O DO    DOMINICAN REPUBL 18 28 45.00N 069 53 58.00W TOWER              1 00280 00471 U 2 C U                A 2011056 
+DO-020068 O DO    DOMINICAN REPUBL 18 28 18.00N 069 51 20.00W TOWER              1 00205 00252 U 2 C U                A 2011056 
+DO-020069 O DO    DOMINICAN REPUBL 18 33 19.00N 069 56 34.00W TOWER              1 00205 00375 U 2 C U                A 2011056 
+DO-020070 O DO    DOMINICAN REPUBL 18 29 42.00N 069 51 11.00W TOWER              1 00220 00360 U 2 C U                A 2011056 
+DO-020071 O DO    DOMINICAN REPUBL 18 32 34.00N 069 54 16.00W TOWER              1 00220 00374 U 2 C U                A 2011056 
+DO-020072 O DO    DOMINICAN REPUBL 18 32 39.00N 068 21 58.00W TOWER              1 00230 00252 U 2 C U                A 2011056 
+DO-020073 O DO    DOMINICAN REPUBL 18 32 39.00N 068 21 59.00W TOWER              1 00200 00224 U 2 C U                A 2011056 
+DO-020074 O DO    DOMINICAN REPUBL 18 36 00.00N 068 24 52.00W TOWER              1 00200 00282 U 2 C U                A 2011056 
+DO-020075 O DO    DOMINICAN REPUBL 18 35 52.00N 068 25 09.00W TOWER              1 00200 00289 U 2 C U                A 2011056 
+DO-020076 O DO    DOMINICAN REPUBL 18 39 48.92N 068 23 40.82W CRANE              1 00200 00214 U 2 C U                C 2017341 
+DO-020077 O DO    DOMINICAN REPUBL 18 39 47.99N 068 23 38.83W CRANE              1 00200 00222 U 2 D U                C 2017352 
+DO-020078 O DO    DOMINICAN REPUBL 18 38 40.00N 068 21 20.00W TOWER              1 00200 00197 U 2 C U                A 2011056 
+DO-020079 O DO    DOMINICAN REPUBL 18 39 53.00N 068 24 00.00W TOWER              1 00200 00207 U 2 C U                C 2017341 
+DO-020080 O DO    DOMINICAN REPUBL 18 36 09.00N 068 28 47.00W TOWER              1 00225 00513 U 2 C U                A 2011056 
+DO-020081 O DO    DOMINICAN REPUBL 18 39 50.00N 068 25 46.00W TOWER              1 00215 00273 U 2 C U                A 2011056 
+DO-020082 O DO    DOMINICAN REPUBL 18 36 58.00N 068 30 49.00W TOWER              1 00225 00501 U 2 C U                A 2011056 
+DO-020083 O DO    DOMINICAN REPUBL 18 37 22.00N 068 32 49.00W TOWER              1 00225 00557 U 2 C U                A 2011056 
+DO-020084 O DO    DOMINICAN REPUBL 18 38 37.00N 068 35 48.00W TOWER              1 00215 00504 U 2 C U                A 2011056 
+DO-020085 O DO    DOMINICAN REPUBL 18 37 30.00N 068 34 26.00W TOWER              1 00225 00664 U 2 C U                A 2011056 
+DO-020086 O DO    DOMINICAN REPUBL 18 26 41.64N 069 37 47.36W STACK              1 00205 00240 U 2 D U                C 2018239 
+DO-020087 O DO    DOMINICAN REPUBL 18 33 27.25N 069 41 55.29W TOWER              1 00203 00292 U 2 D U                C 2018151 
+DO-020088 O DO    DOMINICAN REPUBL 18 33 37.00N 069 46 35.00W STACK              1 00200 00271 U 2 C U                A 2011056 
+DO-020089 O DO    DOMINICAN REPUBL 18 30 16.00N 069 47 58.00W TOWER              1 00220 00346 U 2 C U                A 2011056 
+DO-020090 O DO    DOMINICAN REPUBL 18 26 57.42N 069 39 15.75W TOWER              1 00190 00246 U 2 D U                C 2018239 
+DO-020091 O DO    DOMINICAN REPUBL 19 26 10.00N 070 39 39.00W BLDG               1 00194 00853 U 3 C U                A 2012019 
+DO-020092 O DO    DOMINICAN REPUBL 18 33 00.00N 069 51 32.32W TOWER              1 00190 00269 U 2 D U                C 2018109 
+DO-020093 O DO    DOMINICAN REPUBL 18 29 31.05N 069 51 53.00W TOWER              1 00250 00407 U 2 E U                A 2017178 
+DO-020094 O DO    DOMINICAN REPUBL 18 33 11.47N 069 42 31.41W TOWER              1 00185 00270 U 2 E U                A 2017181 
+DO-020095 O DO    DOMINICAN REPUBL 18 27 48.24N 069 42 54.97W TOWER              1 00201 00247 U 2 E U                A 2017181 
+DO-020096 O DO    DOMINICAN REPUBL 18 31 31.27N 069 49 48.55W TOWER              1 00181 00243 U 2 E U                A 2017181 
+DO-020097 O DO    DOMINICAN REPUBL 18 31 00.43N 069 52 52.39W TOWER              1 00207 00302 U 2 E U                A 2017181 
+DO-020098 O DO    DOMINICAN REPUBL 18 28 31.27N 069 52 49.07W BLDG               1 00185 00240 U 2 D U                A 2017181 
+DO-020099 O DO    DOMINICAN REPUBL 18 29 37.36N 069 51 52.69W TOWER              1 00218 00366 U 2 E U                A 2017181 
+DO-020100 O DO    DOMINICAN REPUBL 18 35 28.14N 069 52 58.55W TOWER              1 00306 00418 U 2 E U                A 2017181 
+DO-020101 O DO    DOMINICAN REPUBL 19 47 07.76N 070 40 22.23W TOWER              1 00180 00262 U 2 D U                A 2017283 
+DO-020102 O DO    DOMINICAN REPUBL 19 18 18.82N 069 47 22.98W TOWER              1 00285 00327 U 2 D U                A 2017331 
+DO-020103 O DO    DOMINICAN REPUBL 19 11 12.51N 069 51 32.71W TOWER              1 00220 00277 U 2 D U                A 2017334 
+DO-020104 O DO    DOMINICAN REPUBL 19 16 53.91N 069 39 19.93W TOWER              1 00185 00962 U 2 D U                A 2017334 
+DO-020105 O DO    DOMINICAN REPUBL 19 22 25.56N 069 51 12.87W TOWER              1 00195 00241 U 2 D U                A 2017335 
+DO-020106 O DO    DOMINICAN REPUBL 19 22 27.41N 069 51 04.39W TOWER              1 00190 00224 U 2 D U                A 2017335 
+DO-020107 O DO    DOMINICAN REPUBL 19 14 35.51N 069 39 12.92W TOWER              1 00180 00389 U 2 D U                A 2017335 
+DO-020108 O DO    DOMINICAN REPUBL 18 24 50.97N 068 53 09.38W TOWER              1 00245 00366 U 2 D U                A 2017341 
+DO-020109 O DO    DOMINICAN REPUBL 18 37 52.64N 068 23 43.68W TOWER              1 00180 00216 U 2 D U                A 2017341 
+DO-020110 O DO    DOMINICAN REPUBL 18 26 57.81N 069 36 34.51W TOWER              1 00210 00268 U 2 D U                A 2017341 
+DO-020111 O DO    DOMINICAN REPUBL 18 25 31.40N 068 55 30.61W TOWER              1 00185 00349 U 2 D U                A 2017341 
+DO-020112 O DO    DOMINICAN REPUBL 18 26 06.73N 068 59 34.54W TOWER              1 00215 00343 U 2 D U                A 2017341 
+DO-020113 O DO    DOMINICAN REPUBL 18 25 07.40N 068 59 32.26W TOWER              1 00185 00251 U 2 D U                A 2017341 
+DO-020114 O DO    DOMINICAN REPUBL 18 25 57.80N 068 58 31.98W TOWER              1 00275 00410 U 2 D U                A 2017341 
+DO-020115 O DO    DOMINICAN REPUBL 18 36 40.41N 068 24 24.56W TOWER              1 00215 00292 U 2 D U                A 2017341 
+DO-020116 O DO    DOMINICAN REPUBL 18 34 16.52N 068 27 53.29W TOWER              1 00185 00345 U 2 D U                A 2017349 
+DO-020117 O DO    DOMINICAN REPUBL 18 24 51.36N 068 58 05.34W STACK              1 00200 00223 U 2 D U                A 2017349 
+DO-020118 O DO    DOMINICAN REPUBL 18 58 04.47N 070 23 54.20W T-L TWR            1 00185 00903 U 3 D U                A 2018064 
+DO-020119 O DO    DOMINICAN REPUBL 18 45 58.13N 070 13 58.15W T-L TWR            1 00185 01111 U 3 D U                A 2018071 
+DO-020120 O DO    DOMINICAN REPUBL 18 55 37.64N 070 21 19.34W STACK              1 00441 00959 U 3 D U                A 2018072 
+DO-020121 O DO    DOMINICAN REPUBL 18 19 13.71N 070 10 48.49W STACK              1 00188 00323 U 3 D U                A 2018072 
+DO-020122 O DO    DOMINICAN REPUBL 18 14 34.05N 070 25 05.84W TOWER              1 00224 00342 U 3 D U                A 2018072 
+DO-020123 O DO    DOMINICAN REPUBL 18 42 33.56N 070 11 04.71W T-L TWR            1 00185 02072 U 3 D U                A 2018074 
+DO-020124 O DO    DOMINICAN REPUBL 18 43 38.90N 070 12 14.58W T-L TWR            1 00185 00859 U 3 D U                A 2018074 
+DO-020125 O DO    DOMINICAN REPUBL 18 43 09.54N 070 11 43.12W T-L TWR            1 00185 01103 U 3 D U                A 2018074 
+DO-020126 O DO    DOMINICAN REPUBL 18 42 58.19N 070 11 30.75W T-L TWR            1 00185 01293 U 3 D U                A 2018074 
+DO-020127 O DO    DOMINICAN REPUBL 18 41 55.06N 070 10 23.61W T-L TWR            1 00185 01000 U 3 D U                A 2018074 
+DO-020128 O DO    DOMINICAN REPUBL 18 41 43.62N 070 10 11.44W T-L TWR            1 00185 01089 U 3 D U                A 2018074 
+DO-020129 O DO    DOMINICAN REPUBL 18 41 30.13N 070 10 00.00W T-L TWR            1 00185 01077 U 3 D U                A 2018074 
+DO-020130 O DO    DOMINICAN REPUBL 18 41 23.34N 070 09 53.90W T-L TWR            1 00185 01094 U 3 D U                A 2018074 
+DO-020131 O DO    DOMINICAN REPUBL 18 41 14.95N 070 09 46.71W T-L TWR            1 00185 01138 U 3 D U                A 2018075 
+DO-020132 O DO    DOMINICAN REPUBL 18 04 27.97N 070 09 13.05W T-L TWR            1 00185 00673 U 3 D U                A 2018075 
+DO-020133 O DO    DOMINICAN REPUBL 18 51 05.10N 070 20 12.49W TOWER              1 00208 01026 U 3 D U                A 2018075 
+DO-020134 O DO    DOMINICAN REPUBL 18 27 43.58N 070 51 59.01W TOWER              1 00214 00602 U 3 D U                A 2018078 
+DO-020135 O DO    DOMINICAN REPUBL 18 34 16.69N 070 05 44.54W TOWER              1 00230 00609 U 3 D U                A 2018078 
+DO-020136 O DO    DOMINICAN REPUBL 18 27 41.00N 070 43 57.67W TOWER              1 00226 00629 U 3 D U                A 2018078 
+DO-020137 O DO    DOMINICAN REPUBL 18 59 34.50N 070 25 33.21W T-L TWR            1 00185 00754 U 3 D U                A 2018078 
+DO-020138 O DO    DOMINICAN REPUBL 18 59 26.51N 070 25 27.75W T-L TWR            1 00185 00757 U 3 D U                A 2018078 
+DO-020139 O DO    DOMINICAN REPUBL 18 51 06.59N 070 18 42.64W T-L TWR            1 00185 00832 U 3 D U                A 2018117 
+DO-020140 O DO    DOMINICAN REPUBL 18 51 02.72N 070 18 36.89W T-L TWR            1 00185 00836 U 3 D U                A 2018117 
+DO-020141 O DO    DOMINICAN REPUBL 18 50 02.00N 070 17 26.70W T-L TWR            1 00185 00866 U 3 D U                A 2018117 
+DO-020142 O DO    DOMINICAN REPUBL 18 50 53.28N 070 18 23.64W T-L TWR            1 00185 00953 U 3 D U                A 2018117 
+DO-020143 O DO    DOMINICAN REPUBL 18 50 36.29N 070 18 04.64W T-L TWR            1 00185 00886 U 3 D U                A 2018117 
+DO-020144 O DO    DOMINICAN REPUBL 18 50 31.18N 070 17 59.05W T-L TWR            1 00185 00888 U 3 D U                A 2018117 
+DO-020145 O DO    DOMINICAN REPUBL 18 49 53.39N 070 17 16.97W T-L TWR            1 00185 00932 U 3 D U                A 2018117 
+DO-020146 O DO    DOMINICAN REPUBL 18 49 49.85N 070 17 13.07W T-L TWR            1 00185 00954 U 3 D U                C 2018120 
+DO-020147 O DO    DOMINICAN REPUBL 18 49 21.39N 070 16 41.91W T-L TWR            1 00185 00992 U 3 D U                A 2018117 
+DO-020148 O DO    DOMINICAN REPUBL 18 49 08.06N 070 16 26.71W T-L TWR            1 00185 01071 U 3 D U                A 2018117 
+DO-020149 O DO    DOMINICAN REPUBL 18 48 53.24N 070 16 10.36W T-L TWR            1 00185 01140 U 3 D U                A 2018117 
+DO-020150 O DO    DOMINICAN REPUBL 18 47 58.57N 070 15 15.44W T-L TWR            1 00185 01505 U 3 D U                A 2018117 
+DO-020151 O DO    DOMINICAN REPUBL 18 47 43.33N 070 15 03.57W T-L TWR            1 00185 01244 U 3 D U                A 2018117 
+DO-020152 O DO    DOMINICAN REPUBL 18 47 35.80N 070 14 57.68W T-L TWR            1 00185 01217 U 3 D U                A 2018117 
+DO-020153 O DO    DOMINICAN REPUBL 18 47 28.45N 070 14 51.75W T-L TWR            1 00185 01176 U 3 D U                A 2018117 
+DO-020154 O DO    DOMINICAN REPUBL 18 46 58.24N 070 14 28.28W T-L TWR            1 00185 01123 U 3 D U                A 2018117 
+DO-020155 O DO    DOMINICAN REPUBL 18 46 49.00N 070 14 21.12W T-L TWR            1 00185 01142 U 3 D U                A 2018117 
+DO-020156 O DO    DOMINICAN REPUBL 18 46 38.53N 070 14 12.88W TOWER              1 00185 01100 U 3 D U                A 2018117 
+DO-020157 O DO    DOMINICAN REPUBL 18 45 39.77N 070 13 53.88W T-L TWR            1 00185 01022 U 3 D U                A 2018117 
+DO-020158 O DO    DOMINICAN REPUBL 18 45 16.21N 070 13 45.28W T-L TWR            1 00185 01015 U 3 D U                A 2018117 
+DO-020159 O DO    DOMINICAN REPUBL 18 44 35.65N 070 13 19.92W T-L TWR            1 00185 01080 U 3 D U                A 2018117 
+DO-020160 O DO    DOMINICAN REPUBL 18 44 24.43N 070 13 05.88W T-L TWR            1 00185 01045 U 3 D U                A 2018107 
+DO-020161 O DO    DOMINICAN REPUBL 18 52 25.48N 070 20 36.02W T-L TWR            1 00185 00992 U 3 D U                A 2018120 
+DO-020162 O DO    DOMINICAN REPUBL 18 52 10.61N 070 20 14.47W T-L TWR            1 00185 01043 U 3 D U                A 2018121 
+DO-020163 O DO    DOMINICAN REPUBL 18 51 39.60N 070 19 29.97W T-L TWR            1 00185 00890 U 3 D U                A 2018121 
+DO-020164 O DO    DOMINICAN REPUBL 18 55 36.53N 070 22 15.03W T-L TWR            1 00185 00768 U 3 D U                A 2018121 
+DO-020165 O DO    DOMINICAN REPUBL 18 43 46.92N 070 12 23.14W T-L TWR            1 00185 00857 U 3 D U                A 2018123 
+DO-020166 O DO    DOMINICAN REPUBL 18 45 01.65N 070 13 38.08W T-L TWR            1 00185 01120 U 3 D U                A 2018123 
+DO-020167 O DO    DOMINICAN REPUBL 18 54 32.24N 070 21 50.75W T-L TWR            1 00185 00749 U 3 D U                A 2018123 
+DO-020168 O DO    DOMINICAN REPUBL 18 57 29.08N 070 23 18.94W T-L TWR            1 00185 00850 U 3 D U                A 2018127 
+DO-020169 O DO    DOMINICAN REPUBL 18 55 53.21N 070 22 21.83W T-L TWR            1 00185 00878 U 3 D U                A 2018127 
+DO-020170 O DO    DOMINICAN REPUBL 18 48 40.32N 070 15 56.11W T-L TWR            1 00185 01231 U 3 D U                A 2018127 
+DO-020171 O DO    DOMINICAN REPUBL 18 42 47.20N 070 11 19.24W T-L TWR            1 00185 01845 U 3 D U                A 2018128 
+DO-020172 O DO    DOMINICAN REPUBL 18 48 05.02N 070 15 20.48W T-L TWR            1 00185 01624 U 3 D U                A 2018128 
+DO-020173 O DO    DOMINICAN REPUBL 18 53 14.69N 070 21 12.68W T-L TWR            1 00185 00817 U 3 D U                A 2018130 
+DO-020174 O DO    DOMINICAN REPUBL 18 48 29.41N 070 15 44.09W T-L TWR            1 00185 01274 U 3 D U                A 2018130 
+DO-020175 O DO    DOMINICAN REPUBL 18 48 10.32N 070 15 24.63W T-L TWR            1 00185 01648 U 3 D U                A 2018130 
+DO-020176 O DO    DOMINICAN REPUBL 18 45 50.46N 070 13 56.38W T-L TWR            1 00185 01094 U 3 D U                A 2018130 
+DO-020177 O DO    DOMINICAN REPUBL 18 44 42.25N 070 13 28.10W T-L TWR            1 00185 01186 U 3 D U                A 2018130 
+DO-020178 O DO    DOMINICAN REPUBL 18 58 39.20N 070 24 55.41W T-L TWR            1 00185 00858 U 3 D U                A 2018130 
+DO-020179 O DO    DOMINICAN REPUBL 18 53 05.88N 070 21 04.05W T-L TWR            1 00185 00827 U 3 D U                A 2018130 
+DO-020180 O DO    DOMINICAN REPUBL 18 47 18.17N 070 14 43.92W T-L TWR            1 00185 01150 U 3 D U                C 2018130 
+DO-020181 O DO    DOMINICAN REPUBL 18 46 28.30N 070 14 04.93W T-L TWR            1 00185 01187 U 3 D U                A 2018130 
+DO-020182 O DO    DOMINICAN REPUBL 18 41 08.75N 070 09 42.15W T-L TWR            1 00185 01088 U 3 D U                A 2018134 
+DO-020183 O DO    DOMINICAN REPUBL 18 50 13.87N 070 17 39.85W T-L TWR            1 00185 00995 U 3 D U                A 2018134 
+DO-020184 O DO    DOMINICAN REPUBL 18 13 11.80N 070 30 41.48W TOWER              1 00236 00304 U 3 D U                A 2018134 
+DO-020185 O DO    DOMINICAN REPUBL 18 54 57.78N 070 22 00.00W T-L TWR            1 00185 00733 U 3 D U                A 2018135 
+DO-020186 O DO    DOMINICAN REPUBL 18 46 13.35N 070 14 01.55W T-L TWR            1 00185 01134 U 3 D U                A 2018135 
+DO-020187 O DO    DOMINICAN REPUBL 18 51 22.58N 070 19 05.60W T-L TWR            1 00185 00861 U 3 D U                A 2018135 
+DO-020188 O DO    DOMINICAN REPUBL 18 23 30.09N 070 31 27.03W TOWER              1 00192 00839 U 3 D U                A 2018152 
+DO-020189 O DO    DOMINICAN REPUBL 18 43 29.24N 070 12 04.19W T-L TWR            1 00185 00882 U 3 D U                A 2018159 
+DO-020190 O DO    DOMINICAN REPUBL 18 37 28.46N 069 57 25.20W T-L TWR            1 00180 00358 U 2 D U                A 2018194 
+DO-020191 O DO    DOMINICAN REPUBL 19 27 27.09N 070 37 49.52W TOWER              1 00240 00946 U 2 D U                A 2018194 
+DO-020192 O DO    DOMINICAN REPUBL 18 14 52.25N 071 13 17.95W TOWER              1 00195 00279 U 2 D U                A 2018194 
+DO-020193 O DO    DOMINICAN REPUBL 19 19 06.64N 070 32 17.88W TOWER              1 00195 00693 U 2 D U                A 2018194 
+DO-020194 O DO    DOMINICAN REPUBL 19 30 01.92N 070 30 44.72W TOWER              1 00200 03044 U 2 D U                A 2018194 
+DO-020195 O DO    DOMINICAN REPUBL 18 59 00.09N 070 37 26.41W TOWER              1 00219 03897 U 2 D U                A 2018194 
+DO-020196 O DO    DOMINICAN REPUBL 18 54 57.16N 070 37 34.86W TOWER              1 00210 04112 U 2 D U                A 2018194 
+DO-020197 O DO    DOMINICAN REPUBL 18 54 58.34N 070 37 34.15W TOWER              1 00210 04030 U 2 D U                A 2018194 
+DO-020198 O DO    DOMINICAN REPUBL 18 55 00.00N 070 37 32.88W TOWER              1 00210 04029 U 2 D U                C 2018299 
+DO-020199 O DO    DOMINICAN REPUBL 18 55 00.27N 070 37 32.49W TOWER              1 00210 04050 U 2 D U                A 2018194 
+DO-020200 O DO    DOMINICAN REPUBL 18 55 00.66N 070 37 32.11W TOWER              1 00210 04074 U 2 D U                A 2018194 
+DO-020201 O DO    DOMINICAN REPUBL 18 55 01.86N 070 37 31.01W TOWER              1 00210 04133 U 2 D U                A 2018194 
+DO-020202 O DO    DOMINICAN REPUBL 18 28 48.21N 069 57 03.58W TOWER              1 00204 00364 U 2 D U                C 2018197 
+DO-020203 O DO    DOMINICAN REPUBL 18 13 13.07N 071 05 14.15W STACK              1 00250 00295 U 2 D U                A 2018194 
+DO-020204 O DO    DOMINICAN REPUBL 19 17 54.79N 070 39 45.98W T-L TWR            1 00180 01607 U 2 D U                A 2018197 
+DO-020205 O DO    DOMINICAN REPUBL 19 19 06.25N 070 40 44.98W T-L TWR            1 00180 01544 U 2 D U                A 2018197 
+DO-020206 O DO    DOMINICAN REPUBL 19 28 05.48N 070 42 36.36W TOWER              1 00200 00730 U 2 D U                A 2018197 
+DO-020207 O DO    DOMINICAN REPUBL 19 27 06.15N 070 41 27.24W TOWER              1 00200 00927 U 2 D U                A 2018197 
+DO-020208 O DO    DOMINICAN REPUBL 18 31 26.01N 070 00 41.25W T-L TWR            1 00183 00339 U 2 D U                A 2018197 
+DO-020209 O DO    DOMINICAN REPUBL 18 33 46.01N 069 54 02.69W TOWER              1 00204 00301 U 2 D U                A 2018197 
+DO-020210 O DO    DOMINICAN REPUBL 18 59 12.81N 070 36 09.22W TOWER              1 00223 03863 U 2 D U                A 2018197 
+DO-020211 O DO    DOMINICAN REPUBL 18 54 57.93N 070 37 34.36W TOWER              1 00210 04054 U 2 D U                A 2018197 
+DO-020212 O DO    DOMINICAN REPUBL 19 17 50.20N 070 39 40.13W T-L TWR            1 00180 01486 U 2 D U                A 2018197 
+DO-020213 O DO    DOMINICAN REPUBL 18 28 28.93N 069 54 24.11W BLDG-TWR           1 00340 00520 U 2 D U                C 2018225 
+DO-020214 O DO    DOMINICAN REPUBL 18 54 59.48N 070 37 33.12W DAM                1 00180 03989 U 2 D U                C 2018292 
+DO-020215 O DO    DOMINICAN REPUBL 19 18 18.75N 070 40 14.61W T-L TWR            1 00200 01485 U 2 D U                A 2018201 
+DO-020216 O DO    DOMINICAN REPUBL 19 18 06.92N 070 39 58.98W T-L TWR            1 00180 01708 U 2 D U                A 2018204 
+DO-020217 O DO    DOMINICAN REPUBL 18 28 51.75N 069 55 50.32W TOWER              1 00229 00410 U 2 D U                A 2018204 
+DO-020218 O DO    DOMINICAN REPUBL 18 27 42.96N 069 56 10.43W TOWER              1 00200 00412 U 2 D U                A 2018204 
+DO-020219 O DO    DOMINICAN REPUBL 18 29 30.82N 069 54 08.31W TOWER              1 00250 00405 U 2 D U                A 2018204 
+DO-020220 O DO    DOMINICAN REPUBL 18 37 12.52N 069 55 50.87W T-L TWR            1 00180 00321 U 2 D U                A 2018204 
+DO-020221 O DO    DOMINICAN REPUBL 18 29 02.98N 069 55 50.67W TOWER              1 00215 00386 U 2 D U                A 2018204 
+DO-020222 O DO    DOMINICAN REPUBL 18 27 48.57N 069 55 40.34W TOWER              1 00206 00375 U 2 D U                A 2018204 
+DO-020223 O DO    DOMINICAN REPUBL 18 28 59.22N 069 54 20.78W BLDG-TWR           1 00240 00409 U 2 D U                A 2018204 
+DO-020224 O DO    DOMINICAN REPUBL 18 28 57.85N 069 54 21.49W BLDG-TWR           1 00195 00370 U 2 D U                A 2018204 
+DO-020225 O DO    DOMINICAN REPUBL 18 28 46.24N 069 56 46.30W BLDG-TWR           1 00200 00371 U 2 D U                A 2018204 
+DO-020226 O DO    DOMINICAN REPUBL 18 28 45.92N 069 55 49.27W BLDG-TWR           1 00215 00408 U 2 D U                A 2018204 
+DO-020227 O DO    DOMINICAN REPUBL 18 28 41.57N 069 55 40.87W BLDG-TWR           1 00250 00434 U 2 D U                A 2018204 
+DO-020228 O DO    DOMINICAN REPUBL 18 28 23.39N 069 56 34.24W BLDG-TWR           1 00260 00466 U 2 D U                A 2018211 
+DO-020229 O DO    DOMINICAN REPUBL 18 28 21.42N 069 55 51.68W BLDG-TWR           1 00275 00470 U 2 D U                A 2018211 
+DO-020230 O DO    DOMINICAN REPUBL 18 28 19.07N 069 55 28.10W TOWER              1 00180 00359 U 2 D U                A 2018211 
+DO-020231 O DO    DOMINICAN REPUBL 18 28 16.81N 070 02 18.74W TOWER              1 00313 00404 U 2 D U                A 2018211 
+DO-020232 O DO    DOMINICAN REPUBL 18 28 08.09N 069 58 31.88W TOWER              1 00193 00413 U 2 D U                A 2018211 
+DO-020233 O DO    DOMINICAN REPUBL 18 28 04.33N 069 55 30.43W BLDG-TWR           1 00232 00427 U 2 D U                A 2018211 
+DO-020234 O DO    DOMINICAN REPUBL 18 28 04.66N 069 55 28.84W BLDG-TWR           1 00242 00434 U 2 D U                A 2018211 
+DO-020235 O DO    DOMINICAN REPUBL 18 27 43.39N 070 01 17.35W TOWER              1 00328 00377 U 2 D U                A 2018211 
+DO-020236 O DO    DOMINICAN REPUBL 18 27 31.23N 069 56 49.89W TOWER              1 00262 00463 U 2 D U                A 2018211 
+DO-020237 O DO    DOMINICAN REPUBL 18 27 30.40N 069 56 49.72W BLDG-TWR           1 00240 00443 U 2 D U                A 2018214 
+DO-020238 O DO    DOMINICAN REPUBL 18 27 25.14N 070 01 14.53W TOWER              1 00206 00245 U 2 D U                A 2018214 
+DO-020239 O DO    DOMINICAN REPUBL 19 28 26.43N 070 40 30.27W TOWER              1 00290 01001 U 2 D U                A 2018214 
+DO-020240 O DO    DOMINICAN REPUBL 19 27 55.64N 070 41 05.27W TOWER              1 00181 00956 U 9 I U                A 2018214 
+DO-020241 O DO    DOMINICAN REPUBL 19 27 46.09N 070 38 21.54W TOWER              1 00217 00940 U 2 D U                A 2018214 
+DO-020242 O DO    DOMINICAN REPUBL 19 27 37.59N 070 41 08.27W BLDG-TWR           1 00245 00897 U 2 D U                A 2018214 
+DO-020243 O DO    DOMINICAN REPUBL 19 27 21.47N 070 42 22.35W BLDG-TWR           1 00200 00759 U 2 D U                A 2018214 
+DO-020244 O DO    DOMINICAN REPUBL 19 27 28.31N 070 40 10.09W BLDG               1 00180 00857 U 2 D U                A 2018214 
+DO-020245 O DO    DOMINICAN REPUBL 19 27 10.18N 070 43 04.13W TOWER              1 00225 00801 U 2 D U                A 2018214 
+DO-020246 O DO    DOMINICAN REPUBL 19 27 12.75N 070 43 00.93W TOWER              1 00192 00736 U 2 D U                A 2018214 
+DO-020247 O DO    DOMINICAN REPUBL 19 26 52.85N 070 38 17.77W TOWER              1 00214 00890 U 2 D U                A 2018214 
+DO-020248 O DO    DOMINICAN REPUBL 19 26 10.69N 070 42 34.50W TOWER              1 00224 00899 U 2 D U                A 2018214 
+DO-020249 O DO    DOMINICAN REPUBL 19 25 10.65N 070 43 06.67W TOWER              1 00225 00968 U 2 D U                A 2018214 
+DO-020250 O DO    DOMINICAN REPUBL 19 21 24.16N 070 30 57.00W TOWER              1 00231 00738 U 2 D U                A 2018221 
+DO-020251 O DO    DOMINICAN REPUBL 19 30 11.72N 070 31 01.05W TOWER              1 00289 03275 U 2 D U                A 2018221 
+DO-020252 O DO    DOMINICAN REPUBL 19 29 02.68N 070 29 16.02W TOWER              1 00246 03342 U 2 D U                A 2018221 
+DO-020253 O DO    DOMINICAN REPUBL 19 28 58.29N 070 29 18.15W TOWER              1 00230 03345 U 2 D U                A 2018221 
+DO-020254 O DO    DOMINICAN REPUBL 19 28 58.87N 070 29 21.26W TOWER              1 00235 03383 U 2 D U                A 2018221 
+DO-020255 O DO    DOMINICAN REPUBL 19 29 03.22N 070 29 21.38W TOWER              1 00336 03483 U 2 D U                A 2018221 
+DO-020256 O DO    DOMINICAN REPUBL 19 29 03.95N 070 29 20.52W TOWER              1 00273 03407 U 2 D U                A 2018221 
+DO-020257 O DO    DOMINICAN REPUBL 19 29 02.83N 070 29 19.95W TOWER              1 00221 03373 U 2 D U                A 2018222 
+DO-020258 O DO    DOMINICAN REPUBL 19 29 02.56N 070 29 16.45W TOWER              1 00235 03329 U 2 D U                A 2018222 
+DO-020259 O DO    DOMINICAN REPUBL 18 29 07.24N 069 56 14.52W BLDG-TWR           1 00210 00400 U 2 D U                A 2018225 
+DO-020260 O DO    DOMINICAN REPUBL 18 12 51.66N 071 07 05.86W TOWER              1 00215 00502 U 2 D U                A 2018225 
+DO-020261 O DO    DOMINICAN REPUBL 18 09 24.68N 071 07 20.29W TOWER              1 00180 02654 U 2 D U                A 2018225 
+DO-020262 O DO    DOMINICAN REPUBL 18 09 42.76N 071 07 07.13W TOWER              1 00190 02498 U 2 D U                A 2018225 
+DO-020263 O DO    DOMINICAN REPUBL 18 28 49.44N 069 54 41.45W BLDG-TWR           1 00190 00348 U 2 D U                A 2018225 
+DO-020264 O DO    DOMINICAN REPUBL 18 28 11.33N 069 55 18.61W BLDG-TWR           1 00240 00421 U 2 D U                A 2018225 
+DO-020265 O DO    DOMINICAN REPUBL 18 27 21.32N 069 57 20.51W BLDG-TWR           1 00200 00403 U 2 D U                A 2018225 
+DO-020266 O DO    DOMINICAN REPUBL 18 38 00.96N 069 58 03.10W T-L TWR            1 00180 00435 U 2 D U                A 2018225 
+DO-020267 O DO    DOMINICAN REPUBL 18 37 53.32N 069 57 54.18W T-L TWR            1 00180 00393 U 2 D U                A 2018228 
+DO-020268 O DO    DOMINICAN REPUBL 18 37 43.90N 069 57 43.26W T-L TWR            1 00180 00371 U 2 D U                A 2018225 
+DO-020269 O DO    DOMINICAN REPUBL 18 37 35.53N 069 57 33.52W T-L TWR            1 00180 00416 U 2 D U                A 2018228 
+DO-020270 O DO    DOMINICAN REPUBL 18 12 26.26N 071 05 54.77W TOWER              1 00225 00333 U 2 D U                A 2018228 
+DO-020271 O DO    DOMINICAN REPUBL 19 21 08.73N 070 42 25.75W T-L TWR            1 00180 01211 U 2 D U                A 2018228 
+DO-020272 O DO    DOMINICAN REPUBL 19 20 43.06N 070 42 05.20W T-L TWR            1 00180 01336 U 2 D U                A 2018228 
+DO-020273 O DO    DOMINICAN REPUBL 19 23 03.99N 070 40 44.85W STACK              1 00216 01209 U 2 D U                A 2018228 
+DO-020274 O DO    DOMINICAN REPUBL 19 29 08.18N 070 39 28.96W TOWER              1 00243 01037 U 2 D U                A 2018228 
+DO-020275 O DO    DOMINICAN REPUBL 19 17 31.00N 070 39 14.21W T-L TWR            1 00180 01364 U 2 D U                A 2018228 
+DO-020276 O DO    DOMINICAN REPUBL 19 17 39.41N 070 39 25.92W T-L TWR            1 00180 01367 U 2 D U                A 2018228 
+DO-020277 O DO    DOMINICAN REPUBL 19 18 54.33N 070 40 35.07W T-L TWR            1 00180 01587 U 2 D U                A 2018228 
+DO-020278 O DO    DOMINICAN REPUBL 18 56 11.63N 070 40 27.87W TOWER              1 00253 04476 U 2 D U                A 2018228 
+DO-020279 O DO    DOMINICAN REPUBL 18 27 39.23N 069 55 55.04W BLDG-TWR           1 00384 00584 U 3 E U                A 2018228 
+DO-020280 O DO    DOMINICAN REPUBL 18 28 11.94N 069 54 58.28W BLDG               1 00237 00401 U 2 D U                A 2018228 
+DO-020281 O DO    DOMINICAN REPUBL 18 48 44.50N 070 37 37.06W TOWER              1 00180 09478 U 2 D U                A 2018228 
+DO-020282 O DO    DOMINICAN REPUBL 18 33 59.06N 069 54 33.98W TOWER              1 00203 00356 U 2 D U                A 2018228 
+DO-020283 O DO    DOMINICAN REPUBL 18 32 47.97N 069 56 48.25W TOWER              1 00235 00321 U 2 D U                A 2018232 
+DO-020284 O DO    DOMINICAN REPUBL 18 31 24.78N 070 03 02.36W TOWER              1 00208 00430 U 2 D U                A 2018232 
+DO-020285 O DO    DOMINICAN REPUBL 18 31 08.12N 069 54 50.79W TOWER              1 00206 00303 U 2 D U                A 2018232 
+DO-020286 O DO    DOMINICAN REPUBL 18 29 10.76N 069 55 06.38W BLDG-TWR           1 00200 00362 U 2 D U                A 2018235 
+DO-020287 O DO    DOMINICAN REPUBL 18 28 04.52N 069 56 18.39W BLDG-TWR           1 00225 00414 U 2 D U                A 2018235 
+DO-020288 O DO    DOMINICAN REPUBL 18 37 21.22N 069 57 16.62W T-L TWR            1 00180 00334 U 2 D U                A 2018235 
+DO-020289 O DO    DOMINICAN REPUBL 18 55 01.06N 070 37 31.73W TOWER              1 00210 04094 U 2 D U                A 2018235 
+DO-020290 O DO    DOMINICAN REPUBL 18 48 46.18N 070 37 34.95W TOWER              1 00287 09545 U 2 D U                A 2018235 
+DO-020291 O DO    DOMINICAN REPUBL 18 29 49.39N 069 59 19.70W BLDG-TWR           1 00224 00433 U 2 D U                A 2018235 
+DO-020292 O DO    DOMINICAN REPUBL 18 29 19.73N 069 55 52.24W TOWER              1 00307 00488 U 2 D U                A 2018235 
+DO-020293 O DO    DOMINICAN REPUBL 18 13 17.99N 071 05 11.69W STACK              1 00250 00290 U 2 D U                A 2018235 
+DO-020294 O DO    DOMINICAN REPUBL 19 26 38.31N 070 39 54.58W TOWER              1 00211 00854 U 2 D U                A 2018235 
+DO-020295 O DO    DOMINICAN REPUBL 18 57 19.55N 070 40 30.95W TOWER              1 00219 04893 U 2 D U                A 2018235 
+DO-020296 O DO    DOMINICAN REPUBL 18 54 59.10N 070 37 33.60W TOWER              1 00210 04008 U 2 D U                A 2018235 
+DO-020297 O DO    DOMINICAN REPUBL 19 23 45.00N 070 31 41.00W BLDG-TWR           1 00300 00891 U 5 E U                A 2018235 
+DO-020298 O DO    DOMINICAN REPUBL 19 18 30.70N 070 40 21.38W T-L TWR            1 00180 01648 U 2 D U                A 2018235 
+DO-020299 O DO    DOMINICAN REPUBL 19 29 00.13N 070 29 15.55W TOWER              1 00261 03375 U 2 D U                A 2018235 
+DO-020300 O DO    DOMINICAN REPUBL 19 26 13.91N 070 41 52.64W TOWER              1 00201 00813 U 2 D U                A 2018235 
+DO-020301 O DO    DOMINICAN REPUBL 18 28 34.58N 069 57 10.02W BLDG-TWR           1 00215 00388 U 2 D U                A 2018235 
+DO-020302 O DO    DOMINICAN REPUBL 18 28 41.70N 070 00 04.78W BLDG-TWR           1 00232 00388 U 2 D U                A 2018235 
+DO-020303 O DO    DOMINICAN REPUBL 18 27 48.54N 069 59 49.59W TOWER              1 00183 00269 U 2 D U                A 2018235 
+DO-020304 O DO    DOMINICAN REPUBL 18 28 50.31N 069 57 18.66W BLDG-TWR           1 00291 00466 U 2 D U                A 2018235 
+DO-020305 O DO    DOMINICAN REPUBL 18 55 01.46N 070 37 31.34W TOWER              1 00210 04111 U 2 D U                A 2018235 
+DO-020306 O DO    DOMINICAN REPUBL 18 55 00.00N 070 37 33.24W TOWER              1 00210 04017 U 2 D U                A 2018236 
+DO-020307 O DO    DOMINICAN REPUBL 18 29 19.12N 069 56 40.75W BLDG-TWR           1 00200 00387 U 2 D U                A 2018236 
+DO-020308 O DO    DOMINICAN REPUBL 18 33 00.05N 069 54 11.80W TOWER              1 00185 00326 U 2 D U                A 2018236 
+DO-020309 O DO    DOMINICAN REPUBL 19 17 24.41N 070 39 04.99W T-L TWR            1 00180 01398 U 2 D U                A 2018236 
+DO-020310 O DO    DOMINICAN REPUBL 19 18 37.42N 070 40 26.03W T-L TWR            1 00200 01661 U 2 D U                A 2018236 
+DO-020311 O DO    DOMINICAN REPUBL 18 35 02.00N 070 02 11.50W TOWER              1 00219 00397 U 2 D U                A 2018236 
+DO-020312 O DO    DOMINICAN REPUBL 18 38 09.12N 069 58 39.69W T-L TWR            1 00180 00411 U 2 D U                A 2018236 
+DO-020313 O DO    DOMINICAN REPUBL 18 38 09.31N 069 58 28.29W T-L TWR            1 00180 00399 U 2 D U                A 2018236 
+DO-020314 O DO    DOMINICAN REPUBL 19 29 00.74N 070 29 22.11W TOWER              1 00190 03342 U 2 D U                A 2018236 
+DO-020315 O DO    DOMINICAN REPUBL 18 34 54.61N 069 53 55.19W TOWER              1 00375 00423 U 2 D U                A 2018236 
+DO-020316 O DO    DOMINICAN REPUBL 18 54 57.49N 070 37 34.68W BRIDGE             1 00210 04088 U 2 D U                A 2018239 
+DO-020317 O DO    DOMINICAN REPUBL 19 29 02.39N 070 29 21.74W TOWER              1 00311 03466 U 2 D U                A 2018236 
+DO-020318 O DO    DOMINICAN REPUBL 19 30 11.26N 070 30 53.79W TOWER              1 00265 03184 U 2 D U                A 2018236 
+DO-020319 O DO    DOMINICAN REPUBL 18 54 57.06N 070 37 35.12W TOWER              1 00210 04126 U 2 D U                A 2018236 
+DO-020320 O DO    DOMINICAN REPUBL 19 23 03.05N 070 40 45.49W STACK              1 00214 01206 U 2 D U                A 2018239 
+DO-020321 O DO    DOMINICAN REPUBL 18 37 13.98N 069 57 00.00W T-L TWR            1 00180 00315 U 2 D U                A 2018239 
+DO-020322 O DO    DOMINICAN REPUBL 18 48 45.10N 070 37 36.89W TOWER              1 00241 09538 U 2 D U                A 2018239 
+DO-020323 O DO    DOMINICAN REPUBL 18 31 29.98N 070 01 46.94W TOWER              1 00208 00382 U 2 D U                A 2018239 
+DO-020324 O DO    DOMINICAN REPUBL 18 27 36.63N 069 55 34.94W TOWER              1 00215 00357 U 2 D U                A 2018233 
+DO-020325 O DO    DOMINICAN REPUBL 19 28 06.28N 070 39 29.67W TOWER              1 00214 00929 U 2 D U                A 2018239 
+DO-020326 O DO    DOMINICAN REPUBL 18 28 42.96N 069 54 38.61W TOWER              1 00269 00452 U 2 D U                A 2018239 
+DO-020327 O DO    DOMINICAN REPUBL 18 31 39.72N 069 44 27.42W TOWER              1 00192 00226 U 2 D U                A 2018239 
+DO-020328 O DO    DOMINICAN REPUBL 18 25 24.43N 069 37 49.69W CRANE              1 00315 00328 U 2 D U                A 2018239 
+DO-020329 O DO    DOMINICAN REPUBL 18 25 17.86N 069 37 48.02W CRANE              1 00315 00335 U 2 D U                C 2019210 
+DO-020330 O DO    DOMINICAN REPUBL 18 25 30.66N 069 37 51.01W CRANE              1 00315 00332 U 2 D U                A 2018239 
+DO-020331 O DO    DOMINICAN REPUBL 18 25 27.47N 069 37 50.52W CRANE              1 00315 00332 U 3 E U                A 2018239 
+DO-020332 O DO    DOMINICAN REPUBL 18 25 19.81N 069 37 48.89W CRANE              1 00315 00331 U 3 E U                A 2018239 
+DO-020333 O DO    DOMINICAN REPUBL 18 27 46.27N 069 34 12.19W TOWER              1 00210 00305 U 3 D U                A 2018239 
+DO-020334 O DO    DOMINICAN REPUBL 18 25 27.56N 069 37 42.49W CRANE              1 00245 00245 U 2 D U                A 2018239 
+DO-020335 O DO    DOMINICAN REPUBL 18 25 25.24N 069 37 42.56W CRANE              1 00245 00245 U 2 D U                A 2018239 
+DO-020336 O DO    DOMINICAN REPUBL 19 50 22.28N 071 38 26.45W TOWER              1 00225 00410 U 2 D U                A 2018269 
+DO-020337 O DO    DOMINICAN REPUBL 19 48 35.98N 071 34 56.46W TOWER              1 00235 00315 U 2 D P                A 2018269 
+DO-020338 O DO    DOMINICAN REPUBL 18 02 03.28N 071 44 39.87W TOWER              1 00199 00252 U 2 D U                A 2018271 
+DO-020339 O DO    DOMINICAN REPUBL 17 54 50.98N 071 38 15.68W CRANE              1 00382 00452 U 2 D U                C 2019018 
+DO-020340 O DO    DOMINICAN REPUBL 17 54 51.84N 071 38 14.83W STACK              1 00230 00299 U 2 I U                C 2019029 
+DO-020341 O DO    DOMINICAN REPUBL 19 12 02.17N 069 20 34.14W TOWER              1 00196 00579 U 2 D U                A 2018299 
+DO-020342 O DO    DOMINICAN REPUBL 19 11 46.85N 069 22 58.44W TOWER              1 00200 00242 U 2 D U                A 2018299 
+DO-020343 O DO    DOMINICAN REPUBL 19 18 38.36N 069 26 49.62W TOWER              1 00200 00386 U 2 D U                A 2018299 
+DO-020344 O DO    DOMINICAN REPUBL 19 15 47.81N 069 25 02.27W TOWER              1 00250 01516 U 2 D U                A 2018299 
+DO-020345 O DO    DOMINICAN REPUBL 19 12 17.35N 069 20 11.60W TOWER              1 00204 00225 U 2 D U                A 2018299 
+DO-020346 O DO    DOMINICAN REPUBL 19 17 36.35N 069 32 56.22W TOWER              1 00260 00521 U 2 D U                A 2018299 
+DO-020347 O DO    DOMINICAN REPUBL 17 54 51.76N 071 38 18.12W POWER PLANT        1 00335 00397 U 2 D U                A 2019022 
+DO-020349 O DO    DOMINICAN REPUBL 18 27 53.20N 068 46 54.87W TOWER              1 00244 00516 U 2 D U                C 2022109 
+DO-020350 O DO    DOMINICAN REPUBL 18 42 13.52N 068 57 14.57W TOWER              1 00185 00536 U 3 E U                A 2021133 
+DO-020351 O DO    DOMINICAN REPUBL 18 26 22.47N 068 58 44.50W TOWER              1 00200 00425 U 2 D U                A 2021242 
+DO-020352 O DO    DOMINICAN REPUBL 18 26 49.95N 068 57 44.80W T-L TWR            1 00185 00403 U 2 D U                A 2021242 
+DO-020353 O DO    DOMINICAN REPUBL 18 25 05.01N 068 57 55.16W TOWER              1 00200 00221 U 2 D U                A 2021242 
+DO-020354 O DO    DOMINICAN REPUBL 18 22 03.41N 068 49 50.74W TOWER              1 00200 00251 U 2 D U                A 2021242 
+DO-020355 O DO    DOMINICAN REPUBL 18 25 47.19N 068 50 25.52W TOWER              1 00200 00409 U 2 D U                A 2021242 
+DO-020356 O DO    DOMINICAN REPUBL 18 25 48.96N 068 50 25.74W TOWER              1 00200 00399 U 2 D P                A 2021242 
+DO-020357 O DO    DOMINICAN REPUBL 18 25 50.08N 068 40 31.03W TOWER              1 00183 00337 U 3 E U                A 2021243 
+DO-020358 O DO    DOMINICAN REPUBL 18 28 12.57N 068 45 34.53W TOWER              1 00189 00474 U 2 D U                A 2022109 
+DO-020359 O DO    DOMINICAN REPLUB 18 54 28.60N 069 08 09.61W TOWER              1 00358 02146 U 2 D U                A 2022307 
+DO-020360 O DO    DOMINICAN REPUBL 18 39 37.81N 068 40 34.85W TOWER              1 00361 01230 U 2 D U                A 2022312 
+DO-020361 O DO    DOMINICAN REPUBL 18 39 38.08N 068 40 33.92W TOWER              1 00195 01034 U 2 D U                A 2022312 
+DO-020362 O DO    DOMINICAN REPUBL 18 37 37.14N 068 48 40.19W TOWER              1 00196 00556 U 2 D U                A 2023122 
+DO-020366 O DO    DOMINICAN REPUBL 18 28 42.01N 068 42 12.85W TOWER              1 00251 00431 U 2 D U                A 2023214 
+DO-020373 O DO    DOMINICAN REPUBL 18 44 40.70N 068 59 16.44W TOWER              1 00256 00751 U 2 D U                A 2023251 
+GP-000501 O GP    GUADELOUPE       16 19 35.00N 061 22 25.00W TOWER              1 00200 00242 U 9 I U                A 1996351 
+GP-000795 O GP    GUADELOUPE       16 15 07.00N 061 31 59.00W TOWER              1 00187 00253 U 9 I U                A 1999032 
+GP-000813 O GP    GUADELOUPE       16 14 58.88N 061 32 47.89W BLDG               1 00185 00218 U 1 D U                C 2019098 
+GP-000890 O GP    GUADELOUPE       16 20 02.00N 061 45 29.00W TOWER              1 01000 01270 U 9 I U                A 2000206 
+GP-000902 O GP    GUADELOUPE       16 11 18.00N 061 44 45.00W TOWER              1 00213 02651 U 5 D U                C 2006190 
+GP-000908 O GP    GUADELOUPE       16 02 21.00N 061 39 09.00W TOWER              1 00180 03970 N 5 D U                C 2006288 
+GP-020001 O GP    GUADELOUPE       16 11 10.00N 061 44 58.00W TOWER              1 00223 02654 L 4 D U                C 2017212 
+GP-020002 O GP    GUADELOUPE       16 15 00.57N 061 32 48.71W BLDG               1 00185 00218 U 1 D U                C 2019123 
+GP-020003 O GP    GUADELOUPE       16 14 58.84N 061 32 46.11W BLDG               1 00185 00212 U 1 D U                C 2019098 
+GP-020004 O GP    GUADELOUPE       16 18 50.00N 061 43 38.00W TOWER              1 00272 00823 L 4 I U                C 2017212 
+GP-020005 O GP    GUADELOUPE       16 14 57.49N 061 32 13.16W TOWER              1 00181 00266 L 1 D U                C 2019098 
+GP-020006 O GP    GUADELOUPE       16 15 15.80N 061 32 29.78W TOWER              1 00180 00206 U 1 D U                C 2019109 
+GP-020007 O GP    GUADELOUPE       16 13 30.00N 061 35 36.00W T-L TWR            1 00417 00502 L 9 I N                A 2017334 
+GP-020008 O GP    GUADELOUPE       16 13 53.24N 061 33 15.10W POWER PLANT        1 00372 00401 U 1 D U                C 2019114 
+GP-020009 O GP    GUADELOUPE  CN   16 14 52.34N 061 35 00.37W TOWER              1 00180 00256 U 2 D U                A 2018295 
+GP-020010 O GP    GUADELOUPE       16 14 02.69N 061 33 25.99W T-L TWR            1 00203 00245 U 1 E U                A 2019099 
+GP-020011 O GP    GUADELOUPE       16 13 49.16N 061 32 36.19W CRANE              1 00268 00312 U 1 D U                A 2019108 
+GP-020012 O GP    GUADELOUPE       16 14 00.00N 061 33 21.75W T-L TWR            1 00202 00239 U 1 D U                A 2019109 
+GP-020013 O GP    GUADELOUPE       16 13 47.26N 061 32 38.59W TOWER              1 00391 00412 U 1 D U                A 2019109 
+GP-020014 O GP    GUADELOUPE       16 13 48.43N 061 32 37.12W TOWER              1 00334 00355 U 1 D U                A 2019109 
+GP-020015 O GP    GUADELOUPE       16 13 55.00N 061 33 17.63W TOWER              1 00314 00340 U 1 D U                A 2019112 
+HN-000483 O HN    HONDURAS SWAN I  13 20 25.00N 087 15 10.00W TOWER              1 00300 00500 U 9 I U                A 1996351 
+HN-000485 O HN    HONDURAS SWAN I  14 03 11.00N 087 10 58.00W TOWER              1 00245 03520 U 9 I U                A 1996351 
+HN-000486 O HN    HONDURAS SWAN I  14 03 12.00N 087 10 44.00W TOWER              1 00325 03600 U 9 I U                A 1996351 
+HN-000487 O HN    HONDURAS SWAN I  14 03 38.00N 087 16 05.00W TOWER              3 00400 03935 U 9 I U                A 1996351 
+HN-000489 O HN    HONDURAS SWAN I  14 46 20.00N 088 46 44.00W TOWER              1 00250 03790 U 9 I U                A 1996351 
+HN-000490 O HN    HONDURAS SWAN I  15 01 16.00N 087 44 14.00W DAM                1 00745 01075 U 9 I U                A 1996351 
+HN-000491 O HN    HONDURAS SWAN I  15 46 35.00N 086 48 20.00W TOWER              2 00430 00435 U 9 I U                A 1996351 
+HN-000492 O HN    HONDURAS SWAN I  15 50 40.00N 087 57 50.00W TOWER              1 00300 00310 U 9 I U                A 1996351 
+HN-000506 O HN    HONDURAS SWAN I  17 24 25.00N 083 56 29.00W TOWER              2 00280 00300 L 9 I U                C 2001043 
+HT-000073 O HT    HAITI            18 31 57.40N 072 32 33.60W STACK              1 00205 00278 U 6 D U                C 2019022 
+HT-000074 O HT    HAITI            18 34 02.50N 072 19 59.29W STACK              1 00200 00240 U 2 D U                C 2019022 
+HT-000075 O HT    HAITI            18 34 52.00N 072 18 28.00W TOWER              3 00250 00309 U 9 F U                C 2006190 
+HT-000076 O HT    HAITI            18 36 14.51N 072 17 56.95W TOWER              1 00285 00350 U 2 D U                C 2023205 
+HT-000077 O HT    HAITI            19 44 07.00N 072 10 43.00W TOWER              4 00270 00280 U 9 I U                A 1996351 
+HT-000849 O HT    HAITI            19 44 08.00N 072 10 38.00W TOWER              1 00280 00309 U 4 C U                C 2009260 
+HT-000850 O HT    HAITI            19 44 04.00N 072 10 39.00W TOWER              1 00245 00261 U 4 C U                C 2009260 
+HT-000868 O HT    HAITI            19 44 01.39N 072 10 44.33W TOWER              1 00252 00276 U 3 D U                C 2019109 
+HT-000869 O HT    HAITI            19 44 03.94N 072 10 42.87W TOWER              1 00281 00297 U 3 D U                C 2019098 
+HT-000891 O HT    HAITI            18 35 01.00N 072 18 24.00W TOWER              1 00205 00292 U 9 I U                C 2006323 
+HT-000892 O HT    HAITI            18 33 40.87N 072 19 58.74W TOWER              1 00247 00301 U 2 D U                C 2019002 
+HT-000899 O HT    HAITI            18 34 07.00N 072 17 01.00W TOWER              1 00201 00370 U 5 D U                C 2008318 
+HT-000900 O HT    HAITI            18 35 04.00N 072 18 25.00W TOWER              1 00245 00300 U 4 D U                C 2006057 
+HT-000901 O HT    HAITI            18 35 05.00N 072 18 28.00W TOWER              1 00240 00308 U 2 D U                C 2011195 
+HT-000920 O HT    HAITI            18 32 05.00N 072 18 30.00W TOWER              1 00220 00879 U 2 D U                C 2011195 
+HT-000921 O HT    HAITI            18 31 59.00N 072 16 43.00W TOWER              1 00180 00915 U 2 D U                C 2011195 
+HT-000922 O HT    HAITI            19 06 38.00N 072 42 05.00W TOWER              1 00187 00191 U 9 I U                A 2005163 
+HT-000923 O HT    HAITI            18 30 35.00N 072 37 37.00W TOWER              1 00221 00293 U 2 D U                C 2010109 
+HT-000926 O HT    HAITI            18 32 33.83N 072 20 23.86W TOWER              1 00180 00210 U 5 F U                C 2019011 
+HT-001008 O HT    HAITI            18 50 04.00N 072 51 49.00W TOWER              1 00224 00286 U 9 D U                C 2008318 
+HT-020001 O HT    HAITI            18 43 48.00N 072 24 13.00W TOWER              1 00215 00606 U 2 D U                A 2011056 
+HT-020002 O HT    HAITI            18 33 58.00N 072 14 46.00W TOWER              1 00210 00435 U 2 D U                A 2011056 
+HT-020003 O HT    HAITI            18 30 22.00N 072 18 58.00W TOWER              1 00180 03275 U 2 D U                A 2011056 
+HT-020004 O HT    HAITI            18 42 47.00N 072 23 10.00W STACK              1 00200 00259 U 3 D U                A 2011056 
+HT-020005 O HT    HAITI            18 41 15.00N 072 19 48.00W TOWER              1 00185 00398 U 4 D U                A 2011056 
+HT-020006 O HT    HAITI            18 33 31.00N 072 21 00.00W CRANE              1 00180 00197 U 2 D U                A 2011056 
+HT-020007 O HT    HAITI            18 33 23.00N 072 21 01.00W CRANE              1 00180 00192 U 2 D U                A 2011056 
+HT-020008 O HT    HAITI            18 36 00.87N 072 17 03.75W TOWER              1 00200 00307 U 2 D U                C 2019137 
+HT-020009 O HT    HAITI            18 30 04.00N 072 19 55.00W TOWER              1 00220 03579 U 2 D U                C 2019004 
+HT-020010 O HT    HAITI            18 30 24.67N 072 18 56.80W TOWER              1 00180 03309 U 2 D U                C 2019002 
+HT-020011 O HT    HAITI            18 42 54.00N 072 23 42.00W TOWER              1 00235 00257 U 3 D U                A 2011056 
+HT-020012 O HT    HAITI            18 39 40.00N 072 17 46.00W TOWER              1 00210 00264 U 2 D U                A 2011056 
+HT-020013 O HT    HAITI            18 34 18.00N 072 18 25.00W TOWER              1 00185 00290 U 2 D U                A 2011056 
+HT-020014 O HT    HAITI            18 32 59.00N 072 18 59.00W TOWER              1 00250 00576 U 2 D P                C 2019029 
+HT-020015 O HT    HAITI            18 31 44.00N 072 18 30.00W TOWER              1 00180 01038 U 2 D U                C 2019004 
+HT-020016 O HT    HAITI            18 33 24.00N 072 21 00.00W CRANE              1 00180 00197 U 2 D U                A 2011056 
+HT-020017 O HT    HAITI            18 30 22.57N 072 18 57.28W TOWER              1 00230 03340 U 2 D U                C 2019004 
+HT-020018 O HT    HAITI            18 31 16.00N 072 15 22.00W TOWER              1 00210 00982 U 2 D U                A 2011056 
+HT-020019 O HT    HAITI            18 30 26.47N 072 19 00.66W TOWER              1 00195 03307 U 2 D U                C 2019004 
+HT-020020 O HT    HAITI            18 31 59.00N 072 19 24.00W TOWER              1 00190 00521 U 2 D P                C 2019029 
+HT-020634 O HT    HAITI            18 39 25.29N 072 17 11.88W TOWER              1 00192 00264 U 2 D U                A 2017334 
+HT-020635 O HT    HAITI            18 32 38.27N 072 24 07.69W TOWER              1 00190 00281 U 2 D U                A 2017334 
+HT-020636 O HT    HAITI            18 39 49.79N 072 11 02.51W TOWER              1 00183 00658 U 2 D U                A 2017334 
+HT-020637 O HT    HAITI            18 30 25.10N 072 18 57.81W TOWER              1 00285 03412 U 2 D U                A 2017335 
+HT-020638 O HT    HAITI            18 33 05.59N 072 20 43.77W TOWER              1 00196 00218 U 2 D U                A 2017338 
+HT-020639 O HT    HAITI            19 46 31.41N 072 12 01.72W TOWER              1 00262 01232 U 3 D U                A 2018197 
+HT-020640 O HT    HAITI            18 35 45.66N 072 20 20.28W TOWER              1 00300 00308 U 2 D U                A 2018295 
+HT-020641 O HT    HAITI            18 30 22.32N 072 18 56.66W TOWER              1 00220 03327 U 2 D U                A 2019004 
+HT-020642 O HT    HAITI            18 34 00.50N 072 10 44.46W TOWER              1 00200 00397 U 3 D U                A 2019004 
+HT-020643 O HT    HAITI            18 32 31.32N 072 28 18.94W TOWER              1 00200 00464 U 3 D U                A 2019011 
+HT-020644 O HT    HAITI            18 30 23.57N 072 18 58.46W TOWER              1 00240 03359 U 2 D U                A 2019011 
+HT-020645 O HT    HAITI            18 34 31.29N 072 13 48.49W TOWER              1 00200 00429 U 2 D U                A 2019011 
+HT-020646 O HT    HAITI            18 33 24.48N 072 20 53.20W CRANE              1 00180 00193 U 2 D U                A 2019028 
+HT-020647 O HT    HAITI            18 30 21.33N 072 18 56.99W TOWER              1 00228 03322 U 3 D U                A 2019029 
+HT-020648 O HT    HAITI            18 30 24.03N 072 18 57.15W TOWER              1 00280 03412 U 2 D U                A 2019029 
+HT-020649 O HT    HAITI            18 29 42.10N 072 18 50.03W TOWER              1 00220 03022 U 3 D U                A 2019029 
+HT-020650 O HT    HAITI            18 30 26.00N 072 19 01.00W TOWER              1 00195 03307 U 2 D U                A 2019029 
+HT-020651 O HT    HAITI            19 31 26.67N 072 27 28.83W TOWER              1 00211 03177 U 3 F U                A 2019114 
+HT-020652 O HT    HAITI            18 13 59.07N 072 31 42.70W TOWER              1 00199 00402 U 3 D U                A 2019296 
+HT-020653 O HT    HAITI            19 50 30.96N 072 49 14.31W TOWER              1 00186 01057 U 3 D U                A 2019296 
+HT-020654 O HT    HAITI            18 32 55.14N 072 06 48.79W TOWER              1 00200 00630 U 2 D U                A 2021242 
+JM-000507 O JM    JAMAICA          17 53 54.00N 077 14 20.00W STACK              1 00245 00419 U 4 F U                C 2006197 
+JM-000508 O JM    JAMAICA          17 57 27.60N 076 53 17.60W TOWER              1 00290 00325 L 4 I U                C 2017086 
+JM-000509 O JM    JAMAICA          17 57 45.00N 076 47 29.00W BLDG               1 00220 00235 U 5 B U                C 2006211 
+JM-000511 O JM    JAMAICA          18 00 18.00N 076 47 16.00W BLDG               1 00200 00400 U 9 I U                A 1996351 
+JM-000513 O JM    JAMAICA          18 04 22.00N 076 51 10.00W TOWER              1 00250 02730 U 9 D U                C 2009075 
+JM-000517 O JM    JAMAICA          18 24 35.00N 077 52 11.00W TOWER              1 00204 02004 L 9 I U                A 1996351 
+JM-000521 O JM    JAMAICA          18 28 35.00N 077 39 12.00W TOWER              1 00400 00475 U 9 I U                A 1996351 
+JM-000794 O JM    JAMAICA          17 58 02.00N 076 44 52.00W BLDG               1 00190 00205 U 5 C U                C 2009075 
+JM-000797 O JM    JAMAICA          18 24 23.00N 077 03 24.00W TANK               1 00185 00521 U 5 C U                C 2009075 
+JM-000798 O JM    JAMAICA          17 59 54.00N 077 12 32.00W STACK              1 00185 00448 U 5 C U                C 2009075 
+JM-000947 O JM    JAMAICA          18 04 26.00N 076 52 02.00W TOWER              1 00375 02709 U 4 D U                C 2009075 
+JM-000948 O JM    JAMAICA          18 00 16.00N 076 47 18.00W BLDG               1 00185 00469 U 5 D U                C 2009075 
+JM-000958 O JM    JAMAICA          18 00 08.00N 076 47 21.00W BLDG               1 00205 00482 U 5 D U                C 2009075 
+JM-000962 O JM    JAMAICA          18 24 31.40N 077 52 08.15W TOWER              1 00315 02047 U 9 I U                C 2017128 
+JM-020001 O JM    JAMAICA          18 00 07.00N 076 47 24.00W BLDG               1 00181 00181 U 3 C U                A 2012019 
+JM-020002 O JM    JAMAICA          17 58 27.00N 076 50 35.00W TOWER              1 00239 00239 U 3 C U                A 2012019 
+JM-020003 O JM    JAMAICA          18 00 18.00N 076 47 14.00W BLDG               1 00197 00463 U 3 E U                A 2017083 
+JM-020004 O JM    JAMAICA          18 23 14.00N 077 15 43.00W TOWER              1 00279 02628 U 3 E U                A 2017096 
+JM-020005 O JM    JAMAICA          17 58 36.22N 076 49 44.66W CRANE              1 00305 00305 U 2 D U                C 2022102 
+JM-020006 O JM    JAMAICA          17 57 51.67N 076 47 24.99W BLDG               1 00190 00225 U 2 D U                C 2019004 
+JM-020007 O JM    JAMAICA          18 29 22.55N 077 47 53.72W TOWER              1 00185 01258 U 2 E U                A 2017128 
+JM-020008 O JM    JAMAICA          18 26 33.06N 077 48 49.14W TOWER              1 00200 00909 U 2 E U                A 2017128 
+JM-020009 O JM    JAMAICA          18 29 17.63N 077 52 26.42W TOWER              1 00200 01066 U 2 E U                C 2017139 
+JM-020010 O JM    JAMAICA          18 25 45.94N 077 49 56.62W TOWER              1 00200 01050 U 2 E U                A 2017132 
+JM-020012 O JM    JAMAICA          18 24 39.39N 077 52 08.92W TOWER              1 00190 01987 L 4 D U                A 2017178 
+JM-020013 O JM    JAMAICA          18 04 23.78N 076 51 41.72W TOWER              1 00200 02542 U 3 D U                A 2018064 
+JM-020014 O JM    JAMAICA          18 03 55.29N 076 45 12.62W TOWER              1 00185 02953 U 3 D U                A 2018127 
+JM-020015 O JM    JAMAICA          18 00 49.56N 076 47 57.54W TOWER              1 00213 00443 U 3 D U                A 2018152 
+JM-020016 O JM    JAMAICA          18 00 19.73N 076 47 52.43W TOWER              1 00260 00493 U 2 D U                A 2018228 
+JM-020017 O JM    JAMAICA          17 59 51.75N 076 47 48.58W TOWER              1 00186 00377 U 2 D U                A 2018228 
+JM-020018 O JM    JAMAICA          17 57 54.69N 076 47 28.41W BLDG               1 00195 00218 U 3 E U                A 2018228 
+JM-020019 O JM    JAMAICA          18 01 09.22N 076 47 56.20W TOWER              1 00205 00448 U 2 D U                A 2018235 
+JM-020020 O JM    JAMAICA          18 23 47.01N 076 55 51.50W TOWER              1 00230 01095 U 2 D U                A 2018250 
+JM-020021 O JM    JAMAICA          18 17 20.76N 077 04 41.91W TOWER              1 00180 01497 U 2 D U                A 2018250 
+JM-020022 O JM    JAMAICA          18 19 17.62N 076 57 00.75W TOWER              1 00230 01846 U 2 D U                A 2018250 
+JM-020023 O JM    JAMAICA          18 21 54.02N 076 59 28.02W TOWER              1 00180 01301 U 2 D U                A 2018261 
+JM-020024 O JM    JAMAICA          18 24 36.26N 077 04 54.31W TOWER              1 00180 00251 U 2 D U                A 2018277 
+JM-020025 O JM    JAMAICA          17 57 54.48N 076 47 26.70W BLDG               1 00195 00221 U 2 D U                A 2019028 
+JM-020026 O JM    JAMAICA          17 58 48.50N 076 50 00.00W CRANE              1 00407 00407 U 2 D U                A 2022102 
+JM-020027 O JM    JAMAICA          17 59 12.94N 076 49 58.65W CRANE              1 00224 00224 U 2 D U                A 2022103 
+JM-020028 O JM    JAMAICA          17 54 27.86N 077 32 18.16W WINDMILL           1 00235 02423 U 2 D W                A 2023221 
+JM-020045 O JM    JAMAICA          17 55 03.26N 077 31 29.27W WINDMILL           1 00245 02738 U 2 D W                A 2023081 
+KN-000562 O KN    NETH. ANTILLES   17 38 23.00N 063 14 25.00W TOWER              1 00270 03098 L 9 F U                C 2006281 
+KN-020001 O KN    ST. KITTS AND NE 17 18 46.00N 062 42 25.00W T-L TWR            1 00200 00410 L 9 E U                A 2008191 
+KN-020002 O KN    ST. KITTS AND NE 17 14 30.00N 062 37 50.00W TOWER              1 00348 01047 L 9 I U                C 2019004 
+KN-020003 O KN    SAINT KITTS AND  17 18 37.70N 062 46 03.24W TOWER              1 00181 01850 U 2 E U                C 2021243 
+KN-020005 O KN    SAINT KITTS AND  17 18 57.35N 062 41 54.79W TOWER              1 00224 00237 U 2 E U                A 2019011 
+KN-020006 O KN    SAINT KITTS AND  17 11 40.41N 062 36 10.51W TOWER              1 00182 01197 U 3 E U                A 2019014 
+KY-000867 O KY    CAYMAN ISLANDS   19 17 57.00N 081 22 26.00W TOWER              1 00285 00303 U 1 C U                C 2009075 
+KY-000914 O KY    CAYMAN ISLANDS   19 17 58.00N 081 22 24.00W TOWER              1 00235 00244 U 1 C U                C 2009075 
+KY-000929 O KY    CAYMAN ISLANDS   19 43 22.00N 079 47 50.00W TOWER              1 00320 00379 U 9 E U                A 2006190 
+KY-000973 O KY    CAYMAN ISLANDS   19 16 52.00N 081 18 02.00W TOWER              1 00275 00298 L 1 C U                C 2009075 
+KY-020001 O KY    CAYMAN ISLANDS   19 17 19.00N 081 15 57.00W TOWER              1 00285 00311 L 1 C U                A 2009075 
+KY-020002 O KY    CAYMAN ISLANDS   19 17 41.00N 081 22 33.00W CRANE              1 00200 00216 U 1 C U                A 2009075 
+KY-020003 O KY    CAYMAN ISLANDS   19 17 35.00N 081 22 40.00W CRANE              1 00215 00229 U 1 C U                A 2009075 
+KY-020004 O KY    CAYMAN ISLANDS   19 17 34.00N 081 22 43.00W CRANE              1 00250 00275 U 1 C U                A 2009075 
+KY-020005 O KY    CAYMAN ISLANDS   19 19 11.00N 081 22 36.00W CRANE              1 00225 00244 U 1 C U                A 2009075 
+KY-020006 O KY    CAYMAN ISLANDS   19 19 02.00N 081 23 05.00W CRANE              1 00200 00217 U 1 C U                A 2009085 
+KY-020007 O KY    CAYMAN ISLANDS   19 17 37.00N 081 22 45.00W TOWER              1 00200 00223 U 1 C U                A 2009085 
+KY-020008 O KY    CAYMAN ISLANDS   19 42 51.24N 079 47 27.77W TOWER              1 00216 00314 U 9 I U                A 2017341 
+KY-020009 O KY    CAYMAN ISLANDS   19 17 11.60N 081 17 58.36W TOWER              1 00287 00293 U 2 D U                A 2018211 
+LC-000001 O LC    SAINT LUCIA      14 00 15.23N 061 00 47.52W TOWER              1 00378 00683 U 3 D U                C 2018135 
+LC-000002 O LC    SAINT LUCIA      14 00 28.45N 060 56 39.20W TOWER              1 00309 01013 U 3 D U                C 2018159 
+LC-000003 O LC    SAINT LUCIA      14 03 27.36N 060 56 20.74W TOWER              1 00195 00464 U 2 D U                A 2018194 
+LC-000004 O LC    SAINT LUCIA      13 56 40.59N 060 59 36.28W TOWER              1 00180 00296 U 2 D U                A 2018211 
+MQ-000001 O MQ    MARTINIQUE       14 41 46.00N 060 59 00.00W TOWER              1 00180 01273 L 5 F U                A 2016215 
+MQ-000002 O MQ    MARTINIQUE       14 36 34.00N 061 04 40.00W T-L TWR            1 00269 00390 L 4 D U                A 2016215 
+MQ-000003 O MQ    MARTINIQUE       14 35 57.93N 061 03 34.97W CRANE              1 00289 00289 L 4 D U                A 2016215 
+MQ-000004 O MQ    MARTINIQUE       14 30 59.00N 061 04 15.00W TOWER              1 00203 01595 L 5 F U                A 2016215 
+MQ-000005 O MQ    MARTINIQUE       14 31 05.18N 061 04 01.46W TOWER              1 00186 01595 U 3 D U                A 2016215 
+MQ-000006 O MQ    MARTINIQUE       14 40 07.00N 061 09 26.28W STACK              1 00347 00421 U 3 D U                A 2016215 
+MQ-000007 O MQ    MARTINIQUE       14 40 05.62N 061 09 29.27W STACK              1 00330 00420 U 6 D U                A 2016217 
+MQ-000008 O MQ    MARTINIQUE       14 37 54.04N 061 04 14.73W BLDG               1 00185 00735 U 4 D U                A 2016217 
+MQ-000009 O MQ    MARTINIQUE       14 37 37.52N 060 59 18.86W TOWER              1 00227 00336 U 3 D U                A 2016215 
+MQ-000010 O MQ    MARTINIQUE       14 37 37.00N 060 59 33.00W TOWER              1 00197 00279 L 5 E U                A 2016215 
+MQ-000011 O MQ    MARTINIQUE       14 40 05.76N 061 09 28.18W STACK              1 00492 00597 U 3 D U                C 2018064 
+MQ-000012 O MQ    MARTINIQUE       14 40 04.49N 061 09 29.97W STACK              1 00468 00577 U 3 D U                C 2018156 
+MQ-000013 O MQ    MARTINIQUE       14 34 41.48N 060 59 31.57W TOWER              1 00357 00395 U 3 D U                C 2018152 
+MQ-000016 O MQ    MARTINIQUE       14 40 09.88N 061 09 24.93W STACK              1 00330 00398 L 6 D U                A 2016217 
+MQ-000017 O MQ    MARTINIQUE       14 37 55.19N 061 04 13.25W BLDG               1 00185 00714 U 4 D U                A 2016217 
+MQ-000018 O MQ    MARTINIQUE       14 36 23.51N 061 01 59.15W TOWER              1 00356 00380 U 3 D U                C 2016228 
+MQ-000020 O MQ    MARTINIQUE       14 37 43.00N 060 59 19.00W TOWER              1 00197 00279 L 4 D U                A 2017202 
+MQ-000021 O MQ    MARTINIQUE       14 41 52.00N 060 58 46.00W TOWER              1 00180 01273 L 4 D U                A 2017202 
+MQ-000022 O MQ    MARTINIQUE       14 37 06.00N 061 01 17.00W CRANE              1 00197 00261 L 4 D U                A 2017202 
+MQ-000023 O MQ    MARTINIQUE       14 36 01.00N 061 03 37.00W CRANE              1 00287 00294 L 4 D U                A 2017212 
+MQ-000024 O MQ    MARTINIQUE       14 37 06.00N 061 02 17.00W CRANE              1 00182 00322 L 4 D U                A 2017202 
+MQ-000025 O MQ    MARTINIQUE       14 35 49.05N 061 03 28.70W STACK              1 00200 00266 U 2 D U                A 2018239 
+MQ-000027 O MQ    MARTINIQUE       14 30 52.99N 061 04 09.96W TOWER              1 00198 01667 L 2 D P                A 2022061 
+MS-000559 O MS    MONTSERRAT       16 41 00.00N 062 11 00.00W TOWER              1 00300 00320 U 9 I U                A 1997041 
+MS-000560 O MS    MONTSERRAT       16 43 00.00N 062 12 50.00W TOWER              1 00200 00225 U 9 I U                A 1997041 
+MS-000664 O MS    MONTSERRAT       16 40 39.00N 062 11 15.00W TOWER              1 00235 00255 U 9 I U                A 1997287 
+MS-000665 O MS    MONTSERRAT       16 40 41.00N 062 11 16.00W TOWER              1 00235 00255 U 4 F U                C 2006190 
+MS-000851 O MS    MONTSERRAT       16 42 30.00N 062 10 54.00W TOWER              1 00180 03179 U 4 D U                C 2006232 
+TC-000552 O TC    TURKS/CAICOS I.  21 48 54.00N 071 43 43.00W TOWER              1 00207 00279 L 9 I U                C 1997307 
+TC-000569 O TC    TURKS & CAICOS   21 27 55.00N 071 08 51.00W TOWER              1 00205 00215 U 9 I U                A 1997041 
+TC-000805 O TC    TURKS-CAICOS     21 47 41.68N 072 09 40.51W TOWER              1 00200 00245 L 2 D U                C 2017093 
+TC-000909 O TC    TURKS/CAICOS     21 46 10.00N 072 15 03.00W TOWER              1 00183 00253 U 9 I U                A 2001169 
+TC-020001 O TC    TURKS AND CAICOS 21 55 42.60N 071 59 27.94W TOWER              1 00250 00297 U 2 D U                A 2017334 
+TC-020002 O TC    TURKS AND CAICOS 21 47 30.00N 072 09 42.00W TOWER              1 00207 00263 L 1 D U                A 2017338 
+VG-000563 O VG    VIRGIN ISLANDS   18 25 24.00N 064 38 46.00W TOWER              1 00215 01636 U 9 I U                C 2003257 
+VI-000003 O VI    CHRISTIANSTED    17 45 17.00N 064 41 38.00W TOWER              1 00306 00343 R 2 D M                A 1983314 
+VI-000005 O VI    CHARLOTTE AMALIE 18 19 47.99N 064 54 39.90W TRAMWAY            1 00024 00997 U 1 B U                C 2021088 
+VI-000006 O VI    ST CROIX         17 43 11.00N 064 45 55.00W TOWER              1 00100 00245 U 9 I U                C 1974115 
+VI-000007 O VI    CHARLOTTE AMALI  18 19 56.00N 064 57 16.00W TOWER              1 00161 00243 R 1 A M 0074_SJ00099OE C 1997279 
+VI-000008 O VI    ST CROIX         17 42 43.00N 064 45 47.00W STACK              1 00195 00225 R 1 A U                C 1993305 
+VI-000009 O VI    ST CROIX         17 42 35.00N 064 45 47.00W TOWER              1 00200 00231 R 9 I M                C 1974115 
+VI-000010 O VI    CHRISTIANSTED    17 42 58.00N 064 45 02.00W PLANT              1 00203 00246 R 9 I M                C 1974115 
+VI-000011 O VI    CHARLOTTE AMALIE 18 21 11.01N 064 58 32.80W TOWER              1 00106 01475 S 1 A N 0086_SJ00013OE C 2021106 
+VI-000012 O VI    FREDERIKSTED     17 42 18.00N 064 48 19.00W BLDG               1 00020 00080 N 9 I N                C 1974115 
+VI-000013 O VI    ST CROIX         17 42 29.00N 064 45 35.00W STACK              1 00195 00216 U 9 I U                C 1974115 
+VI-000014 O VI    CHARLOTTE AMALIE 18 21 20.00N 064 56 49.00W TOWER              1 00115 01593 R 1 A P 2020ASO06094OE C 2024023 
+VI-000015 O VI    CHRISTIANSTED    17 42 50.00N 064 45 41.00W STACK              1 00195 00226 U 4 D U 0073_SJ00066OE C 2014124 
+VI-000016 O VI    CHRISTIANSTED    17 42 42.00N 064 45 54.00W STACK              1 00195 00231 U 4 D U 0073_SJ00011OE C 2014124 
+VI-000019 O VI    CHRISTIANSTED    17 42 49.00N 064 45 59.00W REFINERY           1 00218 00258 R 1 A N 0074_SJ00078OE C 1993305 
+VI-000020 O VI    CHRISTIANSTED    17 45 15.00N 064 47 57.00W TOWER              1 00265 01321 R 5 E M 0080_SJ00077OE A 1984172 
+VI-000023 O VI    CHARLOTTE AMALI  18 19 51.00N 064 57 42.00W STACK              1 00170 00181 L 1 B U 0074_SJ00015OE C 1997300 
+VI-000024 U VI    CHRISTIANSTED    17 45 23.00N 064 47 57.00W TOWER              1 00100 01190 U 4 D U 0077_SJ00046OE C 2014124 
+VI-000027 O VI    ST. THOMAS       18 20 08.99N 064 58 12.38W POLE               1 00050 00073 N 1 A N 0079_SJ00109OE C 2004186 
+VI-000029 U VI    CHRISTIANSTED    17 42 39.00N 064 46 19.00W STACK              1 00165 00202 U 4 D U 0081_SJ00088OE C 2014124 
+VI-000032 O VI    CHRISTIANSTED    17 42 24.00N 064 46 22.00W ELEVATOR           3 00203 00217 M 1 A N 0081_SJ00087OE C 1993305 
+VI-000035 U VI    ST CROIX         17 44 24.00N 064 41 49.00W TOWER              1 00150 00480 U     U                A 1984116 
+VI-000036 O VI    ST. THOMAS       18 20 20.84N 064 58 29.18W TOWER              1 00058 00100 R 1 A N 0082_SJ00040OE C 2004186 
+VI-000037 O VI    CHRISTIANSTED    17 42 40.00N 064 45 58.00W REFINERY           1 00196 00231 R 1 A N 0083_SJ00036OE C 1986294 
+VI-000038 O VI    CHARLOTTE AMALIE 18 21 24.72N 064 58 12.22W TOWER              1 00250 01732 D 2 C N 2014ASO10698OE C 2016153 
+VI-000041 O VI    CHRISTIANSTED    17 42 41.00N 064 46 20.00W STACK              1 00174 00214 R 1 A N 0080_SJ00100OE C 1986294 
+VI-000042 O VI    CHRISTIANSTED    17 42 24.00N 064 45 47.00W STACK              1 00201 00220 R 1 A N                C 1993305 
+VI-000045 O VI    CHRISTIANSTED    17 43 48.00N 064 47 41.00W STACK              1 00190 00281 R 1 A N                C 1993305 
+VI-000049 O VI    ST CROIX         17 42 29.00N 064 44 50.00W TOWER              3 00207 00226 U 3 C U                A 1989303 
+VI-000050 O VI    CHRISTIANSTED    17 43 45.70N 064 41 15.70W TOWER              1 00191 00941 N 2 C N 2010ASO01019OE C 2015282 
+VI-000051 O VI    FREDERIKSTED     17 43 20.00N 064 53 03.00W TOWER              1 00198 00208 N 5 D N                C 1991280 
+VI-000053 O VI    CHRISTIANSTED    17 42 30.00N 064 45 38.00W STACK              1 00200 00217 R 1 A N                C 1993305 
+VI-000056 O VI    ST THOMAS        18 20 56.00N 064 54 15.00W TOWER              1 00220 01020 R 5 D M 1994ASO00268OE C 1992287 
+VI-000057 U VI    ST THOMAS        18 18 50.00N 064 53 01.00W TOWER              1 00190 00195 U     U                A 1990197 
+VI-000059 O VI    CHRISTIANSTED    17 42 38.00N 064 44 45.00W TOWER              1 00203 00241 R 5 E M 1992ASO00684OE C 1994129 
+VI-000060 O VI    CHRISTIANSTED    17 42 46.00N 064 44 45.00W STACK              2 00220 00258 R 5 E M 1992ASO00682OE C 1994129 
+VI-000062 O VI    CHRISTIANSTED    17 42 27.00N 064 44 51.00W STACK              1 00228 00261 R 5 E M 1992ASO00678OE A 1994129 
+VI-000064 O VI    CHRISTIANSTED    17 42 42.00N 064 44 55.00W STACK              2 00230 00268 R 5 E N 1992ASO00680OE C 1994129 
+VI-000070 O VI    CHARLOTTE AMALI  18 21 16.00N 064 56 41.00W TOWER              1 00078 01583 D 5 E N 2000ASO02683OE C 2007071 
+VI-000071 O VI    FREDERIKSTED     17 41 43.02N 064 52 56.85W TOWER              1 00243 00297 D 1 A N 2014ASO04968OE C 2015231 
+VI-000072 O VI    CHRISTIANSTED    17 42 23.00N 064 47 38.00W TOWER              1 00182 00242 U 1 A U                A 1996218 
+VI-000626 O VI    CHRISTIANSTED    17 41 57.00N 064 47 51.00W BLDG-TWR           1 00063 00083 U 1 A N                A 1997069 
+VI-000627 O VI    FREDERIKSTED     17 42 33.00N 064 49 12.00W POLE               1 00041 00301 U 1 A U                A 1997076 
+VI-000628 O VI    CHRISTIANSTED    17 42 25.00N 064 47 47.00W TOWER              1 00193 00253 L 1 A M                A 1997069 
+VI-000629 O VI    CHARLOTTEMALIE   18 20 04.00N 064 56 31.00W TOWER              1 00188 00298 R 5 E M 1995ASO03284OE C 1997139 
+VI-000894 U VI    CHRISTIANSTED    17 43 04.00N 064 44 57.00W TOWER              1 00196 00238 N 4 D N 2000ASO06013OE C 2014124 
+VI-000895 U VI    FREDERIKSTED VI  17 43 04.00N 064 47 44.00W TOWER              1 00100 00221 N 4 D N 1998ASO03071OE C 2014124 
+VI-000911 O VI    CHARLOTTE AMAL.  18 20 50.00N 065 01 33.00W TOWER              1 00040 00650 L 1 A U                A 2001274 
+VI-000912 U VI    CHARLOTTE AMALI  18 21 24.00N 064 58 19.00W TOWER              1 00160 01680 N 4 D N 1999ASO00244OE C 2014124 
+VI-000913 U VI    CHRISTIANSTED    17 42 14.00N 064 44 33.00W TOWER              1 00338 00367 R 4 D M 2001ASO08684OE C 2014124 
+VI-000915 U VI    CHARLOTTE AM VI  18 21 15.00N 064 56 39.00W TOWER              1 00199 01669 D 4 D N 2001ASO02420OE C 2014124 
+VI-000917 O VI    FREDERIKSTED     17 42 06.56N 064 49 14.75W TOWER              1 00050 00140 U 1 A U                A 2004081 
+VI-000918 O VI    CHRISTIANSTED    17 44 03.40N 064 42 00.81W TOWER              1 00150 00970 D 5 E N 2004ASO05298OE C 2013088 
+VI-000919 U VI    CHARLOTTEAMALIE  18 21 27.84N 064 58 17.43W TOWER              1 00245 01690 D 4 D N 2002ASO05614OE C 2014124 
+VI-000927 O VI    CHRISTIANSTED    17 41 55.89N 064 48 13.93W CTRL TWR           1 00103 00141 R 5 E M                C 2006093 
+VI-000928 O VI    CHARLOTTE AMALIE 18 21 20.80N 064 56 51.50W TOWER              1 00256 01718 D 4 D N 2018ASO26261OE C 2019064 
+VI-001009 O VI    FREDERIKS HAAB   17 43 10.30N 064 51 23.00W TOWER              1 00136 00956 N 2 C N 2015ASO19952OE C 2016117 
+VI-006001 U VI    ST CROIX         17 42 04.00N 064 44 57.00W TOWER              1 00145 00160 U     U                C 1976174 
+VI-006003 U VI    ST CROIX         17 42 18.00N 064 45 04.00W TOWER              1 00175 00194 U     U                C 1976174 
+VI-006005 U VI    CHRISTIANSTED    17 42 43.00N 064 44 59.00W TOWER              1 00113 00149 U     U                C 1976174 
+VI-006006 U VI    CHRISTIANSTED    17 42 44.00N 064 45 57.00W TOWER              1 00109 00145 U     U                C 1976174 
+VI-006007 U VI    ST CROIX         17 43 10.00N 064 51 19.00W TOWER              1 00110 00810 U     U                C 1976174 
+VI-006008 O VI    ST. THOMAS       18 20 27.38N 064 56 22.02W BLDG-TWR           1 00107 00117 N 1 A N 2011ASO01548OE C 2018046 
+VI-020001 U VI    FREDERIKSTED     17 44 41.90N 064 43 37.00W TOWER              1 00107 00617 N 4 D N 2008ASO02930OE C 2014124 
+VI-020002 O VI    CHARLOTTE AMALIE 18 20 40.60N 065 01 32.00W TOWER              1 00092 00582 D 2 C N 2015ASO16097OE C 2016113 
+VI-020003 O VI    CRUX BAY         18 20 08.30N 064 43 33.70W TOWER              1 00191 01440 N 5 E N 2008ASO05352OE A 2009233 
+VI-020004 U VI    FREDERIKSTED     17 42 44.56N 064 49 12.58W TOWER              1 00190 00351 R 4 D P 2009ASO06332OE C 2014124 
+VI-020005 U VI    CHRISTIANSTED    17 45 17.70N 064 47 57.80W TOWER              1 00070 01139 N 4 D N 2010ASO01955OE C 2014124 
+VI-020006 O VI    CHARLOTTE AMALIE 18 20 32.70N 064 57 38.00W TOWER              1 00060 00388 D 2 C N 2008ASO03088OE C 2019291 
+VI-020007 O VI    CHRISTIANSTED    17 42 13.23N 064 49 13.80W BLDG               1 00017 00118 N 5 E N 2011ASO01693OE C 2016293 
+VI-020008 O VI    CHRISTIANSTED    17 42 13.52N 064 49 11.18W BLDG               1 00022 00122 N 5 E N 2011ASO01694OE C 2016293 
+VI-020009 O VI    CHARLOTTE AMALIE 18 20 13.03N 064 57 29.21W T-L TWR            1 00017 00090 N 5 E N 2011ASO07095OE C 2016293 
+VI-020010 O VI    FREDERIKSTED     17 42 36.66N 064 49 10.50W TOWER              1 00110 00390 R 4 D P 2022ASO00658OE C 2022349 
+VI-020011 O VI    CHARLOTTE AMALIE 18 20 33.73N 064 58 25.12W BLDG               1 00053 00213 R 5 E N 2011ASO07140OE A 2012272 
+VI-020012 O VI    CHARLOTTE AMALIE 18 21 24.66N 064 58 16.71W TOWER              1 00192 01730 D 2 C N 2017ASO22333OE C 2018249 
+VI-020013 O VI    CRUZ BAY         18 22 26.20N 064 55 43.10W TOWER              1 00029 00274 N 2 C N 2010ASO01020OE A 2015282 
+VI-020014 O VI    ST. THOMAS       18 19 31.90N 064 51 46.70W TOWER              1 00117 00492 N 2 C N 2010ASO01016OE A 2015282 
+VI-020015 O VI    CHARLOTTE AMALIE 18 20 40.30N 064 55 17.20W TOWER              1 00114 00554 N 2 C N 2015ASO17494OE C 2016117 
+VI-020016 O VI    SPANISHTOWN      17 43 12.52N 064 46 16.53W TOWER              1 00041 00201 N 2 C N 2016ASO28140OE C 2016347 
+VI-020017 O VI    CHRISTIANSTED    17 44 40.99N 064 43 36.72W TOWER              1 00195 00689 N 2 C N 2014ASO03853OE A 2015321 
+VI-020018 O VI    CHARLOTTE AMALIE 18 20 56.10N 064 54 05.50W TOWER              1 00199 01039 N 2 C N 2010ASO01017OE A 2016063 
+VI-020019 O VI    KINGS QUARTER    17 45 13.38N 064 47 54.10W TOWER              1 00156 01157 N 2 C N 2015ASO03008OE A 2016174 
+VI-020020 O VI    CRUZ BAY         18 21 17.50N 064 57 59.10W TOWER              1 00036 01434 N 5 E N 2016ASO12492OE A 2016292 
+VI-020191 U VI    FREDERICKSTED    17 41 56.99N 064 49 32.51W BLDG               1 00035 00102 N 4 D N 2010ASO01833OE A 2018024 
+VI-020192 U VI    CHRISTIANSTED    17 42 14.25N 064 49 14.66W BLDG               1 00026 00128 N 4 D N 2011ASO01695OE A 2018024 
+VI-020193 U VI    CHRISTIANSTED    17 42 14.87N 064 49 09.94W BLDG               1 00026 00131 N 4 D N 2011ASO01698OE A 2018024 
+VI-020194 U VI    CHRISTIANSTED    17 42 15.16N 064 49 13.95W BLDG               1 00026 00134 N 4 D N 2011ASO01701OE A 2018024 
+VI-020195 U VI    CHRISTIANSTED    17 42 17.44N 064 49 13.44W BLDG               1 00026 00139 N 4 D N 2011ASO01704OE A 2018024 
+VI-020196 U VI    CHRISTIANSTED    17 42 15.51N 064 49 12.00W BLDG               1 00017 00125 N 4 D N 2011ASO01707OE A 2018025 
+VI-020197 U VI    CHRISTIANSTED    17 42 14.72N 064 49 13.11W BLDG               1 00026 00130 N 4 D N 2011ASO01696OE A 2018024 
+VI-020198 U VI    CHRISTIANSTED    17 42 15.06N 064 49 11.22W BLDG               1 00026 00131 N 4 D N 2011ASO01697OE A 2018024 
+VI-020199 U VI    CHRISTIANSTED    17 42 15.99N 064 49 11.53W BLDG               1 00026 00135 N 4 D N 2011ASO01700OE A 2018024 
+VI-020200 U VI    CHRISTIANSTED    17 42 16.54N 064 49 10.60W BLDG               1 00026 00137 N 4 D N 2011ASO01699OE A 2018024 
+VI-020201 U VI    CHRISTIANSTED    17 42 17.50N 064 49 14.38W BLDG               1 00026 00138 N 4 D N 2011ASO01703OE A 2018024 
+VI-020202 U VI    CHRISTIANSTED    17 42 15.16N 064 49 14.42W BLDG               1 00026 00133 N 4 D N 2011ASO01702OE A 2018024 
+VI-020203 U VI    CHRISTIANSTED    17 42 17.90N 064 49 10.00W BLDG               1 00026 00141 N 4 D N 2011ASO01706OE A 2018024 
+VI-020204 U VI    CHRISTIANSTED    17 42 17.65N 064 49 11.90W BLDG               1 00026 00141 N 4 D N 2011ASO01705OE A 2018024 
+VI-020205 U VI    CHRISTIANSTED    17 42 13.94N 064 49 10.36W BLDG               1 00017 00116 N 4 D N 2011ASO01708OE A 2018025 
+VI-020206 U VI    CHRISTIANSTED    17 42 23.14N 064 49 32.64W REFINERY           1 00075 00173 N 2 C N 2011ASO03166OE A 2018030 
+VI-020207 O VI    CHARLOTTE AMALIE 18 19 47.75N 064 54 38.28W TOWER              1 00198 01173 N 1 B N 2011ASO05790OE C 2021088 
+VI-020208 U VI    CHRISTIANSTED    17 43 25.80N 064 43 43.60W POLE               1 00055 00278 N 4 D N 2011ASO05935OE A 2018027 
+VI-020211 U VI    ST CROIX         17 45 38.10N 064 50 00.50W TOWER              1 00089 00135 N 4 D N 2012ASO02816OE A 2018024 
+VI-020212 U VI    CHRISTIANSTED    17 42 14.57N 064 49 06.61W BLDG               1 00039 00137 N 2 C N 2012ASO08696OE A 2018025 
+VI-020216 U VI    CHRISTIANSTED    17 45 17.08N 064 47 57.66W TOWER              1 00193 01265 N 4 D N 2018ASO07231OE C 2018158 
+VI-020222 U VI    CHRISTIANSTED    17 44 23.35N 064 40 08.09W TOWER              1 00070 00370 N 4 D N 2015ASO04594OE A 2018024 
+VI-020223 U VI    CHRISTIANSTED    17 44 24.00N 064 40 06.00W TOWER              1 00050 00360 N 4 D N 2015ASO04595OE A 2018024 
+VI-020229 O VI    ST. THOMAS       18 20 37.31N 064 54 21.51W TOWER              1 00104 00894 N 4 D N 2018ASO04187OE A 2018291 
+VI-020230 U VI    CHARLOTTE AMALIE 18 20 24.09N 064 57 54.80W BLDG               1 00019 00040 N 4 D N 2017ASO14468OE A 2019025 
+VI-020231 U VI    ST CROIX         17 42 20.92N 064 49 03.49W BLDG               1 00024 00157 N 4 D N 2017ASO22786OE A 2019170 
+VI-020232 U VI    ST CROIX         17 42 17.22N 064 49 09.41W BLDG               1 00024 00136 N 4 D N 2017ASO22495OE A 2019171 
+VI-020233 U VI    ST CROIX         17 42 18.78N 064 49 09.90W BLDG               1 00024 00146 N 4 D N 2017ASO22497OE A 2019171 
+VI-020234 U VI    ST CROIX         17 42 17.79N 064 49 07.67W BLDG               1 00024 00136 N 4 D N 2017ASO22599OE A 2019171 
+VI-020235 U VI    ST CROIX         17 42 19.32N 064 49 08.13W BLDG               1 00024 00146 N 4 D N 2017ASO22623OE A 2019171 
+VI-020236 U VI    ST CROIX         17 42 18.04N 064 49 05.95W BLDG               1 00024 00138 N 4 D N 2017ASO22639OE A 2019171 
+VI-020237 U VI    ST CROIX         17 42 19.54N 064 49 06.55W BLDG               1 00024 00146 N 4 D N 2017ASO22768OE A 2019171 
+VI-020238 U VI    ST CROIX         17 42 18.71N 064 49 04.20W BLDG               1 00024 00138 N 4 D N 2017ASO22771OE A 2019171 
+VI-020239 U VI    ST CROIX         17 42 20.12N 064 49 04.93W BLDG               1 00024 00151 N 4 D N 2017ASO22784OE A 2019171 
+VI-020240 U VI    ST CROIX         17 42 17.17N 064 49 01.53W BLDG               1 00014 00115 N 4 D N 2017ASO22794OE A 2019259 
+VI-020241 U VI    CHRISTIANSTED    17 44 52.33N 064 45 49.88W TOWER              1 00090 00466 N 4 D N 2019ASO19605OE A 2019270 
+VI-020242 U VI    ST CROIX         17 42 18.40N 064 49 01.33W BLDG               1 00024 00134 N 4 D N 2017ASO22790OE A 2019276 
+VI-020243 U VI    ST CROIX         17 42 19.76N 064 49 02.01W BLDG               1 00024 00143 N 4 D N 2017ASO22788OE A 2020080 
+VI-020246 U VI    ST. THOMAS       18 20 34.10N 064 54 43.70W BLDG               1 00049 00220 N 4 D N 2022ASO26242OE A 2022347 

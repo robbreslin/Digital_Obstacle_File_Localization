@@ -1,0 +1,86 @@
+  CURRENCY DATE = 02/18/24
+                                     LATITUDE    LONGITUDE     OBSTACLE            AGL   AMSL LT ACC MAR FAA         ACTION
+OAS#      V CO ST CITY            DEG MIN SEC   DEG MIN SEC   TYPE                 HT    HT     H V IND STUDY           JDATE
+-------------------------------------------------------------------------------------------------------------------------------
+BS-000001 O BS    BAHAMAS          26 36 54.00N 078 19 24.00W TOWER              1 00400 00425 L 4 D P                C 2023125 
+BS-000002 O BS    BAHAMAS          26 42 39.00N 078 09 31.00W TOWER              1 00280 00291 L 6 E U                C 2023200 
+BS-000004 O BS    ROUND  BAHAMAS   26 39 00.00N 078 56 00.00W TOWER              1 00280 00290 U 9 A M                C 2006351 
+BS-000006 O BS    MARSH HARBOUR    26 31 44.00N 077 03 54.00W TOWER              1 00220 00230 L 4 D M                C 2006351 
+BS-000011 O BS    NASSAU           25 00 11.00N 077 21 27.00W TOWER              2 00205 00230 R 9 F M                C 2006351 
+BS-000013 O BS    WESTEND          26 41 00.00N 078 59 04.00W TANK               1 00160 00160 U 9 I U                A 1979061 
+BS-000015 O BS    NASSAU           25 03 41.00N 077 21 03.00W BLDG               1 00075 00080 S 9 I N                C 1993067 
+BS-000018 O BS    BAHAMAS          26 32 30.66N 078 39 58.73W TOWER              1 00320 00353 R 2 D P                C 2023180 
+BS-000019 U BS    COAKLEY TOWN     24 40 30.00N 077 46 00.00W TOWER              1 00155 00160 U     U                A 1981167 
+BS-000031 O BS    LONG ISLAND      23 10 00.00N 075 09 00.00W TOWER              1 00220 00225 U 9 I U                A 1988214 
+BS-000036 O BS    ANDROS ISL BA    24 42 10.68N 077 45 49.41W TOWER              1 00235 00265 U 2 D U                C 2021133 
+BS-000037 O BS    GREAT ABACO IS   25 51 37.00N 077 11 05.00W BLDG               1 00200 00225 U 9 I N                C 1989345 
+BS-000038 O BS    FREEPORT  BA     26 30 45.00N 078 45 15.00W STACK              1 00351 00371 U 2 I U                C 2009222 
+BS-000039 O BS    FREEPORT         26 32 17.00N 078 41 33.00W TOWER              1 00250 00280 U 6 D U                C 2018225 
+BS-000040 O BS    HIGH ROCKS       26 37 29.00N 078 17 57.00W TOWER              1 00150 00175 U 9 I U                A 1992216 
+BS-000043 O BS    N.ELEUTHERA  BA  25 27 09.90N 076 42 23.00W TOWER              1 00250 00270 U 5 E U                C 2017128 
+BS-000044 O BS    N. ELEUTHERA BA  25 21 21.83N 076 29 14.65W TOWER              1 00270 00304 U 4 E U                C 2017096 
+BS-000047 O BS    BAHAMAS          23 12 45.00N 075 06 00.00W TOWER              1 00220 00225 U 9 I U                A 1996351 
+BS-000052 O BS    BAHAMAS          26 31 00.00N 078 46 26.00W TOWER              1 00205 00208 L 4 D U                C 2006351 
+BS-000053 O BS    BAHAMAS          25 01 42.00N 077 24 14.00W TOWER              1 00205 00218 U 1 D U                C 2018277 
+BS-000054 O BS    BAHAMAS          25 02 25.36N 077 22 09.71W TOWER              1 00363 00461 U 1 C U                C 2017096 
+BS-000055 O BS    BAHAMAS          26 31 27.00N 078 46 11.00W CRANE              3 00364 00367 U 9 I U                C 2002365 
+BS-000056 O BS    BAHAMAS          26 31 53.00N 078 45 47.00W CRANE              1 00357 00367 U 9 D U                C 2006351 
+BS-000058 O BS    BAHAMAS          26 32 49.00N 078 39 49.00W TOWER              1 00198 00224 U 9 D U                C 2006351 
+BS-000059 O BS    BAHAMAS          26 32 29.00N 078 42 02.00W TOWER              1 00246 00265 U 1 A U                C 2018233 
+BS-000062 O BS    BAHAMAS          25 02 34.00N 077 20 33.00W TOWER              1 00202 00251 U 9 I U                C 2003285 
+BS-000066 O BS    BAHAMAS          27 15 36.00N 078 23 42.00W TOWER              1 00249 00305 L 9 I U                C 2011350 
+BS-000067 O BS    BAHAMAS          26 31 47.87N 078 41 46.37W TOWER              1 00214 00227 U 1 A U                C 2018204 
+BS-000068 O BS    BAHAMAS          26 30 40.00N 078 45 11.00W PLANT              1 00195 00205 U 4 D U                C 2006351 
+BS-000069 O BS    BAHAMAS          25 02 44.44N 077 19 06.22W TOWER              1 00235 00261 U 4 D U                C 2023179 
+BS-000072 O BS    BAHAMAS          25 02 45.00N 077 19 04.00W TOWER              2 00185 00195 U 5 D U                C 2006351 
+BS-000075 O BS    BAHAMAS          26 18 51.00N 077 34 28.00W TOWER              1 00180 00195 U 5 D U                C 2006351 
+BS-000076 O BS    BAHAMAS          26 32 35.98N 078 39 58.23W TOWER              1 00294 00322 U 1 A U                C 2018235 
+BS-000077 O BS    BAHAMAS          25 00 13.49N 077 32 18.22W STACK              1 00223 00242 L 2 D U                C 2019239 
+BS-000078 O BS    BAHAMAS          25 04 41.55N 077 26 00.00W TOWER              1 00203 00212 U 2 D U                C 2018276 
+BS-000079 O BS    BAHAMAS          25 00 14.29N 077 21 01.65W TOWER              1 00226 00240 U 2 D U                C 2019004 
+BS-000080 O BS    BAHAMAS          26 32 38.09N 078 49 01.28W TOWER              1 00199 00212 U 2 D P                C 2019029 
+BS-020001 O BS    BIMINI           25 43 50.50N 079 17 44.82W TOWER              1 00165 00204 U 2 D U                A 2010075 
+BS-020002 O BS    BIMINI           25 43 49.64N 079 17 41.61W TOWER              1 00150 00183 U 2 D U                A 2010075 
+BS-020003 O BS    BAHAMAS          26 32 36.00N 078 40 02.00W TOWER              1 00296 00322 U 1 D U                C 2018235 
+BS-020004 O BS    BAHAMAS          26 31 37.00N 078 45 22.00W CRANE              1 00357 00364 U 9 D U                A 2011319 
+BS-020005 O BS    BAHAMAS          25 05 00.00N 077 22 00.00W TOWER              1 00230 00240 U 9 I U                C 2018277 
+BS-020007 O BS    BAHAMAS          25 05 02.00N 077 19 25.00W BLDG               1 00221 00237 U 3 D U                A 2012019 
+BS-020010 O BS    BAHAMAS          25 05 01.44N 077 19 22.62W BLDG               1 00250 00308 U 3 D U                C 2019010 
+BS-020011 O BS    BAHAMAS          26 31 40.40N 078 38 44.10W TOWER              1 00181 00197 L 4 D U                A 2017082 
+BS-020012 O BS    BAHAMAS          26 32 33.12N 077 03 24.19W TOWER              1 00264 00271 U 4 D U                A 2017082 
+BS-020013 O BS    BAHAMAS          23 39 06.60N 074 50 13.36W TOWER              1 00269 00290 U 4 D U                A 2017083 
+BS-020014 O BS    BAHAMAS          23 39 05.76N 074 50 13.53W TOWER              1 00193 00216 U 4 I U                C 2017139 
+BS-020015 O BS    BAHAMAS          26 31 34.91N 078 46 02.96W CRANE              1 00338 00345 L 4 D U                A 2017083 
+BS-020016 O BS    BAHAHAS          26 31 51.38N 078 45 08.75W TOWER              1 00368 00391 U 4 I U                A 2017090 
+BS-020017 O BS    BAHAMAS          26 31 48.57N 078 45 49.51W CRANE              1 00238 00248 L 4 D U                A 2017096 
+BS-020018 O BS    BAHAMAS          22 22 05.25N 072 58 03.51W TOWER              1 00193 00201 U 3 E U                A 2017097 
+BS-020019 O BS    BAHAMAS          22 45 56.60N 074 12 36.34W TOWER              1 00214 00296 U 4 D U                A 2017108 
+BS-020020 O BS    BAHAMAS          26 31 52.28N 078 45 46.30W CRANE              1 00427 00437 L 4 E U                A 2017108 
+BS-020021 O BS    BAHAMAS          26 31 42.97N 078 45 22.75W CRANE              1 00249 00256 U 4 D U                A 2017110 
+BS-020022 O BS    BAHAMAS          26 31 40.57N 078 45 22.63W CRANE              1 00312 00319 L 4 D U                A 2017110 
+BS-020023 O BS    BAHAMAS          26 31 37.86N 078 46 00.00W CRANE              1 00339 00346 L 4 D U                C 2018232 
+BS-020024 O BS    BAHAMAS          26 31 57.81N 078 45 08.03W TOWER              1 00249 00278 U 4 I U                A 2017111 
+BS-020025 O BS    BAHAMAS          26 31 02.22N 078 46 24.79W TOWER              1 00185 00207 L 2 D P                C 2019010 
+BS-020026 O BS    BAHAMAS          26 32 32.10N 077 04 23.56W TOWER              1 00249 00253 U 4 D U                A 2017283 
+BS-020027 O BS    BAHAMAS          24 57 46.83N 076 11 01.09W TOWER              1 00226 00254 U 2 E U                C 2019081 
+BS-020028 O BS    BAHAMAS          24 46 37.04N 076 12 55.69W TOWER              1 00280 00327 U 2 E U                C 2019081 
+BS-020029 O BS    BAHAMAS          25 27 02.63N 076 42 12.59W TOWER              1 00250 00268 U 2 E U                A 2017304 
+BS-020030 O BS    BAHAMAS          25 30 01.00N 076 40 06.00W TOWER              1 00225 00244 L 1 D U                A 2017338 
+BS-020031 O BS    BAHAMAS          26 31 38.12N 078 45 27.73W CRANE              1 00303 00310 U 4 D U                A 2018204 
+BS-020032 O BS    BAHAMAS          26 31 49.07N 078 45 23.46W CRANE              1 00207 00217 U 4 D U                A 2018211 
+BS-020033 O BS    BAHAMAS          26 31 48.31N 078 45 24.34W CRANE              1 00258 00268 U 4 D U                A 2018211 
+BS-020034 O BS    BAHAMAS          26 31 50.30N 078 45 25.78W CRANE              1 00276 00286 U 4 D U                A 2018228 
+BS-020035 O BS    BAHAMAS          25 01 28.84N 077 24 06.10W TOWER              1 00340 00353 U 3 E U                A 2018276 
+BS-020036 O BS    BAHAMAS          25 02 25.40N 077 22 08.78W TOWER              1 00340 00437 U 4 D U                A 2018276 
+BS-020037 O BS    BAHAMAS          26 30 45.09N 078 45 50.90W TOWER              1 00184 00202 U 1 D U                A 2019004 
+BS-020038 O BS    BAHAMAS          25 05 05.74N 077 19 26.15W BLDG               1 00185 00216 U 3 E U                A 2019011 
+BS-020039 O BS    BAHAMAS          25 05 07.39N 077 19 41.89W BLDG               1 00233 00280 U 3 E U                A 2019011 
+BS-020040 O BS    BAHAMAS          25 05 11.25N 077 19 36.84W BLDG               1 00250 00277 U 3 E U                A 2019011 
+BS-020041 O BS    BAHAMAS          25 05 04.18N 077 19 27.72W BLDG               1 00250 00283 U 3 E U                A 2019022 
+BS-020042 O BS    BAHAMAS          25 03 18.78N 077 21 39.35W TOWER              1 00216 00232 U 2 D U                C 2021243 
+BS-020043 O BS    BAHAMAS          25 03 18.86N 077 21 34.13W TOWER              1 00199 00213 U 1 D U                A 2019029 
+BS-020044 O BS    BAHAMAS          24 42 19.42N 077 46 18.60W WINDMILL           1 00245 00274 U 1 D W                A 2019133 
+BS-020045 O BS    BAHAMAS          24 43 40.74N 077 47 07.42W TOWER              1 00260 00286 U 1 D U                A 2019135 
+BS-020046 O BS    BAHAMAS          25 00 14.94N 077 32 21.77W STACK              1 00223 00269 U 3 E U                A 2019239 
+BS-020047 O BS    BAHAMAS          26 41 45.81N 078 59 03.35W TANK               1 00200 00232 U 1 D U                A 2019301 
+BS-020048 O BS    BAHAMAS          24 37 25.05N 075 40 32.98W TOWER              1 00253 00274 U 3 E U                A 2021230 
